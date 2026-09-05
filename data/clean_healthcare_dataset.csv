@@ -1,0 +1,1001 @@
+﻿Patient_id,Name,Age,Gender,Blood_Group,Medical_condition,Doctor,Hospital,Insurance_Provider,Billing_amount,Room_Number,Admission_Type,Medication,Test_Result,Date_of_Admission,Discharge_Date
+P00001,Jessica Joyce,Unknown,Male,Unknown,Unknown,Michele Williams,Ross Llc Hospital,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,NULL,NULL
+P00002,Cheryl Williams,65,Male,B-,Migraine,Zachary Hicks,Patton-Jenkins Hospital,Medicare,12415.77,242,Emergency,Amlodipine,Normal,11/17/2024,11/20/2024
+P00003,Renee Mcdaniel,20,Male,AB-,Hypertension,Jamie Arnold,"Wright, Garcia And Deleon Hospital",Aetna,19043.65,283,Elective,Lipitor,Abnormal,7/9/2025,7/23/2025
+P00004,Christina Reynolds,69,Male,O+,Hypertension,Jordan Henderson,Figueroa Plc Hospital,Humana,40270.38,421,Urgent,Amlodipine,Abnormal,7/13/2026,7/15/2026
+P00005,Lisa Alvarado,9,Male,B-,Obesity,Monica Herrera,Wagner-King Hospital,Humana,10979.73,151,Elective,Aspirin,Abnormal,7/19/2026,8/7/2026
+P00007,Kristen Lee,82,Male,AB-,Diabetes,Anthony Rodriguez,"Brewer, Bryant And Hickman Hospital",Humana,15212.16,261,Elective,Aspirin,Normal,4/20/2025,5/3/2025
+P00008,Paul Thompson,73,Female,B-,Heart disease,Jessica Holmes,"Shields, Cochran And Adams Hospital",Blue Cross,50265.92,235,Emergency,Ibuprofen,Inconclusive,12/24/2025,12/31/2025
+P00009,Roy Torres,75,Female,O+,Arthritis,Zachary Hicks,"Turner, Riggs And Roman Hospital",Medicare,29874.26,352,Emergency,Amlodipine,Normal,10/15/2025,11/2/2025
+P00010,Lisa Morris,21,Female,A-,Migraine,Joshua Blair,White-Estes Hospital,UnitedHealthcare,8829.85,370,Elective,Lipitor,Normal,1/25/2025,1/29/2025
+P00012,Mary Campbell,23,Male,AB+,Cancer,Carla Gray,Nolan And Sons Hospital,Humana,53467.9,182,Urgent,Amlodipine,Inconclusive,7/27/2026,8/5/2026
+P00013,Anna Crane,63,Male,A-,Arthritis,Brittany Farmer,Davis Group Hospital,Aetna,33142.48,223,Urgent,Paracetamol,Normal,12/23/2025,12/24/2025
+P00014,Robert Hernandez,69,Male,B+,Heart disease,Jordan Henderson,"Garcia, Humphrey And Baker Hospital",Cigna,44973.27,370,Urgent,Penicillin,Normal,2/12/2025,2/28/2025
+P00015,Miss Patricia Gibson,89,Male,AB+,Migraine,Shane Henderson,Patton-Jenkins Hospital,Medicare,41661.95,331,Emergency,Ibuprofen,Normal,9/27/2024,10/15/2024
+P00016,Michelle Cruz,76,Male,Unknown,Diabetes,Ryan Munoz,Smith Plc Hospital,Blue Cross,18925.66,134,Emergency,Amlodipine,Abnormal,6/3/2026,6/6/2026
+P00017,Michael Stafford,36,Female,B-,Asthma,Lauren Daniels,May-Ross Hospital,UnitedHealthcare,28521.51,224,Elective,Amlodipine,Abnormal,6/13/2025,6/16/2025
+P00018,Paula Robinson,85,Female,AB-,Migraine,Crystal Robinson,"Shields, Cochran And Adams Hospital",Humana,"5,640.76",473,Emergency,Metformin,Inconclusive,5/15/2026,5/22/2026
+P00019,Julie Grant,94,Female,A-,Cancer,Matthew Foster,Campbell-Clark Hospital,Medicare,3803.39,329,Emergency,Penicillin,Normal,4/4/2026,4/8/2026
+P00020,Casey Marshall,10,Female,A-,Diabetes,Williamm Baker,"Cunningham, Stewart And Green Hospital",Aetna,25713.23,574,Emergency,Ibuprofen,Abnormal,6/26/2026,7/5/2026
+P00021,Emily Fischer,52,Male,B+,Migraine,Allison Hill,"Wright, Garcia And Deleon Hospital",Cigna,26734.03,574,Elective,Aspirin,Abnormal,9/17/2025,3/10/2025
+P00022,Stephanie Simmons,63,Male,B-,Obesity,Stephanie Ross,Smith Plc  Hospital,Medicare,36571.99,476,Urgent,Paracetamol,Inconclusive,7/14/2025,8/1/2025
+P00023,Christopher Hensley,75,Female,B+,Diabetes,Amber Kidd,Anderson-Bailey Hospital,Humana,3615.51,195,Emergency,Lipitor,Normal,6/18/2026,6/29/2026
+P00024,Sara Ramirez,73,Male,A+,Hypertension,Mark Perez,"Rivera, Johnson And Wiley Hospital",Medicare,22505.77,367,Elective,Aspirin,Normal,7/20/2025,7/28/2025
+P00025,Mr. Jeremiah Reeves,51,Male,AB+,Heart disease,Paula Moreno,"Ferrell, Jones And Lewis Hospital",Aetna,13508.38,334,Urgent,Lipitor,Normal,3/16/2026,3/27/2026
+P00026,Steven Miller,65,Female,B+,Arthritis,Gabrielle Davis,Davis Group Hospital,Cigna,29801.08,245,Emergency,Penicillin,Inconclusive,2/12/2025,2/15/2025
+P00027,Christian Lewis,84,Male,AB+,Hypertension,Derek Zuniga,Williams-Cook Hospital,Aetna,33836.44,555,Emergency,Metformin,Inconclusive,12/13/2024,12/23/2024
+P00028,John Brown,78,Male,AB-,Cancer,Nathan Maldonado,Torres-Pope Hospital,Unknown,15342.98,228,Emergency,Paracetamol,Inconclusive,6/24/2025,6/29/2025
+P00029,Randy Shah,6,Male,AB-,Asthma,Nathan Maldonado,"Garcia, Humphrey And Baker Hospital",Medicaid,45699.47,326,Urgent,Metformin,Abnormal,4/25/2026,5/9/2026
+P00030,Laura Woods,10,Male,A+,Arthritis,Amy Silva,Rasmussen Llc Hospital,Blue Cross,1027,320,Emergency,Paracetamol,Abnormal,9/8/2024,9/26/2024
+P00031,James Snow,6,Female,Unknown,Unknown,Michele Williams,Nolan-Flynn Hospital,Humana,Unknown,386,Elective,Lipitor,Inconclusive,7/15/2026,7/27/2026
+P00032,Morgan Marsh,31,Male,B+,Migraine,Daniel Wagner,Newton And Sons Hospital,Medicaid,50954.13,573,Elective,Amlodipine,Abnormal,4/27/2026,5/2/2026
+P00033,Don Tucker Md,90,Male,O+,Diabetes,Victoria Garcia,Wagner-King Hospital,Blue Cross,15040.91,518,Elective,Aspirin,Abnormal,12/6/2026,6/20/2026
+P00034,Misty Pittman,Unknown,Male,O+,Arthritis,Jeffrey Chavez,"Ferrell, Jones And Lewis Hospital",Humana,12649.33,242,Elective,Metformin,Inconclusive,12/26/2025,1/3/2026
+P00035,Ms. Susan Vargas,69,Female,A+,Hypertension,Nathan Maldonado,Newton And Sons Hospital,Medicare,"37,533.74",592,Elective,Paracetamol,Normal,6/28/2026,7/11/2026
+P00036,Jeffrey Camacho,94,Female,O+,Hypertension,Eric Carney,May-Ross Hospital,Blue Cross,24183.72,230,Emergency,Metformin,Abnormal,12/22/2025,1/11/2026
+P00037,Garrett Gibson,69,Male,AB-,Migraine,Gabrielle Davis,"Tran, Jordan And Williams Hospital",Medicare,28835.66,260,Unknown,Amlodipine,Normal,1/4/2025,1/5/2025
+P00038,Diana Bean,86,Female,AB-,Migraine,Cassandra Gaines,Rasmussen Llc Hospital,Blue Cross,28138.18,198,Elective,Metformin,Abnormal,4/28/2025,NULL
+P00039,Julie Curry,39,Female,A+,Obesity,Sherri  Baker,Harris-Walters Hospital,UnitedHealthcare,34045.56,502,Urgent,Lipitor,Inconclusive,6/29/2025,7/5/2025
+P00040,Courtney Jones,57,Male,O-,Asthma,Monica Herrera,Figueroa Plc Hospital,Medicare,25841.86,439,Urgent,Lipitor,Abnormal,10/2/2024,10/13/2024
+P00041,Andre Wright,31,Female,B-,Cancer,Lisa Jackson,"Moran, Allen And Foster Hospital",Aetna,Unknown,225,Elective,Lipitor,Normal,7/25/2026,7/28/2026
+P00042,Cynthia Wells,Unknown,Male,O+,Heart disease,Danny Morgan,Davis Group Hospital,Blue Cross,23087.04,435,Urgent,Paracetamol,Normal,4/30/2026,5/15/2026
+P00043,Julie Scott,90,Female,A+,Cancer,Brian Ramirez,"Shields, Cochran And Adams Hospital",Blue Cross,12426.84,510,Elective,Metformin,Unknown,11/16/2024,11/30/2024
+P00044,Tracey Higgins,57,Female,O-,Asthma,Victoria Garcia,Patton-Jenkins Hospital,Cigna,32952.15,484,Emergency,Amlodipine,Inconclusive,5/21/2025,6/8/2025
+P00045,Eric Lane,67,Female,B-,Obesity,Timothy Duncan,"Ferrell, Jones And Lewis Hospital",Medicaid,42236.85,246,Emergency,Aspirin,Abnormal,3/16/2026,3/25/2026
+P00046,Susan Brooks,11,Male,Unknown,Cancer,Eric Carney,"Smith, Montoya And Evans Hospital",Medicaid,49169.96,209,Emergency,Penicillin,Abnormal,NULL,7/16/2026
+P00047,Kevin Rivas,54,Male,B-,Migraine,Eric Carney,"Rivera, Johnson And Wiley Hospital",Medicaid,30072.31,110,Urgent,Penicillin,Abnormal,7/14/2026,7/25/2026
+P00048,Elizabeth Sutton,39,Female,O+,Cancer,Connor West,Wagner-King Hospital,Cigna,51879.42,323,Elective,Paracetamol,Abnormal,2/18/2025,2/19/2025
+P00049,Kylie Williams,52,Male,O-,Asthma,Lisa Barnes,Ross Llc Hospital,Aetna,36953.61,564,Elective,Lipitor,Inconclusive,5/4/2026,4/16/2026
+P00050,Andrea Holland,55,Male,O-,Asthma,Abigail Shaffer,Williams-Cook Hospital,UnitedHealthcare,5075.14,267,Emergency,Penicillin,Abnormal,9/18/2025,9/19/2025
+P00051,John Hamilton,Unknown,Female,O+,Obesity,Monica Herrera,"Rodriguez, Brennan And Garrison Hospital",Aetna,41987.02,483,Urgent,Paracetamol,Abnormal,9/3/2024,9/14/2024
+P00052,Julia Hernandez,84,Male,A+,Cancer,Judy Baker,"Moran, Allen And Foster Hospital",Medicare,"35,932.85",178,Emergency,Ibuprofen,Abnormal,5/16/2025,5/24/2025
+P00053,Marie Gilbert,28,Female,AB+,Arthritis,Patty Perez,White-Estes Hospital,Medicare,31236.34,593,Urgent,Metformin,Normal,12/31/2024,1/4/2025
+P00054,Julie Petersen,14,Male,AB+,Migraine,Jessica Holmes,Campbell-Clark Hospital,Aetna,53077.28,403,Urgent,Amlodipine,Inconclusive,6/28/2026,7/4/2026
+P00055,David Michael,39,Male,A+,Arthritis,James Brown,Johnson-Doyle Hospital,Unknown,6053.62,289,Emergency,Unknown,Inconclusive,11/1/2025,11/9/2025
+P00056,Paul Hudson,54,Female,A-,Migraine,John Pierce,"Shields, Cochran And Adams Hospital",Medicaid,1189.54,178,Elective,Ibuprofen,Inconclusive,3/16/2025,3/27/2025
+P00057,Johnny Nguyen,35,Female,O-,Migraine,Sarah Moore,Walsh Llc Hospital,Cigna,53118.32,536,Emergency,Amlodipine,Normal,12/26/2025,1/12/2026
+P00058,David Ramirez,32,Female,O+,Arthritis,Daniel  Wagner,Gonzalez Group Hospital,Humana,48548.9,266,Emergency,Penicillin,Normal,8/16/2025,8/25/2025
+P00059,Kristi Black,44,Female,AB+,Diabetes,Tracy House,Campbell-Clark Hospital,Aetna,43981.86,223,Urgent,Penicillin,Abnormal,11/3/2025,11/15/2025
+P00060,Jason Peters,89,Female,O-,Heart disease,Angie Henderson,Anderson-Bailey Hospital,Cigna,41819.97,213,Elective,Metformin,Normal,1/11/2025,1/29/2025
+P00061,Michael West,48,Female,Unknown,Unknown,Jordan Henderson,"Tran, Jordan And Williams Hospital",Cigna,Unknown,Unknown,Elective,Aspirin,Abnormal,2/16/2025,2/26/2025
+P00062,Jared Sanchez,93,Male,AB-,Hypertension,James Brown,Newton And Sons Hospital,Blue Cross,13064.32,210,Urgent,Penicillin,Abnormal,9/6/2024,9/15/2024
+P00063,Juan Cooper,68,Female,A-,Cancer,Cassandra Gaines,Wagner-King Hospital,Cigna,53725.08,191,Elective,Paracetamol,Inconclusive,12/23/2025,1/11/2026
+P00064,Heather Chavez,6,Male,AB+,Asthma,Connor West,Suarez Llcc Hospital,Humana,7398.77,106,Urgent,Aspirin,Abnormal,8/23/2026,9/10/2026
+P00065,Nathan Stewart,24,Male,AB+,Heart disease,Dylan Miller,"Ferrell, Jones And Lewis Hospital",UnitedHealthcare,24505.55,351,Emergency,Lipitor,Inconclusive,6/4/2025,4/22/2025
+P00066,Melissa Lee,73,Female,A-,Cancer,Brian Ramirez,Rasmussen Llc Hospital,Humana,8769.12,313,Urgent,Lipitor,Inconclusive,2/19/2026,2/21/2026
+P00067,Kevin Wolf,Unknown,Female,O-,Obesity,Sarah Moore,Johnson-Doyle Hospital,Cigna,42775.3,391,Urgent,Paracetamol,Inconclusive,2/15/2026,2/23/2026
+P00068,Dr. Elizabeth Ward,27,Male,AB+,Hypertension,Margaret Hawkins Dds,Davis Group Hospital,Blue Cross,52143.67,382,Emergency,Ibuprofen,Normal,11/4/2025,11/8/2025
+P00069,Beth Williams,77,Female,AB+,Diabetes,Anthony Rodriguez,Figueroa Plc Hospital,Medicaid,"25,052.45",244,Urgent,Amlodipine,Abnormal,4/2/2025,4/16/2025
+P00070,Tony Little,34,Male,O+,Hypertension,William Baker,Wagner-King Hospital,Medicaid,37962.48,176,Elective,Amlodipine,Normal,10/3/2024,10/6/2024
+P00071,Adam Mitchell,40,Female,O-,Hypertension,John Daniel,"Patterson, Smith And Jones Hospital",Medicaid,3750.27,306,Elective,Lipitor,Inconclusive,2/26/2026,1/3/2026
+P00072,Vincent King,77,Male,O+,Arthritis,Megan Young,Williams-Cook Hospital,Aetna,24357.86,146,Emergency,Metformin,Inconclusive,8/9/2025,8/25/2025
+P00073,Austin Vasquez,87,Female,A+,Asthma,Victoria Garcia,Walker Ltd Hospital,Medicaid,52317.85,326,Unknown,Ibuprofen,Inconclusive,5/16/2026,6/4/2026
+P00074,Brittany Shepherd,63,Male,O-,Arthritis,Crystal Robinson,"Tran, Jordan And Williams Hospital",Cigna,35095.77,443,Emergency,Amlodipine,Normal,10/20/2025,11/3/2025
+P00075,David Grant,64,Female,O+,Diabetes,Brent Jordan,Anderson-Bailey Hospital,Cigna,22934.66,229,Elective,Paracetamol,Abnormal,7/19/2026,NULL
+P00076,Lisa Rowe,1,Female,Unknown,Diabetes,Matthew Foster,Walker Ltd Hospital,Cigna,45458.53,418,Elective,Metformin,Abnormal,6/25/2025,7/12/2025
+P00077,Elizabeth Chapman,71,Male,AB+,Heart disease,Connorr West,Moore-Bass Hospital,Aetna,11593.92,598,Urgent,Lipitor,Normal,5/30/2025,6/1/2025
+P00078,Amy Choi,2,Female,A-,Cancer,Dylan Miller,"Shields, Cochran And Adams Hospital",Aetna,17435.88,431,Emergency,Penicillin,Inconclusive,7/4/2025,7/10/2025
+P00079,Lori Baker,35,Female,O-,Heart disease,James Ferrell,"Shields, Cochran And Adams Hospital",Medicare,28233.52,174,Elective,Ibuprofen,Inconclusive,11/5/2024,11/15/2024
+P00080,Juan Moore,18,Male,AB+,Migraine,Anthony Humphrey,Torres-Pope Hospital,Cigna,41172.94,520,Emergency,Aspirin,Inconclusive,10/23/2024,11/9/2024
+P00081,Julie Johnson,75,Female,B+,Heart disease,James Brown,"Rodriguez, Brennan And Garrison Hospital",Cigna,Unknown,270,Urgent,Amlodipine,Inconclusive,6/19/2025,6/29/2025
+P00082,Scott Jones,42,Male,B-,Migraine,Anthony Rodriguez,Hancock And Sons Hospital,Unknown,25316.28,262,Urgent,Penicillin,Inconclusive,3/23/2025,4/5/2025
+P00083,Rick Lawrence,Unknown,Male,O-,Diabetes,Holly Wood,Torres-Pope Hospital,Medicare,21541.29,269,Emergency,Amlodipine,Abnormal,2/11/2025,2/24/2025
+P00084,Brian Walker,59,Male,B+,Migraine,Carla Gray,"Ferrell, Jones And Lewis Hospital",UnitedHealthcare,29164.33,500,Elective,Aspirin,Inconclusive,4/4/2026,4/8/2026
+P00085,Charles Brown,43,Female,AB-,Heart disease,William Baker,"Brewer, Bryant And Hickman Hospital",Medicare,35916.1,135,Emergency,Metformin,Unknown,12/11/2024,12/24/2024
+P00086,Samantha Morse,12,Female,A-,Hypertension,Timothy Duncan,"Garcia, Humphrey And Baker Hospital",Medicaid,"54,859.71",253,Emergency,Paracetamol,Abnormal,3/27/2026,4/6/2026
+P00087,Eric Powell,48,Female,B+,Cancer,Carol Tucker,Hancock And Sons Hospital,Medicare,16488.54,449,Emergency,Ibuprofen,Normal,7/12/2025,7/14/2025
+P00088,Jessica George,49,Male,O-,Asthma,Anthony Rodriguez,"Shields, Cochran And Adams Hospital",Medicaid,33717.3,230,Elective,Aspirin,Inconclusive,3/12/2025,3/15/2025
+P00089,Lindsey Johnson,60,Female,B+,Hypertension,Timothy Duncan,Nolan-Flynn Hospital,Medicare,49490.51,253,Urgent,Penicillin,Inconclusive,6/6/2026,6/7/2026
+P00090,Shannon Matthews,39,Male,O+,Heart disease,Michele Williams,Davis Group Hospital,UnitedHealthcare,25397.55,392,Elective,Lipitor,Abnormal,2/8/2025,2/17/2025
+P00091,Samantha Johnston,85,Female,Unknown,Unknown,Brittney Phillips,Smith Plc Hospital,Medicare,Unknown,481,Elective,Amlodipine,Abnormal,NULL,9/19/2024
+P00092,Joseph Ramos,46,Male,B-,Obesity,Derek Zuniga,Suarez Llc Hospital,Medicaid,33585.04,430,Emergency,Aspirin,Abnormal,3/5/2026,3/13/2026
+P00093,Jessica Olsen Dvm,94,Male,A-,Obesity,Fred Smith,Hancock And Sons Hospital,Blue Cross,32086.77,202,Emergency,Amlodipine,Inconclusive,3/16/2025,3/18/2025
+P00094,Frank Garcia,35,Male,AB+,Heart disease,Cassandra Gaines,"Tran, Jordan And Williams Hospital",Humana,29431.45,158,Elective,Paracetamol,Normal,8/3/2025,8/15/2025
+P00095,Jon Bates,93,Female,AB-,Hypertension,Jessica Holmes,"Cunningham, Stewart And Green Hospital",Cigna,47377.66,374,Emergency,Penicillin,Abnormal,12/20/2024,12/28/2024
+P00096,Amanda Miller,82,Female,A-,Cancer,Victoriaa Garcia,"Moran, Allen And Foster Hospital",Medicare,32358.52,552,Urgent,Aspirin,Inconclusive,6/13/2025,6/22/2025
+P00097,Raymond Hancock,82,Female,AB+,Migraine,Dylan Miller,"Turner, Riggs And Roman Hospital",Aetna,35797.05,584,Emergency,Aspirin,Abnormal,2/25/2025,3/5/2025
+P00098,Sean Murray,69,Male,O+,Heart disease,Shane Henderson,Ross Llc Hospital,UnitedHealthcare,5796.96,400,Urgent,Metformin,Normal,4/20/2026,4/24/2026
+P00099,Lisa Jimenez,63,Female,AB+,Diabetes,Shane Henderson,Harris-Walters Hospital,UnitedHealthcare,36193.24,327,Emergency,Amlodipine,Abnormal,10/3/2024,10/17/2024
+P00100,Derek Anderson,Unknown,Female,A+,Migraine,Jeffrey Chavez,Campbell-Clark Hospital,Aetna,53960.56,585,Elective,Paracetamol,Inconclusive,7/14/2025,7/18/2025
+P00101,Kari Johnson,Unknown,Male,A+,Arthritis,James Ferrell,"Turner, Riggs And Roman Hospital",Humana,35472.89,389,Emergency,Paracetamol,Inconclusive,3/23/2025,3/30/2025
+P00102,Michelle Collins,30,Female,B+,Diabetes,Jeffrey Chavez,"Smith, Montoya And Evans Hospital",Blue Cross,32457.88,376,Elective,Amlodipine,Normal,11/28/2025,12/5/2025
+P00103,Danny Skinner,4,Male,A+,Arthritis,Rebecca Henderson,"Rivera, Johnson And Wiley Hospital",Cigna,"36,527.64",108,Emergency,Aspirin,Normal,9/3/2024,9/7/2024
+P00104,Maria Moore,68,Male,A-,Heart disease,Richard Aguirre,Nolan And Sons Hospital,Medicare,40923.63,403,Emergency,Penicillin,Inconclusive,11/15/2024,11/20/2024
+P00105,Michael Perry,6,Female,O-,Diabetes,Gina Moore,"Rodriguez, Brennan And Garrison Hospital",Humana,52025.15,305,Elective,Metformin,Normal,7/7/2026,7/15/2026
+P00106,Jesus Thomas,57,Male,Unknown,Arthritis,Megan Young,"Smith, Montoya Annd Evans Hospital",Aetna,39325.87,164,Elective,Lipitor,Inconclusive,8/12/2025,8/28/2025
+P00107,Nicole Taylor,42,Female,AB+,Heart disease,Jessica Callahan,White-Estes Hospital,UnitedHealthcare,30385.43,150,Urgent,Paracetamol,Inconclusive,1/11/2025,1/30/2025
+P00108,Sarah Morgan,28,Female,O-,Cancer,Crystal Robinson,"Tran, Jordan And Williams Hospital",Humana,39785.78,332,Elective,Penicillin,Inconclusive,10/15/2024,11/2/2024
+P00109,Aaron Barber,41,Female,AB-,Asthma,Victoria Garcia,"Ferrell, Jones And Lewis Hospital",Unknown,17533.89,525,Unknown,Unknown,Abnormal,3/23/2026,3/27/2026
+P00110,Mary Grimes,48,Male,A+,Arthritis,Brian Ramirez,Hancock And Sons Hospital,Cigna,41080.1,547,Urgent,Amlodipine,Abnormal,4/29/2026,5/3/2026
+P00111,Mr. Phillip Bennett,77,Female,AB-,Hypertension,Lauren Daniels,Torres-Pope Hospital,Blue Cross,53277.73,179,Urgent,Penicillin,Normal,7/17/2025,7/19/2025
+P00112,Veronica Allen,72,Female,A-,Obesity,Lauren Daniels,Wagner-King Hospital,Humana,19581.21,319,Urgent,Amlodipine,Inconclusive,7/7/2026,NULL
+P00113,Jennifer Flores,72,Male,AB+,Diabetes,Tommy Walter,Walsh Llc Hospital,Medicaid,37286.23,490,Elective,Aspirin,Abnormal,5/31/2025,6/20/2025
+P00114,Jane Mcneil,19,Female,A-,Asthma,Daniel Wagner,Anderson-Bailey Hospital,Medicaid,10386.6,371,Emergency,Penicillin,Abnormal,8/5/2025,8/6/2025
+P00115,Brittany Hanna,48,Female,AB-,Hypertension,Abigail  Shaffer,"Smith, Montoya And Evans Hospital",Blue Cross,19078.83,486,Urgent,Paracetamol,Inconclusive,3/27/2026,4/11/2026
+P00116,Evelyn Garcia,85,Female,O-,Heart disease,Mark Perez,Walsh Llc Hospital,Blue Cross,15329.6,486,Urgent,Paracetamol,Abnormal,11/25/2024,11/28/2024
+P00117,Thomas Smith,87,Female,AB+,Diabetes,Zachary Hicks,Dickson-Brady Hospital,Medicare,6543.49,128,Emergency,Ibuprofen,Abnormal,5/4/2026,5/18/2026
+P00118,Tracy Jones,33,Female,AB-,Hypertension,Allison Hill,Gonzalez Group Hospital,Medicaid,42320.55,320,Emergency,Ibuprofen,Abnormal,12/8/2024,12/15/2024
+P00119,Marcus Sanders,65,Female,A-,Migraine,Connie Lawrence,Johnson-Doyle Hospital,Aetna,38850.08,335,Emergency,Amlodipine,Abnormal,3/19/2026,4/6/2026
+P00120,Michael Ferguson,52,Female,AB+,Hypertension,Danny Morgan,"Moran, Allen And Foster Hospital",Cigna,"23,895.99",187,Urgent,Penicillin,Inconclusive,10/22/2024,11/10/2024
+P00121,Stacy Freeman,14,Male,Unknown,Unknown,Carol Tucker,Anderson-Bailey Hospital,UnitedHealthcare,Unknown,Unknown,Elective,Metformin,Abnormal,7/23/2026,8/4/2026
+P00122,Cynthia Cohen,22,Male,A-,Cancer,Angelica Tucker,Nolan-Flynn Hospital,Medicaid,18652.24,590,Urgent,Amlodipine,Normal,9/24/2025,10/2/2025
+P00123,Brandon Good,33,Male,B+,Asthma,Ryan Munoz,Newton And Sons Hospital,Humana,6102.85,421,Elective,Penicillin,Inconclusive,3/23/2025,3/31/2025
+P00124,Ashlee Jackson,Unknown,Female,AB-,Asthma,Timothy Duncan,"Ferrell, Jones And Lewis Hospital",UnitedHealthcare,24965.34,326,Urgent,Aspirin,Abnormal,3/3/2026,3/22/2026
+P00125,Frederick Brown,65,Male,AB+,Heart disease,Richard Aguirre,"Brewer, Bryant And Hickman Hospital",Aetna,3561.38,288,Elective,Paracetamol,Inconclusive,3/31/2025,4/19/2025
+P00126,David Jenkins,65,Female,O-,Diabetes,Richard Aguirre,May-Ross Hospital,Medicaid,34017.96,196,Elective,Lipitor,Abnormal,5/14/2025,5/17/2025
+P00127,Christopher Lynch,8,Female,A-,Arthritis,Monica Herrera,Torres-Pope Hospital,Medicaid,8721.93,188,Emergency,Ibuprofen,Unknown,1/5/2026,1/22/2026
+P00128,Kathleen Aguilar,68,Male,AB-,Arthritis,Sherri Baker,"Wright, Garcia And Deleon Hospital",UnitedHealthcare,54508.74,496,Elective,Metformin,Inconclusive,5/31/2025,6/15/2025
+P00129,Julia Estrada,83,Female,A-,Arthritis,Lisa Hensley,Rasmussen Llc Hospital,Medicaid,43512.87,297,Elective,Aspirin,Inconclusive,10/2/2025,2/12/2025
+P00130,Dwayne Payne,43,Male,B+,Arthritis,Brittany Farmer,Dickson-Brady Hospital,Blue Cross,48093.74,404,Urgent,Paracetamol,Abnormal,6/13/2026,7/3/2026
+P00131,Victoria Evans,43,Male,A-,Migraine,Amber Kidd,Nolan And Sons Hospital,Aetna,21029.02,285,Elective,Ibuprofen,Normal,10/17/2024,4/11/2024
+P00132,Joyce Turner,63,Male,B-,Asthma,Carla Gray,"Ferrell, Jones And Lewis Hospital",Cigna,52147.92,532,Emergency,Lipitor,Inconclusive,7/29/2026,8/9/2026
+P00133,Ashley James,Unknown,Male,O+,Asthma,Margaret Hawkins Dds,Newton And Sons Hospital,Humana,2557.24,454,Urgent,Amlodipine,Normal,8/25/2026,9/11/2026
+P00134,Michael Johnson,47,Male,O-,Obesity,Richard Aguirre,Wagner-King Hospital,Medicare,2881.24,222,Elective,Amlodipine,Abnormal,5/14/2025,5/29/2025
+P00135,Adam Grimes,74,Female,O-,Obesity,Joshua Blair,Torres-Pope Hospital,Medicare,20547.33,314,Emergency,Amlodipine,Normal,4/23/2026,4/30/2026
+P00136,Susan Mcgee,33,Male,Unknown,Arthritis,Jordan Henderson,Suarez Llc Hospital,Unknown,8042.72,533,Urgent,Amlodipine,Normal,NULL,4/5/2026
+P00137,Patricia Hall,21,Female,O-,Asthma,Michael Lewis,Anderson-Bailey Hospital,Blue Cross,"5,071.19",518,Elective,Aspirin,Normal,4/25/2026,5/5/2026
+P00138,Connor King,65,Female,B-,Migraine,Monica Herrera,Nolan And Sons Hospital,Blue Cross,3402.5,114,Elective,Paracetamol,Inconclusive,4/3/2026,4/17/2026
+P00139,Melanie Taylor,18,Male,AB+,Heart disease,Derek Zuniga,"Rodriguez, Brennan And Garrison Hospital",UnitedHealthcare,43630.24,415,Emergency,Paracetamol,Normal,2/28/2026,3/11/2026
+P00140,Amanda Kramer,20,Female,A-,Obesity,Rebecca Henderson,"Patterson, Smith And Jones Hospital",Aetna,12253.18,124,Emergency,Penicillin,Inconclusive,11/4/2024,11/13/2024
+P00141,Carlos Browning,15,Female,A+,Cancer,Lisa Jackson,Figueroa Plc Hospital,UnitedHealthcare,25412.69,100,Urgent,Aspirin,Normal,9/18/2024,8/10/2024
+P00142,Curtis Buchanan,86,Male,AB-,Hypertension,Carol Tucker,Ross Llc Hospital,Medicare,23202.93,502,Urgent,Lipitor,Normal,4/20/2025,5/9/2025
+P00143,Jonathan Nelson,6,Female,AB-,Obesity,Angie Henderson,Nolan-Flynn Hospital,Humana,48096.56,134,Elective,Ibuprofen,Inconclusive,5/27/2026,6/9/2026
+P00144,Terry Coffey,95,Female,B+,Diabetes,Philip Cannon,Ross Llc Hospital,Cigna,42546.82,516,Urgent,Ibuprofen,Inconclusive,12/23/2024,12/27/2024
+P00145,Regina Mcdonald,62,Male,B+,Hypertension,Brent Jordan,"Brewer, Bryant And Hickman Hospital",Cigna,53954.65,203,Unknown,Amlodipine,Normal,3/28/2025,4/12/2025
+P00146,Courtney Rhodes,40,Female,O-,Obesity,Cristian Santos,Campbell-Clark Hospital,Cigna,17699.97,282,Emergency,Amlodipine,Inconclusive,10/19/2024,10/21/2024
+P00147,Ryan Grant,48,Female,O+,Heart disease,Eric Carney,"Tran, Jordan And Williams Hospital",Blue Cross,15390.31,354,Urgent,Penicillin,Abnormal,12/30/2025,1/10/2026
+P00148,Dennis Martinez,11,Female,A-,Migraine,Megan Young,Newton And Soons Hospital,Medicare,15036.28,250,Elective,Paracetamol,Normal,10/30/2024,11/16/2024
+P00149,Deborah James,40,Female,O+,Asthma,Timothy Duncan,Nolan-Flynn Hospital,UnitedHealthcare,36520.1,121,Urgent,Amlodipine,Abnormal,5/21/2025,NULL
+P00150,Michael Ruiz,36,Male,A-,Migraine,John Pierce,Torres-Pope Hospital,Humana,54899.21,483,Urgent,Ibuprofen,Normal,12/4/2025,12/24/2025
+P00151,Erin Bishop,Unknown,Female,Unknown,Unknown,Gabrielle Davis,Davis Group Hospital,Humana,Unknown,430,Elective,Aspirin,Abnormal,11/20/2025,11/25/2025
+P00152,Julie Haynes,20,Female,AB-,Arthritis,Timothy Duncan,"Ferrell, Jones And Lewis Hospital",Medicare,2265,170,Urgent,Aspirin,Abnormal,12/11/2025,12/30/2025
+P00153,Andrew Johnson,32,Male,A+,Asthma,Donald  Wright,Walker Ltd Hospital,UnitedHealthcare,35901.06,567,Urgent,Paracetamol,Abnormal,12/12/2025,12/23/2025
+P00154,David Medina,28,Female,O-,Cancer,Brian Ramirez,"Turner, Riggs And Roman Hospital",Humana,"38,870.06",137,Elective,Ibuprofen,Inconclusive,8/23/2026,9/1/2026
+P00155,Travis Horton,88,Female,AB-,Hypertension,Jordan Henderson,Ross Llc Hospital,Cigna,54850.8,556,Elective,Amlodipine,Normal,6/5/2025,6/20/2025
+P00156,Molly Mcclure,66,Male,A-,Cancer,Derek Zuniga,Davis Group Hospital,Humana,43756.45,352,Emergency,Aspirin,Inconclusive,9/23/2025,9/29/2025
+P00157,Lisa Crosby,71,Male,A-,Hypertension,Brittany Farmer,Dickson-Brady Hospital,Medicaid,20605.66,468,Elective,Lipitor,Abnormal,12/16/2025,1/4/2026
+P00158,Claudia Wallace,10,Male,AB-,Hypertension,Richard Aguirre,"Shields, Cochran And Adams Hospital",Medicaid,45372,364,Elective,Ibuprofen,Inconclusive,3/17/2025,3/31/2025
+P00159,William Richardson,17,Female,A+,Hypertension,Tracy House,"Smith, Montoya And Evans Hospital",Cigna,10416.99,184,Emergency,Aspirin,Inconclusive,2/13/2025,3/4/2025
+P00160,Amy Hill,67,Female,A-,Obesity,Judy Baker,Rasmussen Llc Hospital,Cigna,19358.26,164,Urgent,Aspirin,Inconclusive,6/15/2026,6/23/2026
+P00161,Samantha Davis,83,Male,B+,Asthma,Lisa Barnes,White-Estes Hospital,Cigna,Unknown,531,Urgent,Paracetamol,Normal,8/2/2026,8/20/2026
+P00162,Tricia Williams,83,Female,B-,Migraine,Lisa Barnes,"Moran, Allen And Foster Hospital",UnitedHealthcare,2977.67,555,Urgent,Lipitor,Abnormal,1/27/2025,1/30/2025
+P00163,Rachel Harris Dvm,88,Female,AB+,Heart disease,Ryan Munoz,Smith Plc Hospital,Unknown,26820.49,325,Elective,Unknown,Abnormal,4/25/2025,5/5/2025
+P00164,Robin Hall,19,Female,AB-,Arthritis,Danny Morgan,"Turner, Riggs And Roman Hospital",Humana,19040.49,289,Urgent,Lipitor,Normal,10/4/2025,10/11/2025
+P00165,Linda Ramirez,Unknown,Female,O-,Cancer,Lisa Jackson,Suarez Llc Hospital,Aetna,13674.71,248,Elective,Amlodipine,Inconclusive,3/14/2026,3/25/2026
+P00166,Ms. Rebecca Rodriguez,Unknown,Female,Unknown,Cancer,Margaret Hawkins Dds,Gonzalez Group Hospital,Medicare,14030.73,339,Elective,Aspirin,Abnormal,8/14/2026,8/28/2026
+P00167,Hunter Kramer,51,Female,B-,Cancer,Amy Silva,Nolan-Flynn Hospital,Aetna,5407.68,125,Elective,Penicillin,Inconclusive,5/20/2026,5/21/2026
+P00168,Derek Martinez,2,Male,O+,Asthma,Nathan Maldonado,Nolan And Sons Hospital,Humana,16073.29,306,Elective,Paracetamol,Abnormal,10/29/2025,11/14/2025
+P00169,Arthur West,25,Female,AB+,Hypertension,Eric Carney,Torres-Pope Hospital,UnitedHealthcare,31580.35,491,Urgent,Aspirin,Unknown,6/28/2025,6/30/2025
+P00170,Jodi Walker,13,Female,AB-,Arthritis,Whitney Peters,Nolan And Sons Hospital,Humana,6975.2,173,Emergency,Lipitor,Inconclusive,5/16/2025,6/5/2025
+P00171,Susan Hopkins,6,Male,B+,Arthritis,Victoria Garcia,Walker Ltd Hospital,UnitedHealthcare,"27,754.25",176,Urgent,Lipitor,Normal,11/17/2025,11/30/2025
+P00172,Amanda Lutz,41,Male,O+,Obesity,Sarah  Moore,"Tran, Jordan And Williams Hospital",Medicare,51259.6,524,Urgent,Lipitor,Abnormal,4/2/2025,4/13/2025
+P00173,Brian Joseph,3,Female,AB-,Hypertension,Mark Perez,"Rivera, Johnson And Wiley Hospital",Cigna,16838.59,507,Urgent,Amlodipine,Inconclusive,5/6/2026,5/25/2026
+P00174,Erica Hernandez,34,Male,A+,Heart disease,Patty Perez,Walker Ltd Hospital,Medicaid,33031.57,469,Urgent,Amlodipine,Abnormal,7/15/2025,7/16/2025
+P00175,Lauren Joseph,32,Male,A-,Cancer,Angie Henderson,Patton-Jenkins Hospital,Cigna,45280.54,314,Emergency,Penicillin,Inconclusive,11/25/2024,11/30/2024
+P00176,Elizabeth Wagner,79,Female,A+,Asthma,Tracy House,Harris-Walters Hospital,Medicare,22865.57,266,Urgent,Penicillin,Inconclusive,5/30/2025,6/6/2025
+P00177,Ashley Pena,23,Female,AB-,Arthritis,Nathan Maldonado,Johnson-Carlson Hospital,UnitedHealthcare,17599.52,198,Emergency,Aspirin,Inconclusive,5/7/2025,7/18/2025
+P00178,Sharon Jordan,39,Female,B-,Heart disease,Paula Moreno,"Rodriguez, Brennan And Garrison Hospital",Cigna,12755.25,386,Urgent,Aspirin,Abnormal,5/28/2026,6/7/2026
+P00179,Ronald Ross,70,Female,O+,Arthritis,Lisa Jackson,Figueroa Plc Hospital,Aetna,31754.49,247,Urgent,Paracetamol,Abnormal,6/5/2026,6/9/2026
+P00180,Erik Scott,62,Male,B-,Obesity,Whitney Peters,Walsh Llc Hospital,Blue Cross,36250.48,155,Urgent,Metformin,Inconclusive,2/9/2026,2/24/2026
+P00181,Kara Davis,86,Male,Unknown,Unknown,Lisa Hensley,Hancock And Sons Hospital,Cigna,Unknown,Unknown,Unknown,Paracetamol,Inconclusive,NULL,7/31/2026
+P00182,Patrick Watson,71,Male,O+,Heart disease,Gerald Hensley,Campbell-Clark Hospital,Humana,782.39,593,Elective,Aspirin,Abnormal,10/26/2024,10/31/2024
+P00183,Tyler Hoffman,12,Male,A+,Asthma,Mark Perez,Newton And Sons Hospital,Aetna,49982.56,528,Elective,Amlodipine,Abnormal,11/28/2024,11/30/2024
+P00184,Shane Pugh,38,Male,A+,Obesity,Brittney Phillips,White-Estes Hospital,Aetna,51545.18,575,Elective,Aspirin,Abnormal,12/27/2025,1/2/2026
+P00185,Amber Roberts,18,Female,AB+,Cancer,Dylan Miller,"Tran, Jordan And Williams Hospital",Blue Cross,29075.36,474,Elective,Metformin,Abnormal,6/30/2025,7/18/2025
+P00186,Jordan Moore,44,Female,B-,Asthma,Steve Sanchez,Dickson-Brady Hospital,Humana,1267.59,318,Urgent,Aspirin,Normal,4/10/2025,NULL
+P00187,Hayley Hawkins,24,Male,O-,Arthritis,James Ferrell,"Cunningham, Stewart And Green Hospital",Cigna,36974.44,296,Emergency,Penicillin,Abnormal,8/12/2025,8/25/2025
+P00188,Darrell Patterson,93,Male,AB+,Arthritis,Rebecca Henderson,Smith Plc Hospital,Medicaid,"16,956.05",160,Elective,Aspirin,Normal,11/16/2024,11/27/2024
+P00189,Lisa Leonard,91,Female,A-,Obesity,Shane Henderson,Johnson-Carlson Hospital,Blue Cross,37891.01,212,Emergency,Penicillin,Normal,10/9/2025,10/22/2025
+P00190,Mary Steele,78,Female,O+,Heart disease,James Brown,Harris-Walteers Hospital,Unknown,41251.55,226,Urgent,Amlodipine,Inconclusive,10/5/2025,10/20/2025
+P00191,Phillip Dorsey,68,Female,A-,Hypertension,Gina Mmoore,Rasmussen Llc Hospital,Medicare,29140.11,203,Urgent,Lipitor,Normal,9/15/2024,9/18/2024
+P00192,Charles Sandoval,67,Female,A-,Cancer,Amy Silva,Gonzalez Group Hospital,Aetna,18382.41,560,Urgent,Penicillin,Normal,5/8/2025,5/14/2025
+P00193,Valerie Davis,54,Female,A+,Heart disease,Brittany Farmer,"Moran, Allen And Foster Hospital",UnitedHealthcare,7690.97,230,Emergency,Metformin,Normal,10/14/2024,10/29/2024
+P00194,Jesse Moore,55,Female,A-,Diabetes,Gabrielle Davis,"Rodriguez, Brennan And Garrison Hospital",Aetna,4480.11,246,Elective,Ibuprofen,Normal,9/16/2025,10/5/2025
+P00195,Todd Carlson,49,Female,O+,Migraine,Monica Herrera,Ross Llc Hospital,Blue Cross,20908.12,434,Elective,Paracetamol,Normal,4/9/2025,4/23/2025
+P00196,Paul Williams,17,Male,Unknown,Diabetes,Elizabeth Fowler,"Shields, Cochran And Adams Hospital",Medicaid,21921.7,468,Urgent,Penicillin,Inconclusive,6/1/2026,6/19/2026
+P00197,Jeff Lawson,32,Female,AB-,Asthma,Jeffrey Chavez,Campbell-Clark Hospital,Medicaid,45373.14,491,Emergency,Paracetamol,Inconclusive,10/23/2024,11/5/2024
+P00198,Jose Reed,3,Male,B-,Hypertension,Lisa Hensley,White-Estes Hospital,Aetna,34013.31,328,Urgent,Metformin,Inconclusive,6/23/2025,7/7/2025
+P00199,Leslie Rose,Unknown,Female,O-,Cancer,William Baker,Harris-Walters Hospital,Humana,13838.01,542,Emergency,Ibuprofen,Inconclusive,11/14/2024,11/16/2024
+P00200,William Brown,94,Female,AB-,Cancer,Elizabeth Fowler,"Smith, Montoya And Evans Hospital",Medicaid,13261.8,366,Emergency,Penicillin,Abnormal,4/7/2025,4/17/2025
+P00201,Pamela Duran,Unknown,Male,O+,Heart disease,Abigail Shaffer,Nolan-Flynn Hospital,Medicaid,Unknown,443,Elective,Amlodipine,Inconclusive,1/21/2025,1/30/2025
+P00202,Jonathan Jordan,53,Male,AB+,Migraine,Tommy Walter,Ross Llc Hospital,UnitedHealthcare,38448.81,223,Emergency,Aspirin,Inconclusive,3/24/2025,4/4/2025
+P00203,Crystal Hansen,8,Female,O+,Asthma,Eric Carney,Davis Group Hospital,Cigna,44414.8,204,Elective,Metformin,Normal,11/27/2024,12/2/2024
+P00204,James Harmon,12,Male,A+,Obesity,Joshua Blair,White-Estes Hospital,Medicare,46668.77,120,Emergency,Ibuprofen,Inconclusive,12/26/2025,1/10/2026
+P00205,Blake Edwards,27,Female,AB+,Diabetes,Stephanie Ross,Campbell-Clark Hospital,Medicaid,"12,327.40",160,Urgent,Amlodipine,Abnormal,7/9/2025,7/27/2025
+P00206,Mark Roberts,Unknown,Male,O+,Cancer,Jordan Henderson,"Mckee, Gardner And Davenport Hospital",Humana,38411.63,244,Elective,Penicillin,Inconclusive,7/4/2025,7/12/2025
+P00207,Carolyn Meza,47,Female,O-,Hypertension,Victoria Garcia,"Mckee, Gardner And Davenport Hospital",Blue Cross,17309.01,289,Elective,Penicillin,Normal,6/17/2025,6/29/2025
+P00208,Heidi Kim,95,Male,A+,Obesity,Jordan Henderson,"Rivera, Johnson And Wiley Hospital",Medicare,47592.62,468,Elective,Aspirin,Normal,7/27/2025,8/15/2025
+P00209,James Miller,49,Male,O-,Arthritis,Tricia Valencia,Gonzalez Group Hospital,Medicaid,18477.66,428,Urgent,Penicillin,Abnormal,10/11/2024,11/17/2024
+P00210,Connie Maxwell,46,Male,B+,Heart disease,Tommy Wwalter,Ross Llc Hospital,Medicaid,40436.09,590,Emergency,Lipitor,Normal,5/23/2026,5/29/2026
+P00211,Kerry Lee,86,Male,Unknown,Unknown,Derek Zuniga,Wagner-King Hospital,Aetna,Unknown,462,Emergency,Paracetamol,Unknown,10/19/2024,10/22/2024
+P00212,Tyler Brewer,8,Female,O-,Diabetes,Allison Hill,Ross Llc Hospital,Medicare,25352.53,310,Emergency,Paracetamol,Inconclusive,3/15/2026,4/1/2026
+P00213,David Thompson,37,Male,O+,Asthma,Michele Williams,Suarez Llc Hospital,Medicare,29697.73,176,Emergency,Ibuprofen,Inconclusive,12/10/2024,12/19/2024
+P00214,Angela Bean,46,Female,O+,Hypertension,Shane Henderson,Dickson-Brady Hospital,UnitedHealthcare,14256.79,389,Emergency,Metformin,Normal,12/14/2024,12/31/2024
+P00215,Justin Riley,11,Male,A-,Migraine,Joshua Blair,"Wright, Garcia And Deleon Hospital",Medicare,37780.27,343,Emergency,Metformin,Normal,11/27/2025,12/7/2025
+P00216,Maria Downs,56,Female,A-,Diabetes,Anthony Rodriguez,Harris-Walters Hospital,Humana,5006.39,454,Urgent,Penicillin,Abnormal,1/4/2026,1/10/2026
+P00217,Emily Gonzales,88,Female,A+,Asthma,Paula Moreno,"Moran, Allen And Foster Hospital",Unknown,50866.68,400,Unknown,Unknown,Inconclusive,4/18/2025,4/20/2025
+P00218,Rebecca Vargas,39,Male,B-,Migraine,William Baker,"Tran, Jordan And Williams Hospital",UnitedHealthcare,51123.68,486,Urgent,Ibuprofen,Inconclusive,8/2/2025,8/15/2025
+P00219,Joel Johnson,45,Male,A-,Migraine,Anthony Rodriguez,"Ferrell, Jones And Lewis Hospital",Cigna,27793.21,409,Urgent,Lipitor,Abnormal,5/9/2025,5/12/2025
+P00220,Matthew Madden,35,Female,O-,Cancer,Philip Cannon,Rasmussen Llc Hospital,UnitedHealthcare,2114.6,321,Emergency,Metformin,Inconclusive,5/21/2025,6/1/2025
+P00221,Janice Carpenter,80,Female,B-,Hypertension,Monica Herrera,Walsh Llc Hospital,Blue Cross,5170.33,294,Urgent,Amlodipine,Inconclusive,10/30/2024,12/11/2024
+P00222,Amanda Stout,41,Female,A-,Hypertension,Allison Hill,"Patterson, Smith And Jones Hospital",UnitedHealthcare,"40,811.21",284,Elective,Paracetamol,Normal,7/23/2026,7/28/2026
+P00223,Larry Mason,58,Female,A-,Diabetes,Jamie Arnold,Nolan-Flynn Hospital,Medicare,10712.85,147,Urgent,Lipitor,Abnormal,10/16/2025,NULL
+P00224,Robert Monroe,53,Female,A-,Cancer,Lauren Daniels,Walker Ltd Hospital,Blue Cross,1172.56,450,Elective,Ibuprofen,Normal,7/26/2026,8/8/2026
+P00225,Matthew Williams,64,Male,A-,Asthma,Michael Lewis,Walsh Llc Hospital,UnitedHealthcare,16911.65,253,Elective,Amlodipine,Normal,8/13/2026,8/22/2026
+P00226,Kelly Bishop Md,32,Female,Unknown,Heart disease,Michele Williams,"Turner, Riggs And Roman Hospital",Cigna,14217.64,103,Elective,Aspirin,Inconclusive,NULL,2/5/2026
+P00227,Raymond Shelton,43,Female,AB-,Migraine,Angela Lopez,"Turner, Riggs And Roman Hospital",Cigna,44322.17,264,Urgent,Metformin,Normal,6/27/2026,7/10/2026
+P00228,Felicia Rivera,51,Female,AB+,Heart disease,Lauren Daniels,Davis Group Hospital,Cigna,17622.99,292,Elective,Amlodipine,Abnormal,10/2/2024,10/18/2024
+P00229,David York,73,Male,B+,Diabetes,John Ddaniel,Harris-Walters Hospital,UnitedHealthcare,6706.89,508,Elective,Amlodipine,Inconclusive,10/6/2025,10/18/2025
+P00230,Brittany Miller,53,Female,B+,Obesity,Rebecca Henderson,Williams-Cook Hospital,Medicaid,45133.62,178,Urgent,Penicillin,Abnormal,7/30/2026,8/2/2026
+P00231,Emily Douglas,77,Female,O+,Migraine,William Baker,"Brewer, Bryant And Hickman Hospital",Humana,24974.14,595,Elective,Metformin,Inconclusive,12/23/2025,12/26/2025
+P00232,Michael Miller,Unknown,Male,B-,Arthritis,Patty Perez,Johnson-Carlsson Hospital,Aetna,35280.83,388,Urgent,Metformin,Inconclusive,12/22/2025,1/11/2026
+P00233,Erin Anderson,43,Female,A-,Diabetes,Lisa Hensley,Williams-Cook Hospital,Blue Cross,53191.21,361,Urgent,Lipitor,Inconclusive,7/10/2025,10/20/2025
+P00234,Yolanda Gaines,29,Female,AB-,Migraine,John Daniel,"Rivera, Johnson And Wiley Hospital",Medicaid,37977.71,356,Emergency,Aspirin,Normal,1/20/2026,2/8/2026
+P00235,Katie Smith,54,Male,A-,Asthma,Angelica Tucker,"Patterson, Smith And Jones Hospital",Cigna,6197.94,333,Emergency,Lipitor,Abnormal,11/1/2024,11/17/2024
+P00236,Gloria Miranda,57,Female,AB-,Hypertension,Elizabeth Fowler,"Brewer, Bryant And Hickman Hospital",Humana,26450.86,463,Emergency,Paracetamol,Abnormal,4/7/2025,4/19/2025
+P00237,Mrs. Elizabeth French Dds,22,Male,B+,Asthma,Sherry Decker,Rasmussen Llc Hospital,UnitedHealthcare,37404.09,590,Elective,Ibuprofen,Abnormal,1/12/2025,1/16/2025
+P00238,Kelsey Stanley,85,Female,O+,Diabetes,Steve Sanchez,Campbell-Clark Hospital,UnitedHealthcare,10658.09,403,Elective,Penicillin,Normal,9/23/2025,9/29/2025
+P00239,Linda Moore,91,Male,A-,Asthma,John Pierce,"Mckee, Gardner And Davenport Hospital",Blue Cross,"11,715.25",334,Emergency,Aspirin,Inconclusive,5/27/2026,6/3/2026
+P00240,Lori Orr,82,Female,O+,Migraine,Sarah Moore,Moore-Bass Hospital,Cigna,29260.47,280,Elective,Lipitor,Normal,1/4/2025,1/20/2025
+P00241,Jackson Ball,76,Male,Unknown,Unknown,Brian Ramirez,Davis Group Hospital,Cigna,Unknown,Unknown,Emergency,Aspirin,Inconclusive,2/3/2026,2/13/2026
+P00242,Nicole Bowers,54,Male,O+,Migraine,Tommy Walter,Gonzalez Group Hospital,Medicaid,28339.96,375,Urgent,Metformin,Normal,8/3/2026,8/8/2026
+P00243,Vincent Mueller,37,Male,B+,Arthritis,Richard Aguirre,Johnson-Carlson Hospital,Aetna,9594.17,543,Elective,Paracetamol,Abnormal,2/12/2025,3/2/2025
+P00244,Michael Hudson,50,Female,O+,Heart disease,Mark Perez,Patton-Jenkins Hospital,Unknown,11134.5,185,Emergency,Lipitor,Normal,6/16/2026,6/21/2026
+P00245,Paula Shaw,36,Male,AB+,Asthma,Brent Jordan,May-Ross Hospital,Medicaid,16418.9,495,Elective,Lipitor,Inconclusive,7/13/2025,7/21/2025
+P00246,Curtis Jacobs,35,Female,A+,Heart disease,William Baker,Harris-Walters Hospital,UnitedHealthcare,31712.92,152,Urgent,Amlodipine,Inconclusive,6/27/2025,7/1/2025
+P00247,John Watson,Unknown,Female,AB+,Arthritis,Jamie Arnold,Patton-Jenkins Hospital,Humana,16725.14,160,Emergency,Ibuprofen,Inconclusive,5/25/2026,6/2/2026
+P00248,Kelli Martinez,91,Female,B+,Asthma,Justin Baker,Harris-Walters Hospital,Humana,38057.78,130,Urgent,Aspirin,Inconclusive,7/8/2026,7/27/2026
+P00249,Jerry Palmer,22,Female,AB+,Obesity,Lauren Daniels,Walsh Llc Hospital,Humana,33028.74,363,Urgent,Amlodipine,Normal,10/25/2024,11/3/2024
+P00250,Thomas Velasquez,53,Male,AB+,Asthma,Holly Wood,Davis Group Hospital,Blue Cross,52971.07,464,Elective,Amlodipine,Normal,4/24/2026,4/29/2026
+P00251,Jennifer Sanders,Unknown,Female,O+,Migraine,Richard Aguirre,"Ferrell, Jones And Lewis Hospital",Medicaid,27175.5,506,Emergency,Penicillin,Inconclusive,6/2/2026,6/15/2026
+P00252,Brad Walker,48,Female,O-,Arthritis,Amy Silva,"Cunningham, Stewart And Green Hospital",Humana,38361.35,496,Urgent,Paracetamol,Inconclusive,5/25/2025,6/3/2025
+P00253,Miguel Rogers,90,Female,A-,Migraine,Stephanie Ross,Johnson-Doyle Hospital,Humana,35098.81,208,Unknown,Aspirin,Unknown,4/14/2025,4/29/2025
+P00254,Thomas Kennedy,74,Male,O-,Arthritis,Abigail Shaffer,"Brewer, Bryant And Hickman Hospital",Aetna,18907.66,420,Elective,Paracetamol,Normal,12/9/2024,12/19/2024
+P00255,Julie Gilbert,1,Female,B-,Asthma,Elizabeth Fowler,"Garcia, Humphrey And Baker Hospital",Humana,24550.08,577,Elective,Paracetamol,Inconclusive,4/24/2026,4/30/2026
+P00256,Daniel Hernandez,48,Male,Unknown,Migraine,Brittany Farmer,Wagner-King Hospital,UnitedHealthcare,"14,146.22",435,Emergency,Metformin,Normal,6/18/2026,6/30/2026
+P00257,Jenny Parsons,10,Male,B-,Heart disease,Noah Rhodes,"Cunningham, Stewart And Green Hospital",Medicaid,12131.45,275,Emergency,Amlodipine,Abnormal,7/13/2026,7/14/2026
+P00258,David Fowler,30,Female,A-,Hypertension,Michele Williams,"Mckee, Gardner And Davenport Hospital",Cigna,26534.66,551,Elective,Ibuprofen,Abnormal,2/14/2025,2/19/2025
+P00259,Russell Porter,87,Male,A-,Diabetes,Steve Sanchez,"Garcia, Humphrey And Baker Hospital",UnitedHealthcare,35465.9,279,Urgent,Ibuprofen,Inconclusive,11/23/2025,11/28/2025
+P00260,Laura Higgins,79,Female,B-,Hypertension,Lisa Hensley,"Turner, Riggs And Roman Hospital",Humana,50634.23,163,Urgent,Metformin,Abnormal,9/20/2025,NULL
+P00261,Harry Duncan,41,Male,B-,Obesity,Monica Herrera,Davis Group Hospital,Medicare,52997.05,407,Urgent,Metformin,Inconclusive,3/25/2025,6/4/2025
+P00262,Kelly Ward,89,Male,AB+,Cancer,Tracy House,White-Estes Hospital,Medicare,42953.85,196,Urgent,Penicillin,Abnormal,1/8/2025,1/18/2025
+P00263,Rachel Romero,31,Female,O+,Hypertension,Rebecca Henderson,Gonzalez Group Hospital,Medicaid,43217.19,404,Emergency,Lipitor,Normal,7/22/2026,7/24/2026
+P00264,Amanda Hughes,17,Female,O+,Arthritis,William Baker,Newton And Sons Hospital,Humana,51398.88,341,Emergency,Paracetamol,Inconclusive,9/8/2024,9/20/2024
+P00265,Heather Jones,Unknown,Male,A+,Migraine,Jessica Callahan,Figueroa Plc Hospital,Medicaid,1251.74,464,Urgent,Amlodipine,Abnormal,5/24/2025,5/27/2025
+P00266,Ashley Perkins,11,Male,AB+,Hypertension,Brittany Farmer,Anderson-Bailey Hospital,Medicare,38748.68,571,Emergency,Amlodipine,Normal,2/17/2025,3/3/2025
+P00267,Harold Morgan,76,Male,AB+,Migraine,Rebecca Henderson,Smith Plc Hospital,Blue Cross,18307.89,144,Elective,Paracetamol,Abnormal,3/1/2026,3/19/2026
+P00268,Melinda Pollard,40,Male,A-,Diabetes,Derek Zuniga,"Cunningham, Stewart And Green Hospital",Blue Cross,33681.37,354,Elective,Lipitor,Inconclusive,12/7/2025,12/27/2025
+P00269,Chad Baldwin,17,Female,A-,Diabetes,Sherry Decker,Johnson-Doyle Hospital,Cigna,9599.48,368,Emergency,Aspirin,Inconclusive,8/9/2025,8/18/2025
+P00270,Dakota Moody,64,Female,AB-,Diabetes,Donald Wright,May-Ross Hospital,Blue Cross,34700.54,288,Emergency,Aspirin,Normal,7/15/2026,8/3/2026
+P00271,Eric Sanders,15,Male,Unknown,Unknown,Noah Rhodes,Davis Group Hospital,Unknown,Unknown,341,Elective,Unknown,Normal,NULL,6/22/2026
+P00272,Andrew Lucas,5,Female,B-,Arthritis,James Ferrell,Hancock And Sons Hospital,Medicaid,51248.22,263,Elective,Amlodipine,Normal,4/13/2026,4/19/2026
+P00273,Amber Rios,65,Male,B+,Cancer,Tracy House,"Brewer, Bryant And Hickman Hospital",UnitedHealthcare,"20,818.05",135,Elective,Amlodipine,Abnormal,3/22/2025,4/10/2025
+P00274,Jessica Ross,71,Female,A+,Arthritis,Judy Baker,Figueroa Pllc Hospital,Medicare,18337.9,501,Elective,Metformin,Inconclusive,3/12/2025,3/22/2025
+P00275,Gina Lopez,76,Female,B-,Cancer,Carla Gray,"Cunningham, Stewart And Green Hospital",UnitedHealthcare,25784,112,Emergency,Lipitor,Abnormal,7/12/2025,7/20/2025
+P00276,Robert Adams,1,Female,AB+,Hypertension,Justin Baker,Walker Ltd Hospital,Blue Cross,52328.97,314,Elective,Paracetamol,Normal,1/12/2026,1/13/2026
+P00277,Jeffrey Carney,30,Female,AB-,Heart disease,Monica Herrera,"Rivera, Johnson And Wiley Hospital",Aetna,5569.95,358,Emergency,Metformin,Abnormal,10/24/2024,11/2/2024
+P00278,Brian Murphy,8,Female,B+,Cancer,Cassandra Gaines,Williams-Cook Hospital,Humana,32758.32,261,Elective,Metformin,Inconclusive,1/3/2025,1/6/2025
+P00279,Mitchell Jackson,35,Male,A-,Cancer,Derek Zuniga,"Rivera, Johnson And Wiley Hospital",Aetna,17834.15,179,Emergency,Ibuprofen,Abnormal,3/29/2025,4/9/2025
+P00280,Nicholas Buck,16,Female,B-,Heart disease,Brittany Farmer,"Shields, Cochran And Adams Hospital",Cigna,17614.81,536,Emergency,Paracetamol,Normal,7/15/2025,7/30/2025
+P00281,Mark Moody,90,Male,B-,Arthritis,Lisa Jackson,Anderson-Bailey Hospital,Medicaid,Unknown,227,Elective,Penicillin,Inconclusive,11/17/2025,11/27/2025
+P00282,Jennifer Palmer,34,Male,A+,Migraine,Richard Aguirre,Rasmussen Llc Hospital,Medicaid,37406.49,381,Emergency,Paracetamol,Abnormal,10/5/2024,10/7/2024
+P00283,Andre Allison,18,Male,A+,Diabetes,Zachary Hicks,"Turner, Riggs And Roman Hospital",Blue Cross,44312.37,521,Elective,Aspirin,Inconclusive,2/24/2026,2/28/2026
+P00284,Cameron Young,34,Male,A+,Hypertension,Judy Baker,Patton-Jenkins Hospital,Humana,32236.65,165,Emergency,Amlodipine,Abnormal,1/2/2026,1/5/2026
+P00285,Travis Johnson,60,Male,B+,Migraine,Jessica Holmes,Gonzalez Group Hospital,Aetna,2826.95,295,Urgent,Penicillin,Normal,12/9/2025,12/13/2025
+P00286,Jacob Wallace,24,Female,Unknown,Heart disease,Carla  Gray,"Brewer, Bryant And Hickman Hospital",Medicare,12202.03,417,Urgent,Ibuprofen,Inconclusive,12/15/2024,12/27/2024
+P00287,Jacob Edwards,71,Female,A+,Hypertension,Jeffrey Chavez,"Wright, Garcia And Deleon Hospital",Blue Cross,27689.59,314,Emergency,Metformin,Inconclusive,10/20/2024,10/30/2024
+P00288,Allison Lopez,Unknown,Male,O+,Arthritis,Gerald Hensley,Ross Llc Hospital,Humana,34876.11,348,Elective,Lipitor,Inconclusive,3/16/2025,3/24/2025
+P00289,Autumn Hampton,24,Male,AB-,Cancer,Daniel Wagner,Walsh Llc Hospital,Aetna,21666.78,514,Unknown,Lipitor,Abnormal,7/9/2025,9/18/2025
+P00290,Logan Benson,21,Male,B-,Cancer,Debra Davidson,Ross Llc Hospital,Humana,"54,978.51",505,Urgent,Paracetamol,Normal,1/21/2026,2/9/2026
+P00291,Chad Jones,50,Female,B+,Asthma,Rebecca Henderson,"Rivera, Johnson And Wiley Hospital",Cigna,46634.53,512,Urgent,Metformin,Abnormal,8/24/2026,12/9/2026
+P00292,Yolanda Cochran,90,Female,B+,Cancer,Donald Wright,Ross Llc Hospital,Cigna,2037.26,189,Elective,Paracetamol,Normal,12/29/2024,1/17/2025
+P00293,Miss Michelle Pierce,29,Male,O-,Diabetes,Sherry Decker,Johnson-Carlson Hospital,Blue Cross,13177.97,512,Emergency,Aspirin,Inconclusive,8/2/2026,8/4/2026
+P00294,Christopher Mckinney,42,Male,A+,Asthma,Sarah Moore,"Smith, Montoya And Evans Hospital",Humana,50573.55,156,Urgent,Amlodipine,Abnormal,3/25/2025,3/31/2025
+P00295,Isaiah Walker,85,Female,A-,Arthritis,Elizabeth Fowler,"Mckee, Gardner And Davenport Hospital",Blue Cross,20860.7,599,Emergency,Metformin,Unknown,1/18/2026,1/21/2026
+P00296,Cynthia Snyder,23,Female,B-,Asthma,Joshua Blair,"Patterson, Smith And Jones Hospital",Medicaid,35880.32,452,Elective,Ibuprofen,Normal,8/15/2026,8/31/2026
+P00297,Julie Bird,74,Female,A+,Asthma,Megan Young,"Mckee, Gardner And Davenport Hospital",Humana,52208.95,595,Urgent,Ibuprofen,Inconclusive,5/15/2025,NULL
+P00298,Ana Sanders,Unknown,Male,AB-,Hypertension,Rebecca Henderson,Nolan-Flynn Hospital,Unknown,6174.01,185,Urgent,Paracetamol,Inconclusive,11/27/2024,12/16/2024
+P00299,Jason Ortiz,34,Male,B-,Hypertension,Angelica Tucker,Williams-Cook Hospital,Humana,24841.33,155,Urgent,Paracetamol,Normal,1/31/2026,2/11/2026
+P00300,Evan Jones,54,Male,O+,Heart disease,Joshua Blair,Nolan-Flynn Hospital,Medicare,24383,292,Emergency,Amlodipine,Abnormal,10/19/2025,11/1/2025
+P00301,Bethany Calderon,Unknown,Male,Unknown,Unknown,Ryan Munoz,"Brewer, Bryant And Hickman Hospital",Cigna,Unknown,Unknown,Elective,Aspirin,Normal,7/31/2025,8/19/2025
+P00302,Patricia Anderson,49,Male,A-,Hypertension,Anthony Humphrey,White-Estes Hospital,Medicare,19128.55,557,Elective,Metformin,Normal,10/2/2025,10/5/2025
+P00303,Sandra Holmes,22,Female,B+,Diabetes,Lisa Hensley,"Tran, Jordan And Williams Hospital",Blue Cross,51863.1,598,Emergency,Penicillin,Inconclusive,8/27/2025,9/10/2025
+P00304,Timothy Perez,94,Female,AB+,Obesity,Rebecca Henderson,Suarez Llc Hospital,Aetna,39851.08,301,Urgent,Lipitor,Abnormal,4/4/2025,4/22/2025
+P00305,Diane Miller,1,Female,A-,Obesity,Angela  Lopez,"Rodriguez, Brennan And Garrison Hospital",Blue Cross,3470.51,149,Emergency,Ibuprofen,Normal,7/18/2026,7/23/2026
+P00306,Denise Weber,61,Male,AB+,Migraine,Victoria Garcia,Gonzalez Group Hospital,Medicaid,53749.64,235,Emergency,Metformin,Inconclusive,1/15/2025,1/25/2025
+P00307,Martin Vargas,49,Female,B+,Heart disease,Connie Lawrence,Williams-Cook Hospital,UnitedHealthcare,"10,576.03",338,Elective,Ibuprofen,Abnormal,11/17/2025,11/30/2025
+P00308,Marcus Winters,90,Male,A-,Arthritis,William Baker,Hancock And Sons Hospital,Humana,3859.35,401,Emergency,Lipitor,Normal,10/23/2025,11/11/2025
+P00309,Amanda Shields,54,Female,B-,Heart disease,Elizabeth Fowler,Anderson-Bailey Hospital,UnitedHealthcare,45103.08,562,Urgent,Paracetamol,Inconclusive,4/28/2025,5/11/2025
+P00310,Patricia Baker,74,Male,A-,Heart disease,Ethan Adams,"Garcia, Humphrey And Baker Hospital",Blue Cross,49574.8,513,Emergency,Ibuprofen,Normal,10/23/2024,11/11/2024
+P00311,Lisa Johnson,88,Female,B-,Asthma,Angela Lopez,Williams-Cook Hospital,Cigna,4771.08,566,Urgent,Amlodipine,Normal,1/26/2025,9/2/2025
+P00312,Maria Turner,51,Female,AB+,Heart disease,Noah Rhodes,Johnson-Carlson Hospital,Medicare,21651.4,367,Elective,Paracetamol,Abnormal,6/5/2026,6/8/2026
+P00313,Jennifer Chavez,76,Male,A-,Hypertension,Sherri Baker,Ross Llc Hospital,Cigna,8576.89,549,Elective,Aspirin,Abnormal,2/20/2025,2/25/2025
+P00314,Jason Marshall,61,Male,B+,Obesity,Danny Morgan,"Smith, Montoya And Evans Hospital",Medicare,31675.27,411,Urgent,Metformin,Abnormal,1/10/2026,1/26/2026
+P00315,Scott Flores,43,Male,A+,Heart disease,Debra Davidson,Nolan And Sons Hospital,Aetna,22070.7,272,Elective,Aspirin,Abnormal,4/30/2025,5/2/2025
+P00316,James Hodges,88,Male,Unknown,Asthma,Elizabeth Fowler,Patton-Jenkiins Hospital,Humana,47273.8,522,Elective,Aspirin,Inconclusive,NULL,9/2/2026
+P00317,David Martinez,12,Male,O-,Cancer,Crystal Robinson,Gonzalez Group Hospital,Humana,33471.36,364,Elective,Amlodipine,Normal,9/5/2025,9/19/2025
+P00318,Anthony Dougherty,9,Female,O+,Asthma,Carol Tucker,May-Ross Hospital,Aetna,43636.23,188,Emergency,Amlodipine,Normal,7/19/2025,8/5/2025
+P00319,Victor Barrera,59,Male,AB-,Cancer,Jeffrey Chavez,Nolan And Sons Hospital,Humana,14097.22,337,Urgent,Penicillin,Inconclusive,5/18/2026,5/20/2026
+P00320,Michelle Lee,31,Female,O-,Heart disease,Ethan Adams,"Rodriguez, Brennan And Garrison Hospital",Medicare,37624,382,Elective,Aspirin,Normal,4/11/2026,4/15/2026
+P00321,Julie Koch Dds,89,Male,AB+,Diabetes,Eric Carney,Smith Plc Hospital,Blue Cross,Unknown,537,Urgent,Amlodipine,Normal,12/19/2024,12/28/2024
+P00322,Jim Allen,87,Male,AB+,Migraine,Amber Kidd,"Moran, Allen And Foster Hospital",Humana,35782.2,499,Urgent,Paracetamol,Abnormal,10/29/2024,11/6/2024
+P00323,Douglas Harper,77,Male,B-,Obesity,Megan Young,"Patterson, Smith And Jones Hospital",Medicaid,35781.75,595,Urgent,Metformin,Abnormal,10/25/2025,10/30/2025
+P00324,Donna Smith,45,Female,AB+,Cancer,John Ddaniel,"Patterson, Smith And Jones Hospital",Medicaid,"49,303.82",366,Urgent,Penicillin,Inconclusive,5/3/2026,5/17/2026
+P00325,Dennis Diaz,85,Female,AB+,Obesity,Michele Williams,"Rodriguez, Brennan And Garrison Hospital",Unknown,900.44,272,Unknown,Unknown,Abnormal,11/11/2024,11/15/2024
+P00326,Anthony Hoffman,92,Female,B-,Asthma,Tracy House,Davis Group Hospital,Aetna,14732.51,512,Urgent,Penicillin,Inconclusive,6/15/2025,6/24/2025
+P00327,James Cole,93,Male,O-,Obesity,Nathan Maldonado,Hancock And Sons Hospital,UnitedHealthcare,37601.19,298,Urgent,Paracetamol,Inconclusive,5/17/2025,5/28/2025
+P00328,Lisa Carr,44,Male,O-,Arthritis,Jessica Callahan,"Patterson, Smith And Jones Hospital",Humana,44972.8,187,Urgent,Lipitor,Normal,9/30/2025,10/19/2025
+P00329,Jake Hatfield,Unknown,Female,B+,Arthritis,Jamie Arnold,Wagner-King Hospital,Cigna,5819.37,214,Urgent,Amlodipine,Abnormal,11/27/2024,12/7/2024
+P00330,Charles Morrison,43,Female,AB+,Obesity,John Daniel,Moore-Bass Hospital,UnitedHealthcare,43450.93,127,Urgent,Lipitor,Inconclusive,10/6/2025,10/20/2025
+P00331,Andrew Reeves,Unknown,Male,Unknown,Unknown,Crystal Robinson,Smith Plc Hospital,Humana,Unknown,537,Emergency,Ibuprofen,Normal,6/14/2025,7/4/2025
+P00332,Brittany Barry,73,Female,B+,Arthritis,Tommy Walter,Anderson-Bailey Hospital,UnitedHealthcare,22800.96,270,Urgent,Ibuprofen,Abnormal,4/4/2026,4/15/2026
+P00333,Emily Long,36,Male,B+,Asthma,Connor West,Anderson-Bailey Hospital,Blue Cross,756.89,414,Elective,Metformin,Abnormal,12/5/2024,12/7/2024
+P00334,Linda Romero,62,Female,A+,Diabetes,James Brown,Campbell-Clark Hospital,Medicaid,23881.89,291,Emergency,Aspirin,Inconclusive,11/18/2025,NULL
+P00335,Justin Wells Jr.,1,Male,B-,Arthritis,Brittany Farmer,"Turner, Riggs And Roman Hospital",Aetna,1476.43,296,Urgent,Lipitor,Abnormal,9/1/2025,9/8/2025
+P00336,Jason Parker,6,Female,AB+,Heart disease,Tracy House,White-Estes Hospital,Medicare,4058.14,272,Elective,Metformin,Normal,4/24/2025,4/30/2025
+P00337,Lori Carlson,63,Female,B-,Asthma,Danny Morgan,"Moran, Allen And Foster Hospital",Blue Cross,54789.57,214,Urgent,Ibuprofen,Unknown,12/6/2026,6/23/2026
+P00338,Valerie Lane,22,Male,AB-,Diabetes,Joshua Blair,Williams-Cook Hospital,Humana,32638.26,373,Urgent,Paracetamol,Inconclusive,3/7/2025,3/8/2025
+P00339,John Warren,84,Male,A+,Hypertension,Mark Perez,Patton-Jenkins Hospital,UnitedHealthcare,36577.36,163,Urgent,Aspirin,Abnormal,2/7/2025,2/9/2025
+P00340,Jamie Underwood,88,Male,AB+,Migraine,Lisa Hensley,Walker Ltd Hospital,Cigna,11699.47,418,Urgent,Metformin,Normal,2/3/2026,2/8/2026
+P00341,Melody Lee,14,Male,AB+,Hypertension,Michele Williams,Gonzalez Group Hospital,Blue Cross,"45,770.57",411,Emergency,Amlodipine,Abnormal,2/18/2025,4/3/2025
+P00342,Jason Harris,46,Female,AB+,Asthma,Connie Lawrence,Rasmussen Llc Hospital,UnitedHealthcare,53535.02,566,Emergency,Metformin,Abnormal,7/13/2025,7/30/2025
+P00343,Kaitlyn Charles,2,Male,A-,Heart disease,Carla  Gray,Anderson-Bailey Hospital,Humana,13280.54,361,Emergency,Metformin,Inconclusive,8/26/2025,9/6/2025
+P00344,Kelly Hoffman,83,Male,O-,Obesity,Nathan Maldonado,"Shields, Cochran And Adams Hospital",Aetna,49810.48,151,Emergency,Amlodipine,Normal,2/7/2026,2/11/2026
+P00345,James Frye,87,Female,O+,Hypertension,Lisa Hensley,"Brewer, Bryant And Hickman Hospital",Aetna,20131.7,536,Emergency,Metformin,Inconclusive,8/24/2026,9/3/2026
+P00346,Kimberly Lowe,57,Female,Unknown,Arthritis,Anthony Humphrey,Newton And Sons Hospital,Aetna,18412.02,305,Elective,Penicillin,Abnormal,7/27/2025,8/2/2025
+P00347,Regina Baker,62,Female,B+,Hypertension,Holly Wood,Smith Plc Hospital,Humana,38099.68,181,Emergency,Penicillin,Inconclusive,5/21/2026,6/3/2026
+P00348,Diana Evans,87,Female,B+,Migraine,Philip Cannon,Johnson-Carlson Hospital,Aetna,44223.43,541,Urgent,Amlodipine,Inconclusive,8/13/2025,8/29/2025
+P00349,Dr. Michele Vaughn,63,Male,O+,Heart disease,Connie Lawrence,"Ferrell, Jones And Lewis Hospital",Cigna,26827.84,435,Elective,Paracetamol,Inconclusive,7/14/2026,7/19/2026
+P00350,Justin Michael,74,Male,AB-,Hypertension,Michael Lewis,Davis Group Hospital,UnitedHealthcare,42330.32,277,Urgent,Metformin,Inconclusive,8/17/2025,9/3/2025
+P00351,Kenneth Daniels,Unknown,Male,A+,Asthma,Jessica Callahan,"Rodriguez, Brennan And Garrison Hospital",Humana,8601.67,353,Emergency,Paracetamol,Abnormal,2/3/2026,2/16/2026
+P00352,Gregory Mejia,36,Male,B-,Migraine,Danny Morgan,Davis Group Hospital,Unknown,13628.6,335,Elective,Amlodipine,Inconclusive,6/10/2026,6/21/2026
+P00353,Tyler Miller,64,Female,AB-,Hypertension,Donald Wright,"Moran, Allen And Foster Hospital",Aetna,5297.08,306,Elective,Paracetamol,Inconclusive,10/12/2024,12/25/2024
+P00354,Nicole Lewis,12,Female,B-,Heart disease,Anthony Humphrey,Nolan And Sons Hospital,Humana,509.25,127,Emergency,Amlodipine,Abnormal,7/1/2026,7/19/2026
+P00355,Justin Nelson,80,Female,AB-,Heart disease,Dylan Miller,Suarez Llc Hospital,Humana,31028.22,437,Emergency,Paracetamol,Abnormal,4/22/2026,5/3/2026
+P00356,Cynthia Williams,38,Female,A-,Diabetes,Patty Perez,Gonzalez Group Hospital,Blue Cross,45728.67,520,Urgent,Metformin,Inconclusive,11/12/2024,11/24/2024
+P00357,David Garcia,79,Male,B-,Hypertension,Jessica Holmes,Harris-Walters Hospital,UnitedHealthcare,6329.4,522,Emergency,Metformin,Abnormal,6/17/2026,7/1/2026
+P00358,Michael Taylor,6,Male,O-,Heart disease,Sarah Moore,Torres-Popee Hospital,Blue Cross,"41,764.64",593,Elective,Paracetamol,Inconclusive,4/23/2025,4/27/2025
+P00359,Brooke Delgado,56,Female,B+,Asthma,Holly Wood,Suarez Llc Hospital,UnitedHealthcare,30650.83,436,Urgent,Lipitor,Abnormal,7/31/2026,8/2/2026
+P00360,Matthew Avila,54,Male,AB+,Migraine,Anthony Humphrey,Figueroa Plc Hospital,UnitedHealthcare,48535.79,512,Emergency,Ibuprofen,Abnormal,5/30/2026,6/16/2026
+P00361,Anthony Mack,66,Female,Unknown,Unknown,Judy Baker,Harris-Walters Hospital,Medicare,Unknown,Unknown,Unknown,Metformin,Abnormal,NULL,4/11/2025
+P00362,Parker Jefferson,84,Male,AB-,Hypertension,Philip  Cannon,Rasmussen Llc Hospital,UnitedHealthcare,53982.78,398,Urgent,Metformin,Inconclusive,12/14/2025,12/19/2025
+P00363,Jennifer Monroe,69,Female,O+,Diabetes,Tracy House,Suarez Llc Hospital,Aetna,37246.27,295,Emergency,Paracetamol,Inconclusive,9/21/2024,10/5/2024
+P00364,Russell French,Unknown,Female,AB+,Asthma,Gina Moore,Figueroa Plc Hospital,Blue Cross,11394.68,485,Urgent,Paracetamol,Abnormal,7/8/2026,7/10/2026
+P00365,Shelia Roberts,87,Male,O+,Cancer,Amber Kidd,Figueroa Plc Hospital,Medicaid,6085.16,440,Emergency,Penicillin,Abnormal,1/8/2025,1/23/2025
+P00366,Lance Hebert,88,Female,A+,Diabetes,Tricia Valencia,Campbell-Clark Hospital,Medicare,52640.26,544,Elective,Amlodipine,Normal,9/21/2024,10/5/2024
+P00367,Martin Warren,70,Male,B-,Obesity,Richard Aguirre,Newton And Sons Hospital,Medicaid,41653.37,138,Emergency,Ibuprofen,Inconclusive,4/26/2025,5/8/2025
+P00368,Jonathan Nelson,6,Female,AB+,Obesity,Holly Wood,"Garcia, Humphrey And Baker Hospital",Medicare,7004.78,533,Elective,Paracetamol,Abnormal,6/6/2026,6/23/2026
+P00369,Nicholas Wong,20,Male,B+,Arthritis,Angela Lopez,Smith Plc Hospital,Humana,39178.07,577,Urgent,Lipitor,Inconclusive,8/4/2026,4/23/2026
+P00370,George Phillips,Unknown,Female,A-,Arthritis,Carol Tucker,Wagner-King Hospital,Blue Cross,27235.03,366,Emergency,Amlodipine,Inconclusive,2/1/2026,2/11/2026
+P00371,Levi Fowler,69,Female,A-,Arthritis,Zachary Hicks,Harris-Walters Hospital,Medicaid,23168.25,269,Elective,Aspirin,Abnormal,12/30/2025,NULL
+P00372,Garrett Morales,80,Female,A+,Hypertension,Angelica Tucker,Patton-Jenkins Hospital,Blue Cross,52291.8,563,Urgent,Lipitor,Inconclusive,6/17/2025,6/24/2025
+P00373,Mrs. Taylor Smith,88,Female,O+,Hypertension,Eric Carney,Williams-Cook Hospital,Medicare,52759.88,470,Elective,Paracetamol,Inconclusive,11/2/2024,11/10/2024
+P00374,Derek Rivera,66,Female,O-,Diabetes,Cassandra Gaines,Campbell-Clark Hospital,Cigna,28529.84,363,Emergency,Paracetamol,Normal,6/1/2025,6/13/2025
+P00375,Deborah Ward,81,Male,B-,Cancer,Shannon Jones,Suarez Llc Hospital,Blue Cross,29559.72,375,Urgent,Metformin,Abnormal,10/24/2025,11/11/2025
+P00376,Julie Moore,20,Male,Unknown,Arthritis,Cristian Santos,Anderson-Bailey Hospital,Aetna,41205.55,127,Emergency,Amlodipine,Abnormal,2/13/2025,2/16/2025
+P00377,Stacy Carrillo,30,Female,O+,Migraine,Richard Aguirre,Dickson-Brady Hospital,UnitedHealthcare,4339.09,261,Emergency,Penicillin,Inconclusive,8/1/2026,1/26/2026
+P00378,Teresa Richardson,83,Male,A+,Hypertension,Philip Cannon,Torres-Pope Hospital,Aetna,29648.47,248,Urgent,Aspirin,Inconclusive,1/11/2026,1/15/2026
+P00379,Karen Gibson,57,Female,O+,Diabetes,Victoria Garcia,"Garcia, Humphrey And Baker Hospital",Unknown,15842.7,212,Emergency,Unknown,Unknown,2/2/2025,2/5/2025
+P00380,Michael Durham,82,Male,AB+,Arthritis,Noah Rhodes,Rasmussen Llc Hospital,Humana,16576.33,384,Emergency,Paracetamol,Normal,8/17/2026,9/4/2026
+P00381,Samantha Gill,51,Male,AB+,Cancer,Angelicaa Tucker,Harris-Walters Hospital,UnitedHealthcare,31713.16,563,Urgent,Amlodipine,Inconclusive,3/1/2026,2/3/2026
+P00382,Rachel Fox,29,Female,B-,Hypertension,Tommy Walter,May-Ross Hospital,Humana,9272.01,127,Urgent,Penicillin,Inconclusive,1/4/2026,1/9/2026
+P00383,Thomas Rodriguez,86,Male,AB+,Hypertension,Judy Baker,"Rivera, Johnson And Wiley Hospital",UnitedHealthcare,4486.38,587,Elective,Aspirin,Normal,9/15/2025,10/3/2025
+P00384,Christina Herrera,80,Male,B-,Arthritis,Connor West,Patton-Jenkins Hospital,Cigna,5952.46,415,Urgent,Aspirin,Inconclusive,4/22/2026,4/30/2026
+P00385,Jessica Frazier,73,Female,AB-,Migraine,Patty Perez,"Cunningham, Stewart And Green Hospital",Cigna,8805.53,226,Emergency,Metformin,Inconclusive,12/23/2024,1/11/2025
+P00386,Steven Griffin Jr.,47,Male,AB-,Heart disease,John Daniel,Patton-Jenkins Hospital,Cigna,15579.05,496,Elective,Penicillin,Inconclusive,1/31/2026,2/14/2026
+P00387,Justin Hansen,78,Male,AB+,Asthma,James Brown,Campbell-Clark Hospital,Cigna,10079.47,475,Urgent,Paracetamol,Inconclusive,11/29/2024,12/3/2024
+P00388,Alex Scott,65,Male,O+,Cancer,Cristian Santos,Rasmussen Llc Hospital,Cigna,49119.73,378,Urgent,Penicillin,Inconclusive,12/29/2025,1/1/2026
+P00389,Benjamin Henderson,29,Female,B+,Heart disease,Jessica Callahan,Torres-Pope Hospital,Aetna,20437.12,303,Elective,Lipitor,Normal,8/27/2024,9/1/2024
+P00390,Amy Shannon,79,Male,B+,Heart disease,Margaret Hawkins Dds,Newton And Sons Hospital,Medicare,46715.01,585,Urgent,Metformin,Normal,1/18/2026,1/26/2026
+P00391,Dustin White,6,Male,Unknown,Unknown,Gabrielle Davis,Williams-Cook Hospital,Cigna,Unknown,219,Emergency,Metformin,Normal,8/15/2026,8/31/2026
+P00392,Monica Stuart,47,Female,O-,Heart disease,Connie Lawrence,"Brewer, Bryant And Hickman Hospital",Medicaid,"49,971.07",265,Emergency,Metformin,Inconclusive,12/1/2024,12/18/2024
+P00393,Joan Stark,34,Male,O+,Migraine,John Pierce,"Rivera, Johnson And Wiley Hospital",Medicaid,46000.54,559,Emergency,Lipitor,Abnormal,5/25/2025,6/3/2025
+P00394,Victor Baxter,29,Female,AB-,Arthritis,Connor West,"Rodriguez, Brennan And Garrison Hospital",Medicare,53510.74,103,Urgent,Ibuprofen,Abnormal,5/27/2025,6/9/2025
+P00395,Barbara Haney,66,Female,B-,Asthma,Tommy Walter,"Garcia, Humphrey And Baker Hospital",Cigna,13034.5,408,Urgent,Amlodipine,Normal,11/30/2024,12/6/2024
+P00396,William Davenport,43,Male,O-,Heart disease,Gerald Hensley,Harris-Walters Hospital,Medicare,23096.45,182,Urgent,Amlodipine,Abnormal,6/8/2025,6/16/2025
+P00397,Julie Ball,Unknown,Male,B+,Diabetes,Lauren Daniels,"Smith, Montoya And Evans Hospital",Aetna,13780.03,185,Unknown,Ibuprofen,Inconclusive,2/28/2026,3/1/2026
+P00398,David Murray,73,Male,AB+,Hypertension,Stephanie Ross,Patton-Jenkins Hospital,Medicare,33164.98,341,Elective,Ibuprofen,Normal,7/1/2025,7/14/2025
+P00399,Shaun Cannon,75,Male,AB+,Asthma,Anthony Humphrey,"Shields, Cochran And Adams Hospital",Medicare,33245.71,402,Emergency,Ibuprofen,Abnormal,12/16/2024,12/30/2024
+P00400,Lisa Mayer,3,Male,O+,Asthma,Megan Young,Suarez Llcc Hospital,Blue Cross,7705.62,343,Urgent,Lipitor,Normal,9/17/2024,9/30/2024
+P00401,Austin Wheeler,Unknown,Male,O-,Asthma,Megan Young,Ross Llc Hospital,Humana,Unknown,100,Urgent,Metformin,Abnormal,6/5/2026,6/23/2026
+P00402,Shelby Sanchez,6,Female,B-,Heart disease,Joshua Blair,Nolan-Flynn Hospital,Medicare,23427.28,511,Urgent,Amlodipine,Inconclusive,7/17/2025,8/3/2025
+P00403,Joshua Webster,18,Female,O-,Cancer,Monica Herrera,Figueroa Plc Hospital,Medicare,5825.57,548,Urgent,Penicillin,Abnormal,9/26/2024,10/15/2024
+P00404,Wyatt Young,1,Male,A+,Migraine,Justin Baker,"Mckee, Gardner And Davenport Hospital",UnitedHealthcare,798.09,285,Emergency,Ibuprofen,Abnormal,3/15/2026,3/22/2026
+P00405,Laura Barton,69,Female,AB-,Obesity,Jessica Holmes,Harris-Walters Hospital,UnitedHealthcare,14322.98,382,Urgent,Penicillin,Normal,6/25/2026,7/14/2026
+P00406,Shawn Odom,62,Female,Unknown,Arthritis,Jessica Holmes,"Turner, Riggs And Roman Hospital",Unknown,30970.61,542,Urgent,Paracetamol,Inconclusive,NULL,4/27/2026
+P00407,Donald Hawkins,90,Male,A-,Cancer,Amber Kidd,Dickson-Brady Hospital,Humana,24839.42,273,Urgent,Lipitor,Inconclusive,9/10/2025,9/18/2025
+P00408,Casey Shelton,82,Male,A-,Asthma,Victoria Garcia,White-Estes Hospital,UnitedHealthcare,9260.22,145,Emergency,Aspirin,Normal,10/31/2025,NULL
+P00409,Gregory Schneider,5,Female,O+,Obesity,Angela Lopez,Smith Plc Hospital,Humana,"4,862.17",519,Emergency,Metformin,Abnormal,5/10/2025,10/17/2025
+P00410,Melissa Russell,85,Female,B-,Diabetes,Angela Lopez,Torres-Pope Hospital,Medicare,1083.72,457,Emergency,Lipitor,Normal,5/30/2025,6/14/2025
+P00411,Joshua Allen,Unknown,Male,B+,Hypertension,Jeffrey Chavez,Dickson-Brady Hospital,Cigna,20105.83,442,Elective,Penicillin,Inconclusive,4/1/2025,3/4/2025
+P00412,Brianna Ford,95,Male,A-,Obesity,Whitney Peters,"Rivera, Johnson And Wiley Hospital",Cigna,28716.98,277,Elective,Ibuprofen,Inconclusive,2/5/2025,2/12/2025
+P00413,Jason Moreno,52,Male,AB+,Asthma,Crystal Robinson,Torres-Pope Hospital,Aetna,25284.37,386,Emergency,Lipitor,Abnormal,10/6/2024,10/13/2024
+P00414,Gary Miller,66,Female,AB+,Heart disease,Joshua Blair,May-Ross Hospital,UnitedHealthcare,52112.34,494,Emergency,Amlodipine,Abnormal,6/4/2025,6/15/2025
+P00415,Joseph Calderon,76,Male,O-,Hypertension,Nathan Maldonado,"Ferrell, Jones And Lewis Hospital",UnitedHealthcare,37646.91,424,Emergency,Metformin,Inconclusive,7/19/2025,8/3/2025
+P00416,Larry Williams,53,Female,A+,Obesity,James Ferrell,Figueroa Plc Hospital,Aetna,44108.8,304,Urgent,Metformin,Abnormal,10/1/2024,10/9/2024
+P00417,Laurie Powers,23,Female,AB-,Arthritis,Stephanie Ross,May-Ross Hospital,Cigna,30723.06,193,Urgent,Metformin,Normal,10/17/2024,10/20/2024
+P00418,Terry Turner,31,Male,AB+,Cancer,Anthony Rodriguez,Campbell-Clark Hospital,Humana,40672.62,227,Urgent,Aspirin,Normal,1/30/2025,2/15/2025
+P00419,Colton Figueroa,11,Female,A+,Diabetes,Gerald Hhensley,Nolan And Sons Hospital,Medicare,7033.38,261,Elective,Lipitor,Abnormal,6/20/2026,6/24/2026
+P00420,Suzanne Dominguez,66,Female,O+,Cancer,Lauren Daniels,"Turner, Riggs And Roman Hospital",Aetna,10466.52,369,Elective,Penicillin,Inconclusive,2/21/2026,3/9/2026
+P00421,David Morris,51,Male,Unknown,Unknown,Tracy House,"Shields, Cochran And Adams Hospital",Cigna,Unknown,Unknown,Emergency,Paracetamol,Unknown,1/21/2026,1/23/2026
+P00422,Matthew Parker,13,Female,AB-,Obesity,Tommy Walter,Rasmussen Llc Hospital,Cigna,21178.83,221,Elective,Penicillin,Inconclusive,3/19/2025,3/26/2025
+P00423,Julie Lang,64,Female,B-,Migraine,Shane Henderson,Nolan And Sons Hospital,Humana,20442.87,305,Elective,Penicillin,Normal,5/14/2025,5/25/2025
+P00424,Erica Harris,74,Male,A-,Obesity,Rebecca Henderson,Rasmussen Llc Hospital,UnitedHealthcare,7647.08,538,Elective,Ibuprofen,Normal,2/4/2026,2/23/2026
+P00425,Sean Figueroa,2,Male,O+,Heart disease,Derek Zuniga,Walker Ltd Hospital,Medicare,26277.79,468,Elective,Amlodipine,Abnormal,10/4/2025,4/15/2025
+P00426,Lauren Cortez,73,Male,O+,Hypertension,Margaret Hawkins Dds,Smith Plc Hospital,Blue Cross,"14,178.08",516,Elective,Penicillin,Inconclusive,9/5/2024,9/15/2024
+P00427,David Hudson,43,Female,AB-,Arthritis,Whitney Peters,Rasmussen Llc Hospital,Humana,25017.09,231,Elective,Paracetamol,Abnormal,3/28/2025,4/1/2025
+P00428,Terri Morgan,87,Male,B+,Obesity,Philip Cannon,"Mckee, Gardner And Davenport Hospital",Medicaid,19634.43,361,Elective,Amlodipine,Inconclusive,2/20/2025,2/24/2025
+P00429,Nathaniel Singh Md,49,Female,O-,Asthma,Patty Perez,"Tran, Jordan And Williams Hospital",UnitedHealthcare,48984.97,423,Urgent,Lipitor,Abnormal,3/6/2026,3/21/2026
+P00430,Charles Payne,Unknown,Male,AB-,Arthritis,Cassandra Gaines,Walsh Llc Hospital,Medicare,4811.6,430,Elective,Aspirin,Abnormal,2/11/2026,2/14/2026
+P00431,Wanda Bernard,67,Female,O+,Asthma,Tommy Walter,"Moran, Allen And Foster Hospital",Blue Cross,41260.3,472,Emergency,Metformin,Abnormal,1/6/2025,1/18/2025
+P00432,Angela Meyers,51,Male,A-,Hypertension,Victoria Garcia,Rasmussen Llc Hospital,Aetna,11976.15,113,Elective,Lipitor,Normal,9/12/2025,9/15/2025
+P00433,Chad Mccoy,20,Male,O+,Obesity,Anthony Rodriguez,Davis Group Hospital,Unknown,14803.65,245,Unknown,Unknown,Normal,9/29/2024,10/3/2024
+P00434,Daniel Bryant,22,Male,A+,Arthritis,Fred Smith,"Rodriguez, Brennan And Garrison Hospital",UnitedHealthcare,29207.46,599,Urgent,Aspirin,Inconclusive,10/13/2024,10/18/2024
+P00435,Taylor Durham,90,Male,O-,Migraine,Carol Tucker,Ross Llc Hospital,Cigna,7863.76,565,Elective,Penicillin,Inconclusive,10/8/2024,10/23/2024
+P00436,Joseph Jenkins,57,Female,Unknown,Migraine,Nathan Maldonado,"Smith, Montoya And Evans Hospital",Cigna,44356.57,105,Emergency,Lipitor,Normal,12/19/2025,12/27/2025
+P00437,Kimberly Mitchell,69,Male,O-,Heart disease,Elizabeth Fowler,"Cunningham, Stewart And Green Hospital",Humana,16128.54,320,Elective,Lipitor,Normal,9/6/2024,9/18/2024
+P00438,Jessica Case,25,Female,O+,Migraine,James Fferrell,"Garcia, Humphrey And Baker Hospital",Medicaid,30377.56,477,Urgent,Penicillin,Abnormal,8/27/2025,8/28/2025
+P00439,Kelly Allen,55,Male,AB+,Obesity,James Brown,Walsh Llc Hospital,UnitedHealthcare,14832.43,196,Emergency,Ibuprofen,Normal,1/3/2025,1/11/2025
+P00440,Hector Norton,59,Female,AB+,Heart disease,Matthew Foster,"Mckee, Gardner And Davenport Hospital",Aetna,6514.42,177,Emergency,Lipitor,Normal,11/21/2025,12/1/2025
+P00441,Judy Sanchez,37,Female,B+,Heart disease,Noah Rhodes,Wagner-King Hospital,Aetna,53492.13,177,Emergency,Penicillin,Normal,10/21/2024,10/27/2024
+P00442,Ronald Miller,64,Female,O-,Diabetes,Sherry Decker,Anderson-Bailley Hospital,Humana,23403.24,484,Emergency,Paracetamol,Abnormal,1/16/2026,1/27/2026
+P00443,Amanda Sullivan,61,Male,B-,Obesity,Joshua Blair,"Cunningham, Stewart And Green Hospital",Aetna,"4,390.47",598,Urgent,Ibuprofen,Abnormal,8/19/2026,9/1/2026
+P00444,Mark Warner,5,Male,O-,Hypertension,Tracy House,Harris-Walters Hospital,UnitedHealthcare,13970.34,299,Urgent,Aspirin,Abnormal,5/27/2025,6/11/2025
+P00445,Maria Rivera,6,Male,AB+,Heart disease,Elizabeth Fowler,Campbell-Clark Hospital,Cigna,34789.45,554,Emergency,Amlodipine,Inconclusive,10/24/2024,NULL
+P00446,Stephanie Ellison,31,Female,AB-,Diabetes,Patty Perez,Walsh Llc Hospital,Medicare,53543.44,161,Elective,Amlodipine,Normal,8/9/2026,8/16/2026
+P00447,Melissa Knight,75,Female,B+,Arthritis,Jamie Arnold,Davis Group Hospital,Blue Cross,53301.5,355,Emergency,Metformin,Inconclusive,2/8/2025,2/9/2025
+P00448,Melinda Ramirez,81,Male,A+,Arthritis,Carla Gray,Ross Llc Hospital,Humana,51231.26,154,Emergency,Penicillin,Normal,3/11/2025,3/22/2025
+P00449,Cassie Jefferson,83,Female,O-,Cancer,Angie Henderson,"Wright, Garcia And Deleon Hospital",Cigna,54001.33,470,Emergency,Aspirin,Normal,9/25/2025,10/6/2025
+P00450,Charles Hoover,72,Female,O-,Cancer,Brittney Phillips,Newton And Sons Hospital,Medicare,39011.12,278,Elective,Metformin,Abnormal,9/5/2024,9/21/2024
+P00451,Elizabeth Elliott,Unknown,Male,Unknown,Unknown,Richard Aguirre,Figueroa Plc Hospital,Humana,Unknown,234,Urgent,Aspirin,Abnormal,NULL,4/26/2026
+P00452,Megan Fernandez,Unknown,Female,B+,Diabetes,Lisa Barnes,Nolan And Sons Hospital,Humana,42787.53,417,Emergency,Aspirin,Inconclusive,10/13/2025,10/14/2025
+P00453,Rachel Norris,69,Female,B-,Heart disease,Jordan Henderson,"Smith, Montoya And Evans Hospital",Medicare,36376.77,244,Elective,Penicillin,Inconclusive,6/1/2025,6/4/2025
+P00454,Haley Davis,67,Male,A+,Asthma,Ethan Adams,"Brewer, Bryant And Hickman Hospital",Blue Cross,6520.3,154,Elective,Ibuprofen,Normal,10/21/2024,11/1/2024
+P00455,Larry Austin,50,Female,AB+,Diabetes,John Pierce,Wagner-King Hospital,Medicare,31620.16,467,Emergency,Paracetamol,Normal,2/10/2025,2/12/2025
+P00456,Erin Walters,11,Female,A+,Arthritis,Whitney Peters,Hancock And Sons Hospital,Humana,51098,288,Urgent,Paracetamol,Inconclusive,11/3/2025,11/19/2025
+P00457,Darren Tran,94,Male,AB+,Hypertension,Stephaniie Ross,Walker Ltd Hospital,Aetna,29331.64,151,Urgent,Ibuprofen,Inconclusive,3/20/2026,3/29/2026
+P00458,Kevin James,68,Male,B+,Migraine,Michele Williams,May-Ross Hospital,Cigna,10825.59,445,Elective,Metformin,Inconclusive,5/26/2025,6/8/2025
+P00459,David Jones,22,Male,O+,Arthritis,Margaret Hawkins Dds,Ross Llc Hospital,Medicare,48613.91,326,Elective,Aspirin,Inconclusive,3/12/2026,3/26/2026
+P00460,Richard Moore,53,Female,AB-,Cancer,Brittney Phillips,Ross Llc Hospital,Unknown,"46,544.54",292,Urgent,Metformin,Abnormal,3/8/2025,3/19/2025
+P00461,Brandon Hahn,58,Female,A+,Diabetes,Sherri Baker,White-Estes Hospital,Aetna,52910.02,365,Emergency,Aspirin,Normal,6/5/2025,6/17/2025
+P00462,Ashley Miller,28,Female,A+,Obesity,Jordan Henderson,Torres-Pope Hospital,Medicare,54149.5,392,Urgent,Ibuprofen,Normal,7/16/2025,7/26/2025
+P00463,Kayla Garcia,Unknown,Male,AB+,Arthritis,Amy Silva,Davis Group Hospital,Blue Cross,25590.15,231,Elective,Paracetamol,Unknown,7/6/2025,7/8/2025
+P00464,Linda Mueller,28,Male,AB-,Heart disease,Ethan Adams,Gonzalez Group Hospital,Humana,31514.04,560,Urgent,Metformin,Inconclusive,10/29/2024,11/11/2024
+P00465,Jason Maxwell,39,Male,O+,Hypertension,Gina Moore,"Tran, Jordan And Williams Hospital",Cigna,32940.1,550,Elective,Penicillin,Normal,5/18/2026,5/22/2026
+P00466,Wendy Sanchez,78,Male,Unknown,Diabetes,Brittany Farmer,Walker Ltd Hospital,Aetna,41248.49,263,Urgent,Lipitor,Normal,2/5/2026,2/13/2026
+P00467,Caroline Adams,29,Male,A+,Migraine,Richard Aguirre,White-Estes Hospital,Medicare,27880.89,358,Emergency,Ibuprofen,Abnormal,9/9/2025,9/20/2025
+P00468,Christopher Hill,19,Male,AB-,Hypertension,Victoria Garcia,May-Ross Hospital,Medicaid,43357.07,125,Urgent,Penicillin,Abnormal,3/9/2025,3/19/2025
+P00469,Heather Raymond,56,Male,B+,Heart disease,Whitney Peters,Campbell-Clark Hospital,UnitedHealthcare,22219.72,302,Unknown,Lipitor,Normal,4/1/2025,4/4/2025
+P00470,Luis Ellis Jr.,95,Male,B-,Hypertension,Debra Davidson,Johnson-Doyle Hospital,Cigna,34071.83,450,Urgent,Paracetamol,Normal,2/2/2026,2/20/2026
+P00471,Ryan James,45,Male,AB-,Arthritis,Angela Lopez,"Moran, Allen And Foster Hospital",Humana,23582.96,256,Emergency,Aspirin,Inconclusive,8/29/2024,12/9/2024
+P00472,Jeffrey Colon,57,Male,B-,Cancer,Shane Henderson,"Smith, Montoya And Evans Hospital",Humana,34463.43,472,Emergency,Paracetamol,Inconclusive,5/17/2026,6/1/2026
+P00473,Elizabeth Morrison,80,Male,AB+,Diabetes,Anthony Humphrey,Moore-Bass Hospital,Cigna,13746.13,330,Elective,Paracetamol,Abnormal,12/13/2025,12/15/2025
+P00474,Christopher Sanders,28,Male,AB+,Heart disease,Lisa Barnes,"Smith, Montoya And Evans Hospital",Medicaid,40830.71,457,Urgent,Paracetamol,Abnormal,1/15/2026,1/22/2026
+P00475,Mackenzie Faulkner,68,Male,AB+,Asthma,Gina Moore,Figueroa Plc Hospital,Blue Cross,49879.2,504,Urgent,Lipitor,Abnormal,4/15/2025,5/4/2025
+P00476,Douglas Hartman,2,Male,O+,Obesity,John Ppierce,Suarez Llc Hospital,Aetna,25840.36,249,Urgent,Penicillin,Normal,3/19/2026,3/21/2026
+P00477,Christina Osborn,91,Male,AB-,Heart disease,Angela Lopez,Ross Llc Hospital,Aetna,"28,215.45",195,Emergency,Lipitor,Abnormal,5/18/2025,5/31/2025
+P00478,Alyssa Acosta,3,Male,B-,Obesity,Sherry Decker,Gonzalez Group Hospital,UnitedHealthcare,50986.07,481,Emergency,Paracetamol,Abnormal,1/3/2025,1/21/2025
+P00479,Robert Guerra,39,Male,AB+,Diabetes,Tricia Valencia,"Wright, Garcia And Deleon Hospital",Humana,19868.11,115,Urgent,Aspirin,Normal,7/15/2026,7/27/2026
+P00480,Rebecca Chambers,51,Male,A-,Migraine,Tracy House,Johnson-Carlson Hospital,Humana,19127.35,420,Urgent,Ibuprofen,Abnormal,10/14/2024,10/19/2024
+P00481,David Moore,55,Female,Unknown,Unknown,William Baker,"Turner, Riggs And Roman Hospital",Blue Cross,Unknown,Unknown,Emergency,Lipitor,Inconclusive,12/4/2024,12/12/2024
+P00482,Jerry Harper,40,Male,O+,Asthma,Brittney Phillips,"Garcia, Humphrey And Baker Hospital",Cigna,47511.03,134,Urgent,Lipitor,Inconclusive,6/30/2025,NULL
+P00483,Tammy Kane,19,Male,AB-,Migraine,Crystal Robinson,"Patterson, Smith And Jones Hospital",UnitedHealthcare,10535.37,481,Urgent,Metformin,Abnormal,10/24/2025,10/28/2025
+P00484,Warren Miles,14,Male,B+,Diabetes,Steve Sanchez,Johnson-Carlsson Hospital,Cigna,42961.38,410,Urgent,Lipitor,Normal,6/26/2025,7/1/2025
+P00485,Suzanne Rodriguez,88,Male,AB-,Hypertension,Gerald Hensley,"Turner, Riggs And Roman Hospital",Medicare,13153.95,533,Urgent,Penicillin,Inconclusive,4/10/2026,4/30/2026
+P00486,Carol Salazar,50,Female,O-,Asthma,Margaret Hawkins Dds,Campbell-Clark Hospital,Blue Cross,10526.72,116,Elective,Amlodipine,Normal,2/22/2025,3/6/2025
+P00487,Maria Rasmussen,29,Male,B-,Hypertension,Ethan Adams,Patton-Jenkins Hospital,Unknown,52285.79,415,Elective,Unknown,Abnormal,10/10/2025,10/19/2025
+P00488,Ashley Garcia,55,Female,A+,Migraine,Paula Moreno,Dickson-Brady Hospital,Medicare,48873.49,580,Urgent,Lipitor,Inconclusive,4/24/2025,5/9/2025
+P00489,Kristin Watts,91,Male,A-,Heart disease,Brent Jordan,"Brewer, Bryant And Hickman Hospital",Blue Cross,29125.06,365,Urgent,Penicillin,Inconclusive,3/2/2025,2/21/2025
+P00490,Joel Frazier,67,Male,B-,Obesity,Timothy Duncan,Dickson-Brady Hospital,Cigna,30894.7,496,Elective,Penicillin,Normal,2/2/2025,2/4/2025
+P00491,Zachary Webb,7,Male,O-,Heart disease,Jamie Arnold,Torres-Pope Hospital,Aetna,16545.88,192,Urgent,Metformin,Inconclusive,1/11/2026,1/25/2026
+P00492,Angelica Guerra,42,Female,A+,Asthma,Brent Jordan,"Rivera, Johnson And Wiley Hospital",Medicaid,21922.14,558,Emergency,Penicillin,Normal,3/28/2025,4/2/2025
+P00493,Grant Mueller,Unknown,Male,A-,Hypertension,Dylan Miller,Patton-Jenkins Hospital,Medicaid,18162.08,285,Emergency,Lipitor,Inconclusive,2/9/2026,2/18/2026
+P00494,Brent Bowen,66,Male,O+,Migraine,Connie Lawrence,"Garcia, Humphrey And Baker Hospital",Cigna,"40,114.62",389,Urgent,Amlodipine,Normal,9/9/2025,9/22/2025
+P00495,Andrew Page,23,Male,O+,Obesity,Brittany Farmer,Patton-Jenkins Hospital,Cigna,47850.61,420,Emergency,Paracetamol,Normal,7/21/2025,7/27/2025
+P00496,Brian Marsh,Unknown,Male,Unknown,Heart disease,Donald Wright,Ross Llc Hospital,Humana,692.54,102,Urgent,Penicillin,Normal,NULL,9/17/2024
+P00497,Kelli Arnold,61,Female,O+,Heart disease,Monica Herrera,White-Estes Hospital,Medicare,32593,103,Emergency,Lipitor,Abnormal,5/7/2026,7/12/2026
+P00498,Joel Salinas,27,Male,B+,Asthma,Gina Moore,Nolan-Flynn Hospital,Aetna,34760.63,174,Emergency,Metformin,Inconclusive,4/23/2025,5/13/2025
+P00499,Matthew Foster,12,Male,A-,Migraine,Ethan Adams,"Garcia, Humphrey And Baker Hospital",Medicaid,16765.06,245,Urgent,Metformin,Inconclusive,11/28/2025,12/18/2025
+P00500,Joanna Jordan,72,Male,O-,Arthritis,Cristian Santos,Anderson-Bailey Hospital,Humana,31689.4,253,Elective,Aspirin,Abnormal,2/15/2026,3/7/2026
+P00501,Donald Padilla,Unknown,Male,AB+,Heart disease,Derek Zuniga,Moore-Bass Hospital,Medicaid,41835.09,540,Elective,Aspirin,Inconclusive,8/28/2024,8/31/2024
+P00502,Rebecca Herrera,90,Male,A+,Hypertension,Lauren Daniels,Walker Ltd Hospital,Aetna,29093.22,347,Urgent,Metformin,Inconclusive,3/29/2026,4/12/2026
+P00503,Brian Lambert,41,Female,AB-,Asthma,Steve Sanchez,May-Ross Hospital,UnitedHealthcare,23774.42,366,Urgent,Metformin,Abnormal,5/19/2025,5/29/2025
+P00504,Emily Price,79,Male,AB+,Cancer,Allison Hill,Moore-Bass Hospital,Aetna,44534.93,338,Urgent,Amlodipine,Normal,8/17/2025,9/2/2025
+P00505,Harold Ellis,54,Female,A+,Arthritis,Angelica Tucker,Rasmussen Llc Hospital,Humana,44076.26,426,Unknown,Paracetamol,Unknown,7/6/2025,6/14/2025
+P00506,Rebecca Sellers,33,Male,AB+,Obesity,Jessica Callahan,Rasmussen Llc Hospital,Cigna,38105.93,492,Emergency,Paracetamol,Inconclusive,12/29/2024,1/5/2025
+P00507,Emily Allen,93,Male,B+,Cancer,Sherry Decker,"Tran, Jordan And Williams Hospital",Medicaid,19104.21,345,Elective,Amlodipine,Normal,10/30/2025,11/10/2025
+P00508,Charles Price,81,Female,AB-,Heart disease,Crystal Robinson,Smith Plc Hospital,Humana,26741.51,366,Elective,Lipitor,Inconclusive,11/18/2024,11/23/2024
+P00509,Jenny Tucker,3,Male,AB-,Arthritis,Gabrielle Davis,"Smith, Montoya And Evans Hospital",Cigna,30757.16,530,Emergency,Aspirin,Abnormal,11/3/2025,11/14/2025
+P00510,Tara Thompson,74,Female,B+,Hypertension,Brittany Farmer,"Mckee, Gardner And Davenport Hospital",Medicaid,46411.11,116,Elective,Penicillin,Normal,9/21/2025,10/9/2025
+P00511,Cody Wilkinson,48,Female,Unknown,Unknown,Carol Tucker,"Patterson, Smith And Jones Hospital",Blue Cross,Unknown,157,Elective,Amlodipine,Normal,12/24/2024,1/9/2025
+P00512,Tiffany Washington,57,Male,O-,Asthma,Matthew Foster,"Tran, Jordan And Williams Hospital",UnitedHealthcare,50277.78,475,Urgent,Aspirin,Abnormal,11/20/2025,11/27/2025
+P00513,Justin Delgado,13,Male,B-,Diabetes,Brent Jordan,"Wright, Garcia And Deleon Hospital",Medicaid,42436.74,542,Urgent,Paracetamol,Normal,1/14/2025,1/19/2025
+P00514,Michael Wallace Jr.,88,Male,AB-,Heart disease,Connie Llawrence,Suarez Llc Hospital,Unknown,51312.39,492,Urgent,Metformin,Abnormal,6/20/2025,6/30/2025
+P00515,Connie Johnson,40,Male,AB-,Cancer,Matthew Foster,Figueroa Plc Hospital,Cigna,31977.01,372,Elective,Amlodipine,Abnormal,10/12/2025,10/13/2025
+P00516,Richard Cunningham,21,Female,A-,Diabetes,Lisa Barnes,Rasmussen Llc Hospital,Medicare,15359.65,152,Emergency,Lipitor,Abnormal,2/5/2025,2/9/2025
+P00517,Jorge Armstrong Iii,19,Female,B-,Asthma,Ryan Munoz,"Patterson, Smith And Jones Hospital",Medicare,17857.43,556,Elective,Lipitor,Abnormal,3/12/2026,3/30/2026
+P00518,Kimberly Sherman Phd,61,Male,A-,Migraine,Abigail Shaffer,Anderson-Bailey Hospital,UnitedHealthcare,7589.03,300,Emergency,Metformin,Inconclusive,9/26/2025,9/28/2025
+P00519,Jeffery Fitzgerald,89,Female,AB-,Obesity,Sherry Decker,Campbell-Clark Hospital,Medicaid,34806.15,488,Urgent,Amlodipine,Inconclusive,7/13/2025,NULL
+P00520,Shaun Johnson,60,Male,A-,Heart disease,Lisa Hensley,"Shields, Cochran And Adams Hospital",Cigna,53565.66,450,Urgent,Metformin,Abnormal,12/15/2025,12/18/2025
+P00521,Angie Grimes,29,Male,AB+,Arthritis,Jessica Holmes,Newton And Sons Hospital,Medicaid,Unknown,569,Urgent,Aspirin,Abnormal,3/5/2025,3/21/2025
+P00522,Christine Rojas,9,Female,A-,Arthritis,Gerald Hensley,"Shields, Cochran And Adams Hospital",Humana,27069.12,187,Elective,Amlodipine,Abnormal,11/18/2024,12/3/2024
+P00523,Lisa Patterson,66,Male,O+,Hypertension,Fred Smith,Rasmussen Llc Hospital,Medicaid,31819.97,136,Elective,Lipitor,Abnormal,1/10/2026,1/30/2026
+P00524,Robin Trujillo,31,Male,B+,Heart disease,Eric Carney,"Ferrell, Jones And Lewis Hospital",Cigna,32684.21,206,Urgent,Lipitor,Abnormal,11/18/2025,12/1/2025
+P00525,Linda Jackson,44,Male,B+,Hypertension,Lauren Daniels,Gonzalez Group Hospital,Aetna,31413.01,403,Urgent,Penicillin,Abnormal,10/15/2025,10/29/2025
+P00526,Kenneth Farley,57,Male,Unknown,Migraine,Gabrielle Davis,White-Estess Hospital,Aetna,5822.14,450,Urgent,Amlodipine,Abnormal,8/10/2026,8/28/2026
+P00527,Robin Taylor,85,Male,A-,Cancer,Derek Zuniga,"Rivera, Johnson And Wiley Hospital",Humana,27439.09,425,Emergency,Amlodipine,Normal,9/5/2025,9/16/2025
+P00528,Anthony Ramirez,38,Female,O-,Cancer,Justin Baker,"Mckee, Gardner And Davenport Hospital",Cigna,"25,187.11",391,Urgent,Aspirin,Abnormal,2/24/2026,3/1/2026
+P00529,Brandi Thomas,Unknown,Male,O+,Asthma,Cassandra Gaines,Smith Plc Hospital,Cigna,54470.76,561,Urgent,Paracetamol,Normal,12/17/2025,12/29/2025
+P00530,Ryan Long,46,Male,AB+,Diabetes,Rebecca Henderson,Johnson-Doyle Hospital,Medicaid,45231.05,402,Elective,Metformin,Abnormal,4/17/2025,5/5/2025
+P00531,Lori Brooks,56,Male,B+,Heart disease,Derek Zuniga,Campbell-Clark Hospital,Medicare,22628.78,296,Elective,Amlodipine,Abnormal,12/6/2024,12/19/2024
+P00532,Patricia Powell,86,Male,B+,Diabetes,Ryan Munoz,"Moran, Allen And Foster Hospital",Blue Cross,16221.66,469,Elective,Metformin,Abnormal,10/19/2024,10/24/2024
+P00533,Sherry Gibson,83,Female,O-,Migraine,Lisa Barnes,Newton And Sons Hospital,UnitedHealthcare,5114.16,360,Elective,Lipitor,Abnormal,2/24/2026,3/1/2026
+P00534,Sheila Boone,Unknown,Female,A+,Heart disease,Rebecca Henderson,Torres-Pope Hospital,Cigna,19864.24,310,Urgent,Lipitor,Abnormal,8/16/2025,8/29/2025
+P00535,Madison Terry,73,Female,AB-,Hypertension,Amy Silva,"Rodriguez, Brennan And Garrison Hospital",Medicaid,53813.72,140,Emergency,Metformin,Inconclusive,11/1/2024,11/3/2024
+P00536,Jennifer Donaldson,36,Female,A-,Hypertension,James Ferrell,"Rodriguez, Brennan And Garrison Hospital",Medicaid,54105.06,479,Urgent,Metformin,Normal,5/8/2026,5/25/2026
+P00537,Frank Campbell Md,40,Male,AB-,Diabetes,Victoria Garcia,"Shields, Cochran And Adams Hospital",Medicare,43996.35,563,Elective,Lipitor,Inconclusive,4/19/2026,5/7/2026
+P00538,Rachel Shannon,38,Female,B+,Diabetes,Angela Lopez,"Patterson, Smith And Jones Hospital",Medicaid,23445.38,501,Urgent,Aspirin,Normal,11/28/2024,12/9/2024
+P00539,Mark Copeland,74,Male,AB+,Diabetes,Sherri Baker,Gonzalez Group Hospital,Aetna,32008.69,164,Urgent,Paracetamol,Abnormal,3/5/2026,3/21/2026
+P00540,Brooke Bryant,36,Female,AB+,Diabetes,Dylan Miller,White-Estes Hospital,Blue Cross,7723.36,565,Urgent,Metformin,Normal,9/5/2024,9/14/2024
+P00541,Zachary Blankenship,23,Female,Unknown,Unknown,Tommy Walter,Walker Ltd Hospital,Unknown,Unknown,Unknown,Unknown,Unknown,Normal,NULL,9/4/2026
+P00542,Shannon Mcdowell,20,Female,O+,Migraine,Rebecca Henderson,Patton-Jenkins Hospital,Medicaid,51399.83,426,Emergency,Ibuprofen,Inconclusive,5/31/2026,6/20/2026
+P00543,Bradley Beck,34,Male,A+,Asthma,John Daniel,Dickson-Brady Hospital,UnitedHealthcare,3460.76,254,Elective,Metformin,Inconclusive,11/1/2024,11/13/2024
+P00544,Mario Barber,91,Female,O-,Obesity,Lisa Jackson,Walker Ltd Hospital,Humana,21199.14,322,Emergency,Aspirin,Abnormal,12/12/2025,12/20/2025
+P00545,Brandon Davis,68,Male,A-,Arthritis,Michael Lewis,Johnson-Carlson Hospital,Medicaid,"37,477.89",539,Elective,Aspirin,Abnormal,2/28/2026,3/13/2026
+P00546,Kevin Stone,33,Female,O-,Cancer,Sarah Moore,Campbell-Clark Hospital,Medicare,44226.24,272,Urgent,Metformin,Normal,1/28/2025,2/6/2025
+P00547,Greg Martinez,87,Male,A-,Diabetes,Crystal Robinson,Suarez Llc Hospital,Medicare,30344.88,153,Urgent,Penicillin,Unknown,7/16/2025,7/27/2025
+P00548,Karen Perez,33,Male,A+,Diabetes,Lisa Barnes,Anderson-Bailey Hospital,Aetna,40026.16,580,Urgent,Metformin,Normal,5/15/2026,5/23/2026
+P00549,Ashley Richardson,91,Male,A-,Asthma,Joshua Blair,May-Ross Hospital,Humana,35275.52,595,Emergency,Paracetamol,Inconclusive,10/29/2024,11/18/2024
+P00550,Robert Baxter,60,Male,O-,Obesity,Shannon Jones,"Mckee, Gardner And Davenport Hospital",Cigna,14306.8,182,Emergency,Aspirin,Normal,3/31/2025,4/6/2025
+P00551,Andrea Elliott,Unknown,Female,AB+,Asthma,Timothy Duncan,"Ferrell, Jones And Lewis Hospital",UnitedHealthcare,21678.18,575,Emergency,Lipitor,Abnormal,12/6/2025,12/19/2025
+P00552,Gregory Lewis,14,Male,O+,Cancer,Steve Ssanchez,Suarez Llc Hospital,UnitedHealthcare,35678.83,466,Elective,Paracetamol,Normal,11/14/2025,11/20/2025
+P00553,Lisa Ramos,94,Female,O-,Diabetes,Donald Wright,"Smith, Montoya And Evans Hospital",Medicaid,4337.47,427,Emergency,Paracetamol,Inconclusive,2/22/2026,2/25/2026
+P00554,Brenda Martinez,90,Female,O+,Diabetes,Amber Kidd,Gonzalez Group Hospital,UnitedHealthcare,15020.79,323,Elective,Amlodipine,Inconclusive,1/30/2025,2/12/2025
+P00555,Jeffrey Moody,1,Female,O-,Hypertension,Brittney Phillips,Ross Llc Hospital,Cigna,29937.02,270,Urgent,Aspirin,Abnormal,2/9/2026,2/12/2026
+P00556,Danielle Burke,83,Male,Unknown,Arthritis,Monica Herrera,"Shields, Cochran And Adams Hospital",Humana,34958.85,492,Elective,Metformin,Normal,2/22/2025,NULL
+P00557,Todd Johnson,50,Male,AB+,Migraine,Michele Williams,Nolan-Flynn Hospital,UnitedHealthcare,30718.91,143,Urgent,Penicillin,Inconclusive,2/3/2026,2/9/2026
+P00558,Christine Lawson,25,Male,B-,Heart disease,Eric Carney,"Ferrell, Jones And Lewis Hospital",Humana,8126.89,376,Urgent,Aspirin,Abnormal,5/6/2026,5/13/2026
+P00559,Matthew Bowers,58,Male,A+,Arthritis,Gina Moore,"Tran, Jordan And Williams Hospital",Humana,53089.98,469,Emergency,Penicillin,Normal,1/9/2025,1/27/2025
+P00560,James Allen,86,Female,B+,Cancer,Ryan Munoz,"Brewer, Bryant And Hickman Hospital",Medicaid,44487.15,172,Elective,Metformin,Normal,3/28/2026,4/4/2026
+P00561,Stephen Smith,80,Male,B-,Asthma,Noah Rhodes,Newton And Sons Hospital,Medicaid,Unknown,125,Elective,Amlodipine,Normal,12/4/2025,12/20/2025
+P00562,James Combs,Unknown,Male,A-,Hypertension,Donald Wright,White-Estes Hospital,Humana,"33,811.81",415,Emergency,Paracetamol,Normal,5/15/2025,5/30/2025
+P00563,Carrie Ruiz,95,Female,AB-,Hypertension,Lauren Daniels,Ross Llc Hospital,Blue Cross,18885.2,264,Emergency,Amlodipine,Normal,6/28/2025,7/12/2025
+P00564,Kevin Smith,9,Male,AB+,Asthma,Mark Perez,"Garcia, Humphrey And Baker Hospital",Medicaid,9952.9,289,Urgent,Ibuprofen,Abnormal,8/16/2026,9/4/2026
+P00565,Tiffany Sanders,6,Male,A-,Migraine,Margaret Hawkins Dds,"Moran, Allen And Foster Hospital",UnitedHealthcare,50949.32,141,Emergency,Paracetamol,Normal,1/29/2025,2/6/2025
+P00566,Pamela Henderson,76,Female,O+,Heart disease,Holly Wood,Harris-Walters Hospital,Blue Cross,39017.4,427,Elective,Lipitor,Abnormal,3/22/2025,3/25/2025
+P00567,Kimberly Hernandez,23,Male,B+,Heart disease,Steve Sanchez,Anderson-Bailey Hospital,Medicaid,13539.33,523,Elective,Aspirin,Abnormal,6/15/2025,6/29/2025
+P00568,Thomas Mccann,25,Male,A-,Arthritis,William Baker,Torres-Popee Hospital,Unknown,30895.22,337,Urgent,Metformin,Normal,10/25/2024,10/26/2024
+P00569,Kevin Hines,15,Male,O-,Heart disease,Ethan Adams,"Garcia, Humphrey And Baker Hospital",Medicaid,3392.26,572,Emergency,Paracetamol,Inconclusive,12/16/2024,12/25/2024
+P00570,Emily Kim,56,Female,AB-,Heart disease,Connie Lawrence,Suarez Llc Hospital,Medicaid,16036.02,126,Urgent,Ibuprofen,Normal,12/13/2025,12/25/2025
+P00571,David Middleton,15,Male,Unknown,Unknown,Sarah  Moore,"Rivera, Johnson And Wiley Hospital",Cigna,Unknown,314,Emergency,Metformin,Inconclusive,7/22/2026,7/23/2026
+P00572,Amy Wade,15,Female,B-,Hypertension,Rebecca Henderson,Hancock And Sons Hospital,Humana,13038.45,202,Elective,Ibuprofen,Normal,11/17/2024,11/28/2024
+P00573,Adam Taylor,7,Female,B+,Cancer,Steve Sanchez,"Shields, Cochran And Adams Hospital",Blue Cross,32387.53,298,Elective,Ibuprofen,Abnormal,12/19/2025,1/4/2026
+P00574,Gregory Holmes Phd,35,Male,AB-,Asthma,Cristian Santos,May-Ross Hospital,Aetna,34945.15,243,Emergency,Paracetamol,Abnormal,9/2/2024,9/9/2024
+P00575,Paul Marks,Unknown,Male,AB+,Asthma,Steve Sanchez,"Garcia, Humphrey And Baker Hospital",Medicare,23293.2,596,Urgent,Amlodipine,Normal,3/2/2025,3/17/2025
+P00576,Steven Rogers,67,Female,B-,Heart disease,John Daniel,Walsh Llc Hospital,Aetna,22937.44,473,Elective,Metformin,Normal,2/11/2026,2/14/2026
+P00577,Deborah Proctor,75,Male,B+,Diabetes,Mark Perez,"Brewer, Bryant And Hickman Hospital",Aetna,18337.63,340,Unknown,Amlodipine,Inconclusive,4/7/2025,7/12/2025
+P00578,Jorge Brown Phd,51,Female,A-,Heart disease,Donald Wright,Davis Group Hospital,Aetna,23700.52,385,Emergency,Metformin,Inconclusive,11/26/2025,11/28/2025
+P00579,Raymond Shannon,17,Female,AB+,Cancer,Jamie Arnold,"Moran, Allen And Foster Hospital",UnitedHealthcare,"52,271.40",442,Elective,Ibuprofen,Inconclusive,12/24/2024,1/7/2025
+P00580,Patrick Smith,75,Male,O-,Heart disease,Derek Zuniga,Dickson-Brady Hospital,Blue Cross,47256.76,504,Elective,Metformin,Abnormal,12/30/2025,1/14/2026
+P00581,Angel Cox,10,Female,AB-,Diabetes,Cassandra Gaines,Johnson-Doyle Hospital,Humana,47390.85,238,Urgent,Lipitor,Inconclusive,5/14/2026,5/15/2026
+P00582,Tyler Johnson,88,Male,AB-,Diabetes,Amber Kidd,Nolan And Sons Hospital,Aetna,43799.09,156,Elective,Aspirin,Abnormal,6/28/2026,7/17/2026
+P00583,Mary Walker,47,Male,A-,Cancer,Derek Zuniga,"Tran, Jordan And Williams Hospital",Blue Cross,2727.65,376,Emergency,Metformin,Abnormal,4/4/2026,4/24/2026
+P00584,Erica Mckenzie,90,Male,B-,Arthritis,Philip Cannon,Walsh Llc Hospital,Medicare,47976.66,448,Elective,Aspirin,Normal,2/22/2025,3/13/2025
+P00585,Michael Williams,58,Female,A-,Heart disease,James Brown,Ross Llc Hospital,Cigna,20818.35,331,Urgent,Aspirin,Inconclusive,10/16/2025,10/19/2025
+P00586,Amber Morales,59,Male,Unknown,Migraine,Ethan Adams,Figueroa Plc Hospital,Aetna,10765.27,155,Emergency,Aspirin,Normal,NULL,2/7/2025
+P00587,Patricia Collins,27,Male,AB+,Migraine,William Baker,"Turner, Riggs And Roman Hospital",UnitedHealthcare,27549.92,277,Elective,Penicillin,Inconclusive,5/28/2026,6/2/2026
+P00588,Jacob Carter,9,Male,B-,Arthritis,Crystal Robinson,"Rivera, Johnson And Wiley Hospital",Cigna,16387.67,435,Urgent,Amlodipine,Abnormal,10/27/2024,10/28/2024
+P00589,Dana Richardson,90,Female,O-,Obesity,Brittney Phillips,"Turner, Riggs And Roman Hospital",Humana,32837.97,256,Emergency,Amlodipine,Unknown,3/21/2026,4/6/2026
+P00590,Dr. Morgan Payne Phd,37,Male,B+,Arthritis,Sherri  Baker,"Shields, Cochran And Adams Hospital",Blue Cross,26891.25,416,Emergency,Metformin,Inconclusive,8/5/2026,8/13/2026
+P00591,Allison Weaver,23,Male,B+,Cancer,Dylan Miller,"Brewer, Bryant And Hickman Hospital",Cigna,10434.29,394,Emergency,Penicillin,Abnormal,12/13/2024,12/23/2024
+P00592,Alexandra Rogers,72,Male,AB-,Arthritis,Lisa Jackson,Nolan And Sons Hospital,UnitedHealthcare,10555.06,376,Emergency,Lipitor,Abnormal,12/2/2025,12/14/2025
+P00593,Oscar Parker,52,Female,B+,Heart disease,Paula Moreno,"Smith, Montoya And Evans Hospital",Aetna,50663.65,596,Urgent,Lipitor,Inconclusive,2/3/2026,NULL
+P00594,Mrs. Tonya Kaufman,38,Female,AB+,Asthma,Brittney Phillips,Patton-Jenkins Hospital,Cigna,35774.8,452,Emergency,Metformin,Abnormal,1/21/2025,2/1/2025
+P00595,Andrew Hall,Unknown,Male,AB+,Diabetes,Danny Morgan,Johnson-Carlson Hospital,Unknown,8098.57,212,Elective,Unknown,Normal,12/7/2024,12/9/2024
+P00596,Steven Ellis,83,Male,B-,Obesity,Judy Baker,"Moran, Allen And Foster Hospital",Aetna,"3,499.33",375,Elective,Metformin,Inconclusive,5/5/2026,5/16/2026
+P00597,Kathy Walsh,51,Male,O-,Arthritis,Megan Young,White-Estes Hospital,Medicare,53683.25,583,Emergency,Metformin,Abnormal,2/22/2026,2/25/2026
+P00598,Amy Bates,55,Female,O+,Arthritis,Noah Rhodes,Figueroa Plc Hospital,Cigna,8563.05,279,Elective,Penicillin,Inconclusive,6/9/2025,6/22/2025
+P00599,Samuel Howe,57,Female,O-,Obesity,Margaret Hawkins Dds,Johnson-Doyle Hospital,Medicaid,12255.39,558,Elective,Ibuprofen,Inconclusive,11/28/2024,12/1/2024
+P00600,Erika Chavez,27,Female,O-,Arthritis,Gabrielle Davis,"Rivera, Johnson And Wiley Hospital",Humana,5191.25,292,Emergency,Paracetamol,Abnormal,6/8/2025,6/28/2025
+P00601,Brandy Carrillo,Unknown,Female,Unknown,Unknown,Tommy Walter,"Wright, Garcia And Deleon Hospital",Cigna,Unknown,Unknown,Elective,Paracetamol,Abnormal,2/11/2025,2/20/2025
+P00602,Jerry Edwards,72,Female,B-,Diabetes,Allison Hill,"Smith, Montoya And Evans Hospital",Cigna,17063.33,253,Urgent,Amlodipine,Inconclusive,11/12/2024,12/1/2024
+P00603,Randy Hayes,86,Female,O+,Asthma,Connor West,Davis Group Hospital,Aetna,7267.64,161,Elective,Penicillin,Normal,11/21/2024,12/7/2024
+P00604,Ann Aguirre,75,Female,O+,Obesity,Victoria Garcia,Moore-Bass Hospital,Cigna,41133.32,362,Urgent,Lipitor,Normal,7/29/2025,8/18/2025
+P00605,Lindsey Lewis,8,Male,AB-,Heart disease,Derek Zuniga,Nolan-Flynn Hospital,Blue Cross,9375.17,127,Elective,Aspirin,Abnormal,4/4/2025,4/13/2025
+P00606,Michael Schmitt,38,Male,B-,Asthma,Lisa Hensley,White-Estes Hospital,Humana,3154.96,185,Urgent,Aspirin,Abnormal,5/13/2026,5/25/2026
+P00607,Edwin Wilkins,90,Female,A-,Arthritis,Lisa Jackson,"Cunningham, Stewart And Green Hospital",Blue Cross,15294.51,365,Elective,Aspirin,Abnormal,6/10/2025,6/20/2025
+P00608,Sarah Hawkins,21,Male,B-,Asthma,Jessica Callahan,Wagner-King Hospital,Humana,19047.06,196,Urgent,Lipitor,Inconclusive,12/30/2024,1/13/2025
+P00609,Brian Leon,92,Male,O+,Heart disease,Ryan Mmunoz,Moore-Bass Hospital,Humana,46610.8,167,Emergency,Penicillin,Abnormal,1/10/2025,10/18/2025
+P00610,Richard Walker,18,Female,AB-,Asthma,Elizabeth Fowler,"Moran, Allen And  Foster Hospital",Medicaid,38162.26,517,Emergency,Ibuprofen,Normal,11/21/2024,12/1/2024
+P00611,Michael Pace,40,Male,B-,Asthma,Monica Herrera,Johnson-Doyle Hospital,Medicaid,37998.57,490,Emergency,Paracetamol,Normal,1/16/2025,1/21/2025
+P00612,Sylvia Jones,6,Male,A-,Diabetes,Amber Kidd,"Rivera, Johnson And Wiley Hospital",Aetna,41774.7,340,Emergency,Aspirin,Normal,10/25/2024,11/10/2024
+P00613,Matthew Lamb,2,Male,A-,Cancer,Sarah Moore,Campbell-Clark Hospital,Blue Cross,"16,939.70",443,Unknown,Paracetamol,Normal,8/23/2026,8/26/2026
+P00614,Rhonda Martinez,36,Female,AB-,Asthma,Jessica Callahan,Johnson-Carlson Hospital,Blue Cross,46599.45,358,Urgent,Paracetamol,Normal,10/31/2024,11/5/2024
+P00615,Thomas Hamilton,68,Male,B-,Obesity,Patty Perez,Ross Llc Hospital,Aetna,42096.8,598,Urgent,Paracetamol,Normal,7/14/2026,8/2/2026
+P00616,James Simmons Md,Unknown,Female,Unknown,Heart disease,Michele Williams,Newton And Sons Hospital,Humana,46895.68,281,Elective,Penicillin,Normal,2/5/2026,2/22/2026
+P00617,Jeremy Hernandez,15,Female,A-,Heart disease,Dylan Miller,Walker Ltd Hospital,Blue Cross,12901.7,353,Elective,Metformin,Abnormal,6/19/2026,7/6/2026
+P00618,Maria Porter,11,Female,O-,Hypertension,Eric Carney,Figueroa Plc Hospital,UnitedHealthcare,39856.44,407,Urgent,Aspirin,Inconclusive,11/16/2025,12/4/2025
+P00619,Brandon Reyes,53,Female,O+,Cancer,Gabrielle Davis,"Rodriguez, Brennan And Garrison Hospital",Medicaid,12810.1,288,Emergency,Paracetamol,Inconclusive,6/1/2026,6/16/2026
+P00620,Rebecca Wright,51,Female,A-,Hypertension,Lisa Jackson,Dickson-Brady Hospital,UnitedHealthcare,37129.2,455,Urgent,Paracetamol,Inconclusive,6/27/2025,7/13/2025
+P00621,Alicia Reyes,26,Female,B-,Migraine,Brian Ramirez,Wagner-King Hospital,Humana,4026.72,317,Urgent,Penicillin,Abnormal,8/21/2026,8/27/2026
+P00622,Richard Cooper,83,Female,AB-,Heart disease,Megan Young,Dickson-Brady Hospital,Unknown,32853.92,361,Elective,Ibuprofen,Abnormal,1/28/2026,2/16/2026
+P00623,Devin Johnson,63,Female,B-,Asthma,Daniel Wagner,Suarez Llc Hospital,Medicaid,7159.36,127,Emergency,Penicillin,Inconclusive,10/12/2025,10/16/2025
+P00624,Robert Campbell,49,Female,B+,Obesity,Lisa Barnes,Johnson-Carlson Hospital,Aetna,53477.95,489,Emergency,Metformin,Inconclusive,11/4/2025,11/5/2025
+P00625,Hunter Silva,26,Female,O-,Heart disease,Jessica Callahan,Williams-Cook Hospital,Medicare,43703.86,275,Urgent,Lipitor,Normal,8/4/2026,4/24/2026
+P00626,David Allen,16,Female,O-,Arthritis,Joshua Blair,Patton-Jenkins Hospital,UnitedHealthcare,54493.78,118,Emergency,Ibuprofen,Inconclusive,2/11/2025,2/13/2025
+P00627,Nancy Gallagher,22,Female,O+,Asthma,Brittany Farmer,"Wright, Garcia And Deleon Hospital",UnitedHealthcare,48716.16,491,Emergency,Lipitor,Inconclusive,9/19/2025,9/29/2025
+P00628,Vickie Price,Unknown,Female,O-,Asthma,Jessica Ccallahan,Smith Plc Hospital,UnitedHealthcare,36474.28,234,Elective,Lipitor,Abnormal,7/18/2026,8/3/2026
+P00629,Carrie Young Md,37,Female,A+,Diabetes,Sarah Moore,"Brewer, Bryant And Hickman Hospital",Blue Cross,37368.58,528,Elective,Aspirin,Inconclusive,7/9/2026,7/29/2026
+P00630,Kevin Warner,81,Female,O+,Hypertension,Shannon Jones,Nolan-Flynn Hospital,Cigna,"1,966.04",310,Elective,Paracetamol,Inconclusive,2/15/2026,NULL
+P00631,Brenda Vaughan,83,Female,Unknown,Unknown,Brittany Farmer,Moore-Bass Hospital,Cigna,Unknown,186,Emergency,Lipitor,Unknown,NULL,5/17/2025
+P00632,Tracy Weaver,55,Female,AB+,Diabetes,Victoria Garcia,"Rivera, Johnson And Wiley Hospital",Aetna,25619.56,262,Elective,Lipitor,Abnormal,4/28/2026,4/30/2026
+P00633,Anthony Guzman,63,Male,B-,Arthritis,Donald Wright,Torres-Pope Hospital,Humana,31703.36,491,Urgent,Aspirin,Normal,12/31/2024,1/11/2025
+P00634,Gary Mendez,56,Male,O-,Hypertension,James Brown,Harris-Walters Hospital,Cigna,16823.89,235,Emergency,Aspirin,Inconclusive,9/8/2024,9/28/2024
+P00635,Christopher Lang,80,Male,A-,Arthritis,Debra Davidson,"Ferrell, Jones And Lewis Hospital",Medicare,44350.86,510,Urgent,Penicillin,Abnormal,4/6/2026,4/19/2026
+P00636,Charles Bush,10,Female,AB+,Migraine,William Baker,"Mckee, Gardner And Davenport Hospital",Blue Cross,19428.75,312,Elective,Aspirin,Inconclusive,5/21/2026,5/28/2026
+P00637,Joseph Diaz,71,Male,A+,Asthma,Lauren Daniels,Gonzalez Group Hospital,Blue Cross,25200.96,438,Urgent,Penicillin,Abnormal,12/6/2024,12/23/2024
+P00638,Mary Willis,56,Male,B-,Arthritis,John Daniel,"Smith, Montoya And Evans Hospital",Blue Cross,44586.87,177,Urgent,Metformin,Abnormal,10/17/2024,11/4/2024
+P00639,William Oconnor,9,Male,O+,Obesity,Sherri Baker,"Garcia, Humphrey And Baker Hospital",Cigna,22859.18,451,Urgent,Ibuprofen,Abnormal,4/28/2025,5/12/2025
+P00640,Katelyn Stewart,25,Male,B-,Obesity,John Daniel,Gonzalez Group Hospital,Medicare,6688.94,323,Elective,Metformin,Normal,7/10/2025,7/18/2025
+P00641,Stacy Austin,18,Male,AB+,Obesity,Jordan Henderson,Newton And Sons Hospital,Medicaid,Unknown,536,Emergency,Metformin,Abnormal,1/23/2026,1/30/2026
+P00642,Robin Gray,11,Female,AB+,Hypertension,Crystal Robinson,Nolan And Sons Hospital,Medicaid,3515.34,436,Emergency,Penicillin,Inconclusive,5/12/2025,5/13/2025
+P00643,Christopher Smith,74,Male,AB+,Heart disease,Jamie Arnold,Davis Group Hospital,Medicare,13364.24,162,Elective,Aspirin,Inconclusive,2/12/2026,2/17/2026
+P00644,Sarah Townsend,31,Female,B-,Asthma,Michele Williams,Newton And Sons Hospital,Blue Cross,44418.37,596,Elective,Penicillin,Abnormal,1/20/2026,2/2/2026
+P00645,Evan Lamb,8,Female,AB-,Hypertension,Paula Moreno,Ross Llc Hospital,UnitedHealthcare,47528.05,343,Urgent,Ibuprofen,Abnormal,10/13/2025,10/22/2025
+P00646,Ashley Crawford,92,Female,Unknown,Diabetes,Megan Young,"Brewer, Bryant And Hickman Hospital",Humana,20283.39,478,Urgent,Amlodipine,Normal,11/14/2025,11/19/2025
+P00647,Gregory Flores,50,Female,AB-,Hypertension,James  Brown,Davis Group Hospital,Humana,"14,287.57",326,Elective,Paracetamol,Abnormal,4/24/2025,5/2/2025
+P00648,Samantha Santiago,31,Female,B-,Asthma,Timothy Duncan,"Mckee, Gardner And Davenport Hospital",Humana,16898.4,492,Urgent,Penicillin,Normal,12/3/2025,12/12/2025
+P00649,Adam Clark,63,Female,O+,Arthritis,Shannon Jones,Suarez Llc Hospital,Unknown,47721.23,182,Unknown,Unknown,Inconclusive,9/2/2026,2/18/2026
+P00650,Richard Le,78,Female,O-,Diabetes,Abigail Shaffer,Newton And Sons Hospital,Medicaid,19676.17,327,Urgent,Ibuprofen,Normal,1/13/2026,1/16/2026
+P00651,Jason Jackson,Unknown,Female,A-,Hypertension,Margaret Hawkins Dds,Davis Group Hospital,Medicare,11404.1,465,Urgent,Amlodipine,Normal,9/29/2024,12/10/2024
+P00652,Heather Bennett,41,Female,O-,Asthma,Nathan Maldonado,Newton And Soons Hospital,Medicaid,37873.56,403,Elective,Amlodipine,Abnormal,6/23/2025,7/13/2025
+P00653,Laura Chang,48,Male,O+,Migraine,Lauren Daniels,Wagner-King Hospital,Aetna,5099.74,585,Emergency,Lipitor,Inconclusive,4/22/2026,4/29/2026
+P00654,Robert Johnson,12,Female,B-,Obesity,Patty Perez,Smith Plc Hospital,UnitedHealthcare,34651.19,416,Elective,Lipitor,Abnormal,2/5/2025,2/25/2025
+P00655,Brian Peterson,48,Male,A-,Diabetes,Carol Tucker,Johnson-Doyle Hospital,Humana,5353.84,571,Elective,Amlodipine,Inconclusive,9/8/2024,9/13/2024
+P00656,Benjamin Mcmahon,92,Male,B-,Obesity,Sherri Baker,Gonzalez Group Hospital,UnitedHealthcare,6958.92,166,Elective,Amlodipine,Normal,6/5/2026,6/21/2026
+P00657,William Barry,Unknown,Male,O+,Asthma,Crystal Robinson,"Smith, Montoya And Evans Hospital",Aetna,12248.38,248,Elective,Ibuprofen,Inconclusive,9/8/2026,8/29/2026
+P00658,Matthew Lawson,48,Female,A-,Diabetes,Victoria Garcia,"Turner, Riggs And Roman Hospital",Humana,49949.39,265,Urgent,Penicillin,Inconclusive,1/21/2026,2/5/2026
+P00659,Gary Mccann,91,Female,AB+,Hypertension,Lisa Hensley,Rasmussen Llc Hospital,Aetna,39376.81,126,Elective,Ibuprofen,Abnormal,7/8/2025,7/15/2025
+P00660,Tammy Fernandez,86,Male,A+,Obesity,Jessica Callahan,Johnson-Carlson Hospital,UnitedHealthcare,54822.3,254,Elective,Metformin,Abnormal,6/20/2025,7/2/2025
+P00661,Brendan Long,Unknown,Male,Unknown,Unknown,Patty Perez,Torres-Pope Hospital,UnitedHealthcare,Unknown,Unknown,Elective,Penicillin,Normal,12/20/2025,12/25/2025
+P00662,Anthony Smith Jr.,68,Female,B+,Obesity,Dylan Miller,"Mckee, Gardner And Davenport Hospital",Aetna,17793.8,165,Elective,Amlodipine,Abnormal,9/30/2025,10/3/2025
+P00663,Karen Davis,37,Female,AB+,Arthritis,Michael Lewis,"Garcia, Humphrey And Baker Hospital",Cigna,50979.92,477,Elective,Amlodipine,Normal,4/19/2026,5/1/2026
+P00664,Vanessa Wells,85,Female,A+,Cancer,Carla Gray,Smith Plc Hospital,Blue Cross,"46,990.33",193,Emergency,Penicillin,Abnormal,1/23/2025,2/10/2025
+P00665,Kaitlin Jacobson,56,Male,O-,Diabetes,Timothy Duncan,Nolan-Flynn Hospital,Medicaid,38974.98,387,Elective,Penicillin,Abnormal,11/17/2024,11/23/2024
+P00666,Jasmine Watson,19,Male,AB-,Hypertension,Justin Baker,Figueroa Plc Hospital,Blue Cross,46598.19,527,Emergency,Metformin,Inconclusive,3/6/2025,3/10/2025
+P00667,Andrew Gonzales,85,Male,A+,Asthma,Mark Perez,"Ferrell, Jones And Lewis Hospital",Blue Cross,31196.98,493,Elective,Metformin,Normal,5/30/2025,NULL
+P00668,Kristy Hernandez,88,Male,O+,Arthritis,Sarah Moore,Suarez Llc Hospital,Humana,1914.94,265,Emergency,Paracetamol,Normal,3/5/2025,3/16/2025
+P00669,Michael Morton,85,Female,O-,Obesity,Angela Lopez,"Cunningham, Stewart And Green Hospital",Cigna,45773.11,596,Emergency,Metformin,Inconclusive,1/16/2026,1/31/2026
+P00670,Crystal Brown,94,Male,B-,Diabetes,Sherri Baker,"Mckee, Gardner And Davenport Hospital",Humana,18207.89,128,Urgent,Paracetamol,Inconclusive,6/23/2025,7/8/2025
+P00671,Tracie Mcdaniel,52,Female,B+,Cancer,Danny Morgan,Anderson-Bailey Hospital,Aetna,21285.81,536,Emergency,Ibuprofen,Abnormal,6/3/2025,6/23/2025
+P00672,Cynthia Evans,84,Male,A-,Obesity,Connor West,Johnson-Doyle Hospital,Medicaid,16029.01,512,Elective,Metformin,Inconclusive,7/10/2026,7/23/2026
+P00673,Amanda Duncan,13,Female,B-,Heart disease,Richard Aguirre,"Wright, Garcia And Deleon Hospital",UnitedHealthcare,20067.91,237,Urgent,Lipitor,Unknown,9/6/2025,6/14/2025
+P00674,Vickie Hernandez,48,Male,O+,Migraine,Jamie Arnold,"Brewer, Bryant And Hickman Hospital",Medicare,41728.74,274,Elective,Metformin,Normal,9/6/2025,9/9/2025
+P00675,Travis Jackson,68,Male,AB+,Heart disease,Michael Lewis,Anderson-Bailey Hospital,Humana,51221.38,344,Elective,Ibuprofen,Normal,7/19/2026,7/24/2026
+P00676,Andrew Miller,67,Female,Unknown,Diabetes,Jordan Henderson,"Ferrell, Jones And Lewis Hospital",Unknown,46363.82,362,Emergency,Lipitor,Abnormal,NULL,2/5/2025
+P00677,Rodney Hernandez,85,Female,AB-,Obesity,Amy Silva,Anderson-Bailey Hospital,Humana,5649.4,357,Emergency,Paracetamol,Inconclusive,1/6/2026,1/20/2026
+P00678,Nicholas Aguirre,24,Female,A+,Hypertension,Mark Perez,"Patterson, Smith And Jones Hospital",Cigna,10285.59,400,Urgent,Penicillin,Inconclusive,11/2/2025,11/17/2025
+P00679,Kristen Gates,34,Female,B+,Cancer,Tommy Walter,Anderson-Bailey Hospital,Medicaid,34497.67,409,Elective,Amlodipine,Inconclusive,10/27/2024,11/11/2024
+P00680,Alexandria Graves,3,Male,O+,Hypertension,Noah Rhodes,"Garcia, Humphrey And Baker Hospital",Medicaid,24142.04,344,Elective,Metformin,Abnormal,9/8/2025,9/12/2025
+P00681,Ashley Hernandez,39,Female,O+,Obesity,Jamie Arnold,"Turner, Riggs And Roman Hospital",Blue Cross,"40,062.17",107,Emergency,Paracetamol,Normal,10/28/2025,11/17/2025
+P00682,Traci Garcia,27,Female,B+,Cancer,Michael Lewis,Ross Llc Hospital,Blue Cross,47316.16,144,Elective,Amlodipine,Abnormal,10/13/2025,10/20/2025
+P00683,Rachel Dillon,3,Male,B+,Asthma,Timothy Duncan,Gonzalez Group Hospital,UnitedHealthcare,26332.41,110,Elective,Lipitor,Normal,11/10/2024,11/15/2024
+P00684,Deborah Pena,51,Male,AB-,Diabetes,Michele Williams,Johnson-Doyle Hospital,UnitedHealthcare,16568.31,534,Elective,Metformin,Inconclusive,5/30/2026,6/6/2026
+P00685,Christopher Powell,38,Male,O-,Migraine,Connorr West,Torres-Pope Hospital,Medicare,40343.78,471,Unknown,Metformin,Abnormal,10/17/2025,11/6/2025
+P00686,Jennifer Foster,68,Male,O+,Arthritis,Jordan Henderson,"Ferrell, Jones And Lewis Hospital",Cigna,39428.82,557,Urgent,Penicillin,Abnormal,11/19/2025,11/27/2025
+P00687,Amber Alvarez,83,Female,O-,Migraine,Angie Henderson,"Garcia, Humphrey And Baker Hospital",Cigna,27465.99,471,Emergency,Penicillin,Abnormal,5/29/2026,6/2/2026
+P00688,George Leon,29,Female,O-,Asthma,Cassandra Gaines,"Wright, Garcia And Deleon Hospital",UnitedHealthcare,13149.62,526,Urgent,Metformin,Inconclusive,3/9/2025,3/24/2025
+P00689,Shannon Cohen,21,Male,AB+,Hypertension,Gerald Hensley,"Turner, Riggs And Roman Hospital",Blue Cross,43880.51,202,Emergency,Lipitor,Abnormal,9/4/2025,4/21/2025
+P00690,Eric Manning,64,Female,B-,Cancer,Whitney Peters,Smith Plc Hospital,Aetna,43744.79,283,Elective,Aspirin,Inconclusive,8/5/2026,8/9/2026
+P00691,Nicholas Jacobs,65,Male,Unknown,Unknown,Michael Lewis,Moore-Bass Hospital,Medicare,Unknown,216,Emergency,Lipitor,Normal,3/13/2026,3/19/2026
+P00692,Thomas Russell,44,Female,A+,Obesity,Carla Gray,Torres-Pope Hospital,Medicare,14551.31,442,Emergency,Metformin,Normal,10/29/2024,11/14/2024
+P00693,Jacqueline Brown,15,Male,A-,Diabetes,Jessica Callahan,Suarez Llc Hospital,Blue Cross,44044.79,422,Emergency,Amlodipine,Normal,8/14/2025,8/29/2025
+P00694,Michael Powell,Unknown,Female,O-,Hypertension,Carla Gray,Nolan And Soons Hospital,Cigna,9058.27,519,Emergency,Paracetamol,Normal,3/26/2026,4/7/2026
+P00695,Laura Thompson,1,Male,O-,Arthritis,Sherri Baker,Torres-Pope Hospital,Blue Cross,53345.2,143,Elective,Aspirin,Inconclusive,3/18/2026,4/2/2026
+P00696,Anthony Johnson,86,Male,B+,Migraine,Anthony Rodriguez,"Turner, Riggs And Roman Hospital",Humana,20155.07,319,Elective,Penicillin,Abnormal,5/26/2026,6/9/2026
+P00697,Curtis Richardson,47,Male,O-,Asthma,Noah Rhodes,Walker Ltd Hospital,Aetna,43806.1,143,Elective,Aspirin,Abnormal,9/30/2024,10/17/2024
+P00698,Thomas Maldonado,Unknown,Male,B+,Diabetes,Tracy House,Figueroa Plc Hospital,UnitedHealthcare,"24,156.94",305,Urgent,Metformin,Inconclusive,7/30/2025,8/5/2025
+P00699,Jeremy Horne Md,41,Female,A+,Obesity,Carol Tucker,Johnson-Carlson Hospital,Blue Cross,39824.53,458,Elective,Penicillin,Inconclusive,2/17/2025,2/27/2025
+P00700,Ryan Green,80,Female,AB-,Migraine,Judy Baker,"Patterson, Smith And Jones Hospital",Aetna,48873.1,118,Urgent,Aspirin,Abnormal,10/2/2025,10/9/2025
+P00701,Alexander Williams,Unknown,Female,B-,Hypertension,Amber Kidd,Rasmussen Llc Hospital,Cigna,28865.6,366,Elective,Amlodipine,Inconclusive,4/24/2026,4/29/2026
+P00702,Cindy Walker,70,Female,B-,Obesity,Shannon Jones,Torres-Pope Hospital,Aetna,1776.48,474,Emergency,Amlodipine,Abnormal,5/11/2026,5/17/2026
+P00703,Matthew Palmer,46,Male,A+,Hypertension,Richard Aguirre,"Patterson, Smith And Jones Hospital",Unknown,34670.93,477,Emergency,Unknown,Abnormal,2/5/2025,2/14/2025
+P00704,Melanie Wells,75,Male,AB-,Obesity,Sherri  Baker,May-Ross Hospital,Medicaid,44393.62,171,Urgent,Penicillin,Inconclusive,5/19/2026,NULL
+P00705,Robert Walker,67,Male,AB-,Heart disease,Lisa Hensley,"Smith, Montoya And Evans Hospital",Medicaid,6234.87,317,Elective,Paracetamol,Normal,11/29/2024,12/7/2024
+P00706,Michelle Fletcher,17,Female,Unknown,Heart disease,Ryan Munoz,Nolan And Sons Hospital,Medicaid,23656.33,369,Elective,Lipitor,Inconclusive,11/12/2025,11/14/2025
+P00707,Sarah Stevens,34,Female,O+,Heart disease,Connor West,Hancock And Sons Hospital,Humana,42945.95,183,Emergency,Lipitor,Normal,3/14/2025,3/31/2025
+P00708,Joseph Hanson,17,Male,B-,Heart disease,Victoria Garcia,"Brewer, Bryant And Hickman Hospital",Medicaid,39257.71,180,Urgent,Aspirin,Normal,1/31/2025,2/16/2025
+P00709,Zachary Levy,15,Male,AB-,Obesity,Connie Lawrence,Walker Ltd Hospital,Blue Cross,46951.32,160,Elective,Aspirin,Abnormal,10/26/2025,11/15/2025
+P00710,Linda Campbell,4,Male,B+,Migraine,Abigail Shaffer,"Patterson, Smith And Jones Hospital",Cigna,16521.98,210,Emergency,Amlodipine,Inconclusive,4/30/2026,5/10/2026
+P00711,Mr. Donald Nguyen,71,Female,A-,Diabetes,Mark Perez,"Rodriguez, Brennan And Garrison Hospital",Medicare,613.67,258,Urgent,Penicillin,Abnormal,1/7/2026,1/23/2026
+P00712,Tiffany Curtis,93,Male,B+,Heart disease,Richard Aguirre,Patton-Jenkins Hospital,Blue Cross,26399.9,543,Urgent,Aspirin,Normal,3/15/2025,3/28/2025
+P00713,Cynthia Brown,53,Female,B-,Migraine,Anthony Humphrey,Ross Llc Hospital,Aetna,36715.38,590,Urgent,Penicillin,Inconclusive,9/1/2025,1/29/2025
+P00714,Jennifer Flores,22,Male,AB+,Hypertension,Whitney Peters,Anderson-Bailey Hospital,Blue Cross,35702.45,589,Urgent,Lipitor,Inconclusive,5/13/2026,5/22/2026
+P00715,Jonathan Phillips,67,Male,O-,Diabetes,Brian Ramirez,Ross Llc Hospital,Blue Cross,"52,672.46",592,Emergency,Aspirin,Unknown,12/5/2024,12/7/2024
+P00716,Norman Aguilar,75,Female,A-,Arthritis,Danny Morgan,"Rivera, Johnson And Wiley Hospital",Aetna,45718.14,351,Emergency,Aspirin,Abnormal,6/18/2026,6/26/2026
+P00717,Grace Reeves,68,Female,O+,Obesity,Jamie Arnold,Moore-Bass Hospital,Aetna,23114.04,377,Emergency,Aspirin,Normal,8/22/2026,8/28/2026
+P00718,Karen Shepard,12,Male,AB+,Migraine,Patty Perez,Smith Plc Hospital,Medicare,14427.72,592,Elective,Ibuprofen,Normal,1/8/2026,1/14/2026
+P00719,Christopher Sandoval,13,Female,B+,Migraine,Fred Smith,Williams-Cook Hospital,UnitedHealthcare,16742.33,582,Emergency,Paracetamol,Normal,5/14/2025,5/16/2025
+P00720,John Figueroa,76,Male,O-,Migraine,Dylan Miller,Walsh Llc Hospital,Aetna,41491.29,262,Elective,Lipitor,Abnormal,10/7/2025,10/15/2025
+P00721,Susan Arroyo,53,Male,Unknown,Unknown,Jordan Henderson,"Rivera, Johnson And Wiley Hospital",Medicaid,Unknown,Unknown,Unknown,Amlodipine,Inconclusive,NULL,2/9/2026
+P00722,Courtney Walker,53,Female,A-,Cancer,Lisa Jackson,Nolan And Sons Hospital,Medicare,17101.4,186,Emergency,Lipitor,Abnormal,6/13/2026,6/18/2026
+P00723,Stephen Watson,1,Female,AB+,Asthma,Allisonn Hill,Smith Plc Hospital,UnitedHealthcare,25119.94,239,Urgent,Aspirin,Inconclusive,5/24/2026,6/11/2026
+P00724,Bruce Brown,81,Male,AB+,Diabetes,Margaret Hawkins Dds,Ross Llc Hospital,Medicare,54958.68,135,Elective,Paracetamol,Abnormal,10/27/2025,11/9/2025
+P00725,Lisa Kennedy,93,Female,O+,Cancer,Steve Sanchez,Torres-Pope Hospital,Humana,45762.15,262,Urgent,Aspirin,Inconclusive,12/1/2025,12/5/2025
+P00726,Michael Moreno,91,Female,AB+,Cancer,Fred Smith,"Tran, Jordan And Williams Hospital",Blue Cross,53890.4,335,Urgent,Aspirin,Normal,1/14/2025,1/23/2025
+P00727,Brittany Gay,Unknown,Female,A+,Diabetes,Ethan Adams,Hancock And Sons Hospital,Medicare,35731.16,558,Urgent,Metformin,Abnormal,6/22/2025,6/27/2025
+P00728,Dr. Victoria Thomas,84,Male,A+,Heart disease,Brian Ramirez,Nolan-Flynn Hospital,Humana,29828.16,292,Urgent,Aspirin,Abnormal,5/2/2025,5/15/2025
+P00729,Bobby Cook,90,Male,A-,Heart disease,Shane Henderson,Campbell-Clark Hospital,UnitedHealthcare,46233.45,104,Emergency,Metformin,Normal,5/17/2026,5/23/2026
+P00730,Anthony Hayes,91,Female,B-,Hypertension,Steve Sanchez,"Patterson, Smith And Jones Hospital",Unknown,37590.21,467,Emergency,Ibuprofen,Abnormal,8/16/2026,8/25/2026
+P00731,Laura Moore,64,Male,A+,Cancer,Jessica Holmes,Moore-Bass Hospital,Humana,2505.38,242,Urgent,Lipitor,Abnormal,1/25/2025,6/2/2025
+P00732,Beverly Hamilton,85,Male,A-,Asthma,Gabrielle Davis,"Turner, Riggs And Roman Hospital",Cigna,"30,572.29",577,Urgent,Amlodipine,Normal,3/21/2026,3/27/2026
+P00733,John Smith,36,Male,A+,Obesity,Whitney Peters,"Shields, Cochran And Adams Hospital",Aetna,40224.99,580,Elective,Metformin,Inconclusive,7/4/2025,7/21/2025
+P00734,Tiffany Mcclain,42,Female,O+,Obesity,Brian Ramirez,Walker Ltd Hospital,UnitedHealthcare,47035.36,353,Elective,Lipitor,Normal,9/19/2025,9/21/2025
+P00735,Alicia Smith,54,Female,AB-,Diabetes,Jessica Holmes,Campbell-Clark Hospital,Cigna,3059.57,141,Urgent,Amlodipine,Normal,3/1/2026,3/9/2026
+P00736,Shawn Collins,55,Male,Unknown,Cancer,Patty Perez,"Tran, Jordan And Wwilliams Hospital",Cigna,53806.21,132,Urgent,Metformin,Normal,2/12/2026,2/20/2026
+P00737,Elizabeth Brown,4,Female,AB+,Cancer,Michele Williams,"Rodriguez, Brennan And Garrison Hospital",Blue Cross,26658.17,590,Elective,Amlodipine,Normal,8/11/2024,11/9/2024
+P00738,Joy Meyer,31,Male,O-,Hypertension,Richard Aguirre,"Rivera, Johnson And Wiley Hospital",Aetna,28822.29,143,Emergency,Paracetamol,Abnormal,9/27/2024,10/8/2024
+P00739,Michael Anderson,Unknown,Male,B+,Diabetes,Timothy Duncan,Smith Plc Hospital,Cigna,49009.56,412,Urgent,Penicillin,Normal,9/12/2025,9/23/2025
+P00740,Paul Martin Dvm,72,Male,AB+,Migraine,Danny Morgan,Suarez Llc Hospital,Medicare,37427.26,485,Elective,Ibuprofen,Inconclusive,8/23/2026,8/27/2026
+P00741,Danny Mercer,50,Female,O+,Hypertension,Anthony Humphrey,"Moran, Allen And Foster Hospital",UnitedHealthcare,1078.06,364,Elective,Lipitor,Normal,4/10/2026,NULL
+P00742,Jonathan Martinez,77,Male,B-,Asthma,Amber Kidd,Williams-Cook Hospital,Cigna,6096.59,315,Elective,Metformin,Inconclusive,1/26/2025,1/30/2025
+P00743,Jaime Bowman,18,Male,A+,Asthma,Brittany Farmer,"Rivera, Johnson And Wiley Hospital",UnitedHealthcare,10632.83,362,Urgent,Amlodipine,Abnormal,1/26/2026,2/10/2026
+P00744,Linda Williams,70,Male,B+,Heart disease,Brittany Farmer,White-Estes Hospital,Cigna,32309.79,249,Elective,Paracetamol,Inconclusive,3/11/2026,3/21/2026
+P00745,Amber Wilson,19,Male,B-,Diabetes,Shannon Jones,Nolan-Flynn Hospital,Blue Cross,36343.39,599,Emergency,Metformin,Normal,12/11/2024,12/1/2024
+P00746,David Miles,86,Female,O-,Arthritis,Amy Silva,May-Ross Hospital,Cigna,19114.58,415,Elective,Penicillin,Abnormal,7/15/2025,7/18/2025
+P00747,Alexandra Fisher,6,Female,B-,Diabetes,Zachary Hicks,Wagner-King Hospital,UnitedHealthcare,6214.21,419,Emergency,Ibuprofen,Abnormal,1/22/2025,1/28/2025
+P00748,Lisa Haynes,49,Male,O+,Asthma,Allison Hill,Nolan And Sons Hospital,Aetna,44496.29,137,Elective,Paracetamol,Inconclusive,11/6/2024,11/17/2024
+P00749,Kayla Williamson,57,Male,AB-,Diabetes,Daniel Wagner,Campbell-Clark Hospital,Blue Cross,8260.91,245,Emergency,Ibuprofen,Abnormal,6/27/2025,7/1/2025
+P00750,Kathleen Lynch,71,Male,B+,Cancer,Angie Henderson,Newton And Sons Hospital,Humana,19020.05,234,Emergency,Paracetamol,Inconclusive,3/19/2025,3/25/2025
+P00751,Valerie Howard,Unknown,Female,Unknown,Unknown,Brent Jordan,Davis Group Hospital,Cigna,Unknown,514,Elective,Metformin,Normal,3/16/2026,3/21/2026
+P00752,Joshua Lozano,80,Female,A-,Hypertension,Lisa Jackson,"Turner, Riggs And Roman Hospital",Humana,53752.05,197,Emergency,Lipitor,Abnormal,6/20/2025,7/7/2025
+P00753,Mr. Adam Davis,55,Male,A+,Cancer,James Brown,Figueroa Plc Hospital,Humana,17828.36,176,Elective,Ibuprofen,Normal,10/1/2026,1/22/2026
+P00754,Kathleen Herring,66,Female,B-,Hypertension,Victoria Garcia,Johnson-Carlson Hospital,Aetna,48070.41,185,Urgent,Penicillin,Inconclusive,11/13/2024,11/22/2024
+P00755,Nathaniel Conway,67,Female,B+,Arthritis,Shane Henderson,Walker Ltd Hospital,Medicaid,20897.5,347,Urgent,Penicillin,Abnormal,3/17/2026,4/3/2026
+P00756,William Baker,82,Male,B-,Cancer,Judy Baker,Patton-Jenkins Hospital,Humana,32174.67,220,Elective,Ibuprofen,Abnormal,12/9/2025,12/18/2025
+P00757,Shelly Phelps,74,Male,AB-,Obesity,Jordan Henderson,Anderson-Bailey Hospital,Unknown,48934.64,484,Unknown,Unknown,Unknown,9/30/2024,10/14/2024
+P00758,Jessica Wilson,75,Male,O-,Arthritis,Shannon Jones,Patton-Jenkins Hospital,UnitedHealthcare,19660.83,321,Elective,Aspirin,Abnormal,5/15/2025,6/1/2025
+P00759,Alexandra Taylor,4,Male,O-,Cancer,Nathan Maldonado,"Ferrell, Jones And Lewis Hospital",Cigna,15379.56,561,Emergency,Aspirin,Inconclusive,5/9/2026,5/20/2026
+P00760,Steven Friedman,Unknown,Female,B-,Hypertension,Brian Ramirez,"Ferrell, Jones And Lewis Hospital",Cigna,30292.53,119,Urgent,Ibuprofen,Abnormal,12/11/2025,12/28/2025
+P00761,Jacqueline Cooper,33,Female,AB+,Cancer,Megan  Young,"Turner, Riggs And Roman Hospital",Humana,Unknown,485,Urgent,Metformin,Inconclusive,3/9/2025,3/16/2025
+P00762,Jesus Houston,39,Female,AB-,Migraine,Danny Morgan,"Rivera, Johnson And Wiley Hospital",Humana,965.1,435,Emergency,Penicillin,Inconclusive,11/16/2024,11/25/2024
+P00763,Javier Mercado,20,Female,B-,Cancer,Justin Baker,"Rodriguez, Brennan And Garrison Hospital",Blue Cross,54415.47,364,Urgent,Amlodipine,Inconclusive,1/11/2026,1/28/2026
+P00764,Nicholas Jarvis,60,Female,A-,Arthritis,Matthew Foster,Johnson-Doyle Hospital,Humana,39876.81,582,Urgent,Penicillin,Normal,12/24/2024,1/8/2025
+P00765,Thomas Webb,72,Male,AB-,Asthma,Lauren Daniels,"Turner, Riggs And Roman Hospital",Cigna,25023.47,582,Urgent,Paracetamol,Abnormal,5/4/2026,5/19/2026
+P00766,Logan Maxwell,54,Female,Unknown,Obesity,Fred Smith,"Rivera, Johnson And Wiley Hospital",Aetna,"19,020.31",390,Emergency,Ibuprofen,Normal,NULL,10/26/2025
+P00767,Sheryl Acosta,78,Female,O+,Cancer,Jessica Holmes,"Ferrell, Jones And Lewis Hospital",Medicare,31466.4,297,Emergency,Penicillin,Normal,11/14/2025,11/25/2025
+P00768,Mr. Stephen Alexander,58,Female,A-,Asthma,Michele Williams,Rasmussen Llc Hospital,Blue Cross,31538.57,116,Urgent,Lipitor,Abnormal,6/7/2026,6/18/2026
+P00769,Alexandria Oneill,9,Female,AB+,Cancer,Anthony Rodriguez,Figueroa Plc Hospital,Medicaid,10674.72,368,Emergency,Penicillin,Normal,10/10/2024,10/11/2024
+P00770,Misty Walker,22,Female,O+,Migraine,Margaret Hawkins Dds,Moore-Bass Hospital,Blue Cross,28759.98,374,Elective,Penicillin,Inconclusive,9/12/2025,9/24/2025
+P00771,Kelly Watts,27,Male,B-,Obesity,Michael Lewis,"Rodriguez, Brennan And Garrison Hospital",Blue Cross,21700.11,409,Urgent,Aspirin,Inconclusive,7/24/2026,7/27/2026
+P00772,Nicholas Olson,88,Female,AB+,Cancer,Allison Hill,"Smith, Montoya And Evans Hospital",UnitedHealthcare,27884.89,132,Elective,Lipitor,Normal,11/19/2025,11/26/2025
+P00773,Brittany Serrano,73,Female,O-,Heart disease,Lauren Daniels,"Brewer, Bryant And Hickman Hospital",Medicaid,18424.58,146,Elective,Metformin,Abnormal,12/23/2025,1/9/2026
+P00774,Alexandra Michael,92,Female,O+,Asthma,Mark Perez,Davis Group Hospital,Blue Cross,38667.25,560,Urgent,Metformin,Abnormal,6/8/2026,6/20/2026
+P00775,Jon Martin,85,Male,A-,Migraine,Connie Lawrence,Davis Group Hospital,Humana,21464.24,180,Elective,Metformin,Inconclusive,8/29/2025,9/13/2025
+P00776,Gary Ramirez,9,Male,O-,Migraine,Jordan Henderson,Moore-Bass Hospital,Cigna,36832.8,139,Emergency,Lipitor,Abnormal,2/25/2026,3/7/2026
+P00777,Jamie Montoya,33,Male,A+,Heart disease,Daniel Wagner,"Ferrell, Jones And Lewis Hospital",Medicaid,25076.01,455,Urgent,Metformin,Abnormal,8/30/2025,9/13/2025
+P00778,Kenneth Miller,52,Male,O+,Diabetes,Noah Rhodes,Williams-Coook Hospital,Aetna,19229.35,463,Emergency,Aspirin,Inconclusive,10/21/2024,NULL
+P00779,William Mcgee,9,Male,B-,Heart disease,Derek Zuniga,"Rodriguez, Brennan And Garrison Hospital",Humana,26919.38,242,Emergency,Ibuprofen,Normal,8/24/2025,9/8/2025
+P00780,Andrew Dunn,Unknown,Male,O+,Asthma,Ryan Mmunoz,"Cunningham, Stewart And Green Hospital",Medicaid,5978.07,239,Emergency,Penicillin,Abnormal,9/6/2024,9/26/2024
+P00781,Tracey Walsh,5,Male,Unknown,Unknown,Tracy House,Suarez Llc Hospital,UnitedHealthcare,Unknown,Unknown,Elective,Penicillin,Normal,4/20/2026,4/26/2026
+P00782,Mary Bryant,49,Male,B-,Arthritis,Rebecca Henderson,Campbell-Clark Hospital,Aetna,754.28,108,Elective,Paracetamol,Normal,6/6/2026,6/26/2026
+P00783,Ruth Richard,88,Male,B-,Hypertension,Patty Perez,"Garcia, Humphrey And Baker Hospital",Aetna,"45,218.70",312,Urgent,Paracetamol,Abnormal,5/1/2025,5/12/2025
+P00784,Lindsay Moran,25,Male,O+,Migraine,Brian Ramirez,Wagner-King Hospital,Unknown,31131.95,154,Elective,Aspirin,Normal,4/24/2025,5/5/2025
+P00785,Brent Hopkins,41,Male,O+,Cancer,Brent Jordan,Wagner-King Hospital,Aetna,22416.6,436,Elective,Metformin,Inconclusive,5/17/2025,5/18/2025
+P00786,Mark Marsh,28,Female,AB+,Heart disease,Michele Williams,Ross Llc Hospital,Humana,2894.67,572,Urgent,Ibuprofen,Abnormal,8/26/2024,9/7/2024
+P00787,Brian Prince,81,Female,B+,Arthritis,Ethan Adams,"Mckee, Gardner And Davenport Hospital",Humana,33192.76,441,Elective,Paracetamol,Abnormal,9/29/2025,10/3/2025
+P00788,Natalie Ortiz,75,Female,O+,Cancer,Jessica Callahan,"Rivera, Johnson And Wiley Hospital",Medicaid,33665.07,106,Emergency,Paracetamol,Inconclusive,8/19/2025,8/20/2025
+P00789,Bryan Phelps,95,Female,B-,Hypertension,Gina Moore,"Turner, Riggs And Roman Hospital",Cigna,17332.25,355,Elective,Ibuprofen,Normal,2/26/2025,3/2/2025
+P00790,Cheryl Morgan,5,Male,O-,Arthritis,Derek Zuniga,Walsh Llc Hospital,Cigna,11639,429,Emergency,Lipitor,Abnormal,1/29/2025,2/11/2025
+P00791,Mark Powers,30,Female,AB-,Cancer,Justin Baker,Ross Llc Hospital,Aetna,41405.02,564,Urgent,Ibuprofen,Inconclusive,3/1/2026,11/3/2026
+P00792,Judith Lawrence,49,Female,B+,Heart disease,Allison Hill,"Ferrell, Jones And Lewis Hospital",Humana,33639.44,351,Emergency,Ibuprofen,Normal,11/23/2024,12/1/2024
+P00793,April Fitzgerald,Unknown,Male,B+,Cancer,Rebecca Henderson,Torres-Pope Hospital,Aetna,51635.96,318,Unknown,Penicillin,Abnormal,8/28/2025,9/2/2025
+P00794,Kevin Glass,32,Female,B+,Cancer,Elizabeth Fowler,Figueroa Plc Hospital,Medicare,39831.22,329,Urgent,Ibuprofen,Abnormal,10/3/2025,10/9/2025
+P00795,Melissa Thompson,47,Female,O+,Asthma,Victoria Garcia,Patton-Jenkins Hospital,UnitedHealthcare,4860.87,358,Urgent,Metformin,Abnormal,3/18/2026,4/3/2026
+P00796,Matthew Obrien,62,Male,Unknown,Migraine,Monica Herrera,"Patterson, Smith And Jones Hospital",Medicare,45168.41,375,Emergency,Lipitor,Inconclusive,4/12/2026,4/17/2026
+P00797,Jennifer Lynch,60,Female,O-,Obesity,Joshua Blair,Rasmussen Llc Hospital,Medicare,14522.4,346,Emergency,Aspirin,Normal,4/17/2025,4/23/2025
+P00798,James Cooper,25,Male,A+,Arthritis,Connor West,Dickson-Brady Hospital,UnitedHealthcare,11166.51,581,Elective,Metformin,Abnormal,1/13/2026,1/29/2026
+P00799,Brenda Morrison,83,Male,O+,Diabetes,Brian Ramirez,"Wright, Garcia And Deleon Hospital",Medicare,27180.54,183,Emergency,Amlodipine,Unknown,3/28/2025,4/10/2025
+P00800,Sarah Kelley,93,Female,O-,Arthritis,Gina Moore,"Wright, Garcia And Deleon Hospital",UnitedHealthcare,"42,534.24",476,Emergency,Ibuprofen,Abnormal,6/3/2026,6/12/2026
+P00801,Kristen Robinson,Unknown,Male,B+,Obesity,Megan Young,"Shields, Cochran And Adams Hospital",Medicaid,Unknown,175,Elective,Ibuprofen,Inconclusive,4/11/2025,4/13/2025
+P00802,Melissa Morse,21,Male,A-,Hypertension,Eric Carney,Dickson-Brady Hospital,Medicaid,52371.91,400,Emergency,Lipitor,Normal,1/25/2025,2/13/2025
+P00803,Vanessa Thompson,55,Female,AB+,Migraine,Sarah Moore,"Patterson, Smith And Jones Hospital",Medicaid,9537.39,310,Urgent,Amlodipine,Normal,11/29/2024,12/13/2024
+P00804,Michelle Hodges,45,Male,AB+,Cancer,Jessica Holmes,"Patterson, Smith And Jones Hospital",Aetna,35171.82,186,Elective,Paracetamol,Normal,9/25/2025,9/29/2025
+P00805,Terri Mckinney,54,Female,AB+,Migraine,Patty Perez,Newton And Sons Hospital,Cigna,42669.03,195,Urgent,Ibuprofen,Normal,10/10/2025,10/13/2025
+P00806,Kimberly Rich,15,Female,B-,Asthma,Judy Baker,Smith Plc Hospital,Medicaid,10418.15,193,Emergency,Aspirin,Abnormal,12/30/2025,1/15/2026
+P00807,Brian James,80,Male,B+,Hypertension,Cassandra Gaines,Anderson-Bailey Hospital,UnitedHealthcare,34662.64,163,Elective,Paracetamol,Abnormal,6/29/2025,7/14/2025
+P00808,Derek Floyd,62,Female,A-,Diabetes,Gina Moore,Walsh Llc Hospital,Humana,32417.73,589,Emergency,Metformin,Inconclusive,10/2/2024,10/3/2024
+P00809,Brianna Brown,67,Male,O+,Obesity,Connor West,"Rodriguez, Brennan And Garrison Hospital",Humana,5777.88,272,Urgent,Penicillin,Abnormal,8/13/2026,8/15/2026
+P00810,Joshua Howard,44,Female,B-,Arthritis,Danny Morgan,"Wright, Garcia And Deleon Hospital",Medicare,37661.37,129,Elective,Amlodipine,Abnormal,3/21/2026,4/2/2026
+P00811,Megan Hoffman,90,Female,Unknown,Unknown,Megan Young,Moore-Bass Hospital,Unknown,Unknown,371,Elective,Unknown,Normal,NULL,7/25/2025
+P00812,Jasmine Dixon,88,Female,O+,Cancer,Allison Hill,"Mckee, Gardner And Davenport Hospital",Aetna,25129.54,424,Elective,Amlodipine,Normal,2/4/2025,2/16/2025
+P00813,Melissa Williams,30,Female,O+,Hypertension,Angelica Tucker,Johnson-Doyle Hospital,UnitedHealthcare,37447.15,437,Urgent,Paracetamol,Inconclusive,3/30/2026,4/10/2026
+P00814,Richard Jennings,25,Male,A+,Asthma,Donald Wright,Anderson-Bailey Hospital,Cigna,16515.53,526,Urgent,Lipitor,Abnormal,5/30/2025,6/12/2025
+P00815,Patrick Harris,15,Female,B-,Cancer,Stephanie Ross,"Garcia, Humphrey And Baker Hospital",Humana,49354.27,583,Urgent,Metformin,Normal,8/1/2026,NULL
+P00816,Jessica Perez,92,Male,B+,Arthritis,Eric Carney,Walsh Llc Hospital,Blue Cross,24201.69,468,Elective,Metformin,Abnormal,5/22/2026,5/26/2026
+P00817,Holly Chapman,69,Female,A-,Arthritis,Zachary Hicks,May-Ross Hospital,Humana,"36,768.46",573,Urgent,Paracetamol,Inconclusive,1/12/2025,12/5/2025
+P00818,Nathaniel Lee,92,Female,O+,Cancer,Zacharyy Hicks,Williams-Cook Hospital,Aetna,21047.06,248,Emergency,Paracetamol,Normal,2/15/2026,2/26/2026
+P00819,Mrs. Tonya Moss,25,Male,AB-,Asthma,Paula Moreno,"Wright, Garcia And Deleon Hospital",Medicare,40861.68,477,Emergency,Aspirin,Normal,7/19/2025,7/30/2025
+P00820,Douglas Baker,50,Female,AB-,Arthritis,Holly Wood,Walker Ltdd Hospital,Medicaid,29690.37,408,Urgent,Ibuprofen,Normal,11/20/2024,12/9/2024
+P00821,Abigail Owens,Unknown,Female,B+,Obesity,Zachary Hicks,Gonzalez Group Hospital,Medicaid,1000.77,333,Emergency,Lipitor,Abnormal,12/20/2024,2/1/2025
+P00822,Timothy Carlson,90,Male,AB-,Obesity,Jessica Callahan,Moore-Bass Hospital,Cigna,41214.77,534,Urgent,Lipitor,Abnormal,7/11/2026,7/16/2026
+P00823,Sarah Turner,91,Female,A+,Arthritis,Carla Gray,Harris-Walters Hospital,Humana,27478.89,475,Emergency,Metformin,Inconclusive,3/13/2026,3/20/2026
+P00824,Angel Zimmerman,23,Female,O+,Obesity,Margaret Hawkins Dds,"Moran, Allen And Foster Hospital",Medicare,50812.1,300,Elective,Penicillin,Inconclusive,3/25/2026,3/27/2026
+P00825,Kelly Hartman,51,Female,A-,Obesity,Sherri Baker,Campbell-Clark Hospital,Medicaid,54472.13,538,Urgent,Penicillin,Normal,9/13/2025,9/29/2025
+P00826,Jennifer Bailey,Unknown,Male,Unknown,Heart disease,Margaret Hawkins Dds,May-Ross Hospital,Blue Cross,18126.31,326,Urgent,Penicillin,Abnormal,12/19/2024,12/24/2024
+P00827,Erin Carter,26,Male,AB-,Hypertension,Lisa Jackson,"Wright, Garcia And Deleon Hospital",UnitedHealthcare,11932.27,447,Emergency,Paracetamol,Normal,6/1/2026,6/6/2026
+P00828,Karen Hoffman,23,Male,A-,Arthritis,Sarah Moore,Johnson-Doyle Hospital,Blue Cross,53591.65,421,Urgent,Penicillin,Normal,7/20/2026,8/1/2026
+P00829,Ashley Reed,51,Female,AB+,Asthma,Joshua Blair,Anderson-Bailey Hospital,Humana,6974.74,337,Unknown,Penicillin,Abnormal,2/25/2026,2/27/2026
+P00830,Tamara Sanchez,16,Male,A-,Hypertension,Connor West,Torres-Pope Hospital,Blue Cross,20519.11,111,Urgent,Lipitor,Inconclusive,2/16/2025,3/3/2025
+P00831,Jane Hogan,13,Male,O+,Heart disease,Michael Lewis,"Patterson, Smith And Jones Hospital",Medicare,15418,164,Emergency,Aspirin,Normal,9/23/2024,9/10/2024
+P00832,Nathaniel Johnson,90,Male,O+,Heart disease,Gabrielle Davis,Walker Ltd Hospital,Humana,10576.5,399,Urgent,Metformin,Inconclusive,11/15/2024,12/3/2024
+P00833,Kayla Hicks,27,Male,B+,Asthma,Allison Hill,Rasmussen Llc Hospital,UnitedHealthcare,41566.2,509,Elective,Paracetamol,Normal,6/9/2025,9/10/2025
+P00834,Matthew Flores,84,Male,A-,Obesity,Cristian Santos,Anderson-Bailey Hospital,Aetna,"31,841.92",359,Elective,Aspirin,Inconclusive,8/15/2025,8/20/2025
+P00835,Wesley Ayala,85,Male,B-,Obesity,Connie Lawrence,Walker Ltd Hospital,Humana,23556.3,250,Urgent,Lipitor,Abnormal,10/24/2024,10/30/2024
+P00836,Christine Soto,89,Female,AB-,Cancer,Lisa Hensley,"Brewer, Bryant And Hickman Hospital",Blue Cross,31950.4,118,Emergency,Ibuprofen,Abnormal,9/18/2025,9/23/2025
+P00837,Sara Harris,78,Male,AB-,Obesity,Holly  Wood,Johnson-Carlson Hospital,UnitedHealthcare,52679.55,138,Urgent,Aspirin,Abnormal,1/27/2025,2/3/2025
+P00838,Natalie Graham,21,Female,O-,Hypertension,Tricia Valencia,Johnson-Doyle Hospital,Unknown,35912.41,173,Urgent,Ibuprofen,Normal,4/22/2026,5/5/2026
+P00839,Michael Johnson,90,Male,AB-,Asthma,Mark Perez,"Smith, Montoya And Evans Hospital",Cigna,54747.08,503,Elective,Penicillin,Normal,4/14/2026,4/23/2026
+P00840,Benjamin Thompson,35,Male,A-,Migraine,Gabrielle Davis,"Tran, Jordan And Williams Hospital",Medicaid,13988.62,145,Elective,Aspirin,Abnormal,1/31/2026,2/20/2026
+P00841,Roberto Bartlett,29,Female,Unknown,Unknown,Joshua Blair,Wagner-King Hospital,UnitedHealthcare,Unknown,Unknown,Emergency,Amlodipine,Unknown,2/25/2025,3/2/2025
+P00842,Jared Stewart,40,Female,A-,Arthritis,Lauren Daniels,Figueroa Plc Hospital,Medicare,29192.92,238,Urgent,Paracetamol,Normal,6/18/2025,6/24/2025
+P00843,Aaron Cortez,50,Male,AB-,Migraine,Gerald Hensley,"Rivera, Johnson And Wiley Hospital",Blue Cross,17830.8,232,Emergency,Metformin,Inconclusive,6/5/2025,6/11/2025
+P00844,Amber Charles,19,Female,AB+,Diabetes,Shane Henderson,Davis Group Hospital,Medicaid,36337.18,411,Elective,Metformin,Abnormal,10/10/2024,10/15/2024
+P00845,Donna Jennings,46,Female,AB+,Obesity,Shannon Jones,Walker Ltd Hospital,Medicaid,24423.32,551,Emergency,Aspirin,Inconclusive,5/13/2025,5/19/2025
+P00846,Timothy James,53,Female,A-,Hypertension,Ryan Munoz,Davis Group Hospital,Aetna,52136.28,184,Urgent,Paracetamol,Normal,11/11/2025,11/14/2025
+P00847,Christopher Robinson,64,Male,O+,Asthma,Gerald Hensley,Gonzalez Group Hospital,Medicare,30701.71,450,Urgent,Lipitor,Inconclusive,4/17/2026,4/27/2026
+P00848,Sarah Phillips,79,Male,A+,Migraine,James Brown,Nolan-Flynn Hospital,Blue Cross,22598.19,478,Urgent,Amlodipine,Inconclusive,2/21/2026,2/25/2026
+P00849,Stephen Sanford,58,Male,B-,Asthma,Ryan Munoz,Nolan And Sons Hospital,Humana,2808.4,168,Urgent,Aspirin,Normal,1/12/2025,12/21/2025
+P00850,Tina Smith,22,Female,A-,Arthritis,James Ferrell,Ross Llc Hospital,Humana,27505.18,492,Emergency,Aspirin,Abnormal,5/20/2026,6/3/2026
+P00851,Andrew Armstrong,Unknown,Male,O+,Cancer,Brittany Farmer,Torres-Pope Hospital,Humana,"16,498.20",557,Emergency,Penicillin,Inconclusive,5/26/2026,11/6/2026
+P00852,Angela Clark,1,Female,AB-,Obesity,Philip Cannon,Suarez Llc Hospital,Aetna,3633.57,279,Urgent,Ibuprofen,Abnormal,6/9/2025,NULL
+P00853,Christine Whitehead,56,Female,B-,Hypertension,Carol Tucker,Torres-Pope Hospital,Blue Cross,983.07,310,Emergency,Penicillin,Normal,2/17/2026,3/1/2026
+P00854,Clinton Jensen,33,Male,O-,Migraine,Shane Henderson,"Patterson, Smith And Jones Hospital",Cigna,42434.89,319,Emergency,Lipitor,Abnormal,5/9/2026,5/14/2026
+P00855,Michael Bradley,85,Female,B+,Asthma,Philip Cannon,Johnson-Doyle Hospital,Aetna,54420.62,283,Urgent,Ibuprofen,Normal,2/25/2025,3/1/2025
+P00856,Wanda Dunn,18,Female,Unknown,Arthritis,Cristiann Santos,"Garcia, Humphrey And Baker Hospital",Medicaid,16027.04,201,Elective,Metformin,Abnormal,NULL,10/10/2024
+P00857,Michael King,71,Female,B+,Arthritis,Danny Morgan,Torres-Pope Hospital,Medicaid,23449.7,572,Urgent,Amlodipine,Abnormal,9/12/2025,12/13/2025
+P00858,Tiffany Howard,14,Male,B+,Asthma,Angelica Tucker,Torres-Pope Hospital,Aetna,6480.44,492,Urgent,Ibuprofen,Normal,1/16/2025,1/21/2025
+P00859,Dustin Jones,Unknown,Male,O+,Heart disease,Cassandra Gaines,Figueroa Plc Hospital,UnitedHealthcare,23916.75,142,Elective,Ibuprofen,Inconclusive,12/28/2025,1/8/2026
+P00860,Mr. Matthew Steele,24,Male,AB+,Hypertension,Nathan Maldonado,Davis Group Hospital,Medicaid,40244.05,520,Elective,Ibuprofen,Abnormal,1/13/2025,1/18/2025
+P00861,Rhonda Benjamin,65,Male,B-,Asthma,Anthony Rodriguez,Moore-Bass Hospital,Blue Cross,38712.4,305,Emergency,Aspirin,Normal,12/14/2024,12/18/2024
+P00862,Richard Joseph,Unknown,Male,A-,Diabetes,Joshua Blair,Hancock And Ssons Hospital,Medicare,23733.51,256,Urgent,Metformin,Normal,12/26/2024,12/31/2024
+P00863,Ian Frazier,62,Male,O+,Diabetes,Elizabeth Fowler,Moore-Bass Hospital,Cigna,18821.69,286,Elective,Aspirin,Inconclusive,12/6/2025,12/14/2025
+P00864,Jeremy Hampton,7,Male,A+,Diabetes,Abigail Shaffer,"Mckee, Gardner And Davenport Hospital",Blue Cross,13959.79,246,Elective,Aspirin,Inconclusive,4/24/2025,5/8/2025
+P00865,Matthew Miller,33,Female,AB-,Arthritis,Elizabeth Fowler,Moore-Bass Hospital,Unknown,23984.46,442,Unknown,Unknown,Inconclusive,8/15/2025,8/19/2025
+P00866,Stephanie Gonzalez,95,Female,AB-,Cancer,Jeffrey Chavez,Harris-Walters Hospital,Medicare,18551.04,296,Emergency,Paracetamol,Normal,3/18/2025,3/23/2025
+P00867,Monica Mcclain,76,Male,B-,Heart disease,Lisa Hensley,"Ferrell, Jones And Lewis Hospital",Medicare,7059.31,416,Elective,Aspirin,Inconclusive,2/12/2026,3/4/2026
+P00868,Robin Riley,26,Male,A+,Asthma,Matthew Foster,Hancock And Sons Hospital,Medicare,"54,435.63",464,Elective,Amlodipine,Inconclusive,5/8/2026,5/24/2026
+P00869,Andrew Green,58,Male,O+,Hypertension,Gerald Hensley,Hancock And Sons Hospital,Medicare,49272.76,576,Urgent,Amlodipine,Normal,3/10/2026,3/22/2026
+P00870,Martha Hernandez,90,Male,AB+,Diabetes,Brittney Phillips,Smith Plc Hospital,Humana,33153.87,597,Urgent,Ibuprofen,Inconclusive,6/9/2026,6/15/2026
+P00871,Leah Vincent,69,Male,Unknown,Unknown,Amber Kidd,"Wright, Garcia And Deleon Hospital",Medicare,Unknown,499,Elective,Penicillin,Inconclusive,6/7/2025,6/20/2025
+P00872,Ann Cox,1,Male,B-,Diabetes,Amber Kidd,"Shields, Cochran And Adams Hospital",Medicare,11777.39,462,Urgent,Lipitor,Abnormal,11/30/2024,12/9/2024
+P00873,Victor Holden,38,Female,A-,Asthma,Zachary Hicks,"Brewer, Bryant And Hickman Hospital",Medicare,46959.89,221,Elective,Paracetamol,Inconclusive,1/9/2024,9/11/2024
+P00874,Brenda Moore,36,Male,AB+,Diabetes,James Ferrell,Harris-Walters Hospital,Medicare,51841.51,159,Emergency,Metformin,Abnormal,1/7/2026,1/12/2026
+P00875,Shelby Thomas,42,Male,AB+,Asthma,Crystal Rrobinson,Johnson-Carlson Hospital,Cigna,53485.92,266,Emergency,Metformin,Normal,10/13/2025,11/2/2025
+P00876,Amanda Juarez,36,Male,AB+,Diabetes,James Brown,"Rivera, Johnson And Wiley Hospital",Aetna,12450.74,469,Urgent,Metformin,Abnormal,2/11/2026,2/23/2026
+P00877,David Barnett,82,Male,O-,Cancer,Fred Smith,Walsh Llc Hospital,Blue Cross,47916.41,397,Urgent,Amlodipine,Abnormal,2/10/2025,2/19/2025
+P00878,Jasmine Hardin,94,Female,AB-,Asthma,Gerald Hensley,Anderson-Bailey Hospital,UnitedHealthcare,24810.05,192,Elective,Ibuprofen,Normal,9/7/2025,9/12/2025
+P00879,Matthew Garcia,94,Male,AB+,Diabetes,Brittany Farmer,"Garcia, Humphrey And Baker Hospital",Blue Cross,31546.36,518,Elective,Metformin,Inconclusive,5/31/2026,6/7/2026
+P00880,Denise Harmon,10,Female,B-,Heart disease,Danny Morgan,Suarez Llc Hospital,Medicaid,4285.25,369,Emergency,Metformin,Normal,8/2/2026,8/9/2026
+P00881,Jamie Gray,50,Male,A-,Diabetes,Connie Lawrence,"Turner, Riggs And Roman Hospital",Blue Cross,5935.28,494,Emergency,Aspirin,Normal,10/21/2025,10/11/2025
+P00882,Angela King,2,Male,AB-,Hypertension,Judy Baker,"Turner, Riggs And Roman Hospital",UnitedHealthcare,1235.58,488,Urgent,Penicillin,Normal,10/28/2025,11/17/2025
+P00883,Jared Roth,20,Male,A+,Obesity,William Baker,Moore-Bass Hospital,Aetna,18580.72,522,Emergency,Paracetamol,Unknown,8/6/2026,8/16/2026
+P00884,Stacy Smith,54,Male,A+,Cancer,Daniel Wagner,Wagner-King Hospital,UnitedHealthcare,6089.85,297,Emergency,Aspirin,Inconclusive,5/4/2025,5/14/2025
+P00885,David Robertson,88,Female,A-,Heart disease,Patty Perez,Moore-Bass Hospital,Blue Cross,"12,810.70",152,Elective,Aspirin,Normal,5/31/2026,6/10/2026
+P00886,Christopher Guzman,47,Male,Unknown,Asthma,Ethan Adams,Johnson-Doyle Hospital,Medicare,18688,271,Urgent,Ibuprofen,Inconclusive,3/18/2025,4/7/2025
+P00887,Jennifer Rivera,86,Female,AB+,Arthritis,Michele Williams,Walsh Llc Hospital,UnitedHealthcare,8686.99,438,Elective,Aspirin,Inconclusive,4/14/2026,4/28/2026
+P00888,Karen Garza,20,Male,AB-,Asthma,Eric Carney,Patton-Jenkins Hospital,Medicaid,43492.66,507,Elective,Amlodipine,Normal,11/15/2024,11/18/2024
+P00889,David Anderson,94,Female,B+,Hypertension,Fred Smith,"Turner, Riggs And Roman Hospital",Blue Cross,31992.44,492,Elective,Aspirin,Abnormal,11/12/2025,NULL
+P00890,Jose Macdonald,89,Female,AB-,Asthma,James Ferrell,"Wright, Garcia And Deleon Hospital",UnitedHealthcare,23598.85,381,Elective,Lipitor,Inconclusive,11/1/2025,11/17/2025
+P00891,Thomas Black,30,Female,A-,Migraine,Carol Tucker,May-Ross Hospital,Humana,29519.86,455,Urgent,Ibuprofen,Inconclusive,12/10/2024,12/26/2024
+P00892,Marcia Johns,Unknown,Male,A+,Arthritis,Whitney Peters,"Rodriguez, Brennan And Garrison Hospital",Unknown,13318.02,571,Emergency,Paracetamol,Abnormal,6/17/2025,6/20/2025
+P00893,Theresa Robinson,18,Female,O-,Asthma,Jordan Henderson,Hancock And Sons Hospital,Blue Cross,46756.96,207,Emergency,Paracetamol,Inconclusive,2/8/2026,2/20/2026
+P00894,John Robinson,90,Male,O+,Diabetes,Shannonn Jones,Nolan And Sons Hospital,Aetna,6889.35,459,Emergency,Metformin,Inconclusive,11/11/2025,11/16/2025
+P00895,Kevin Saunders,77,Male,A+,Asthma,John Pierce,"Smith, Montoya And Evans Hospital",Aetna,26487.05,225,Emergency,Paracetamol,Inconclusive,6/21/2025,6/24/2025
+P00896,Carol Jennings,24,Female,B+,Obesity,Victoria Garcia,Hancock And Sons Hospital,Medicaid,8659.59,272,Elective,Amlodipine,Inconclusive,11/23/2025,12/7/2025
+P00897,Andrea Gray,20,Male,A+,Asthma,Jessica Callahan,"Garcia, Humphrey And Baker Hospital",Aetna,16128.91,302,Elective,Metformin,Abnormal,6/30/2026,7/1/2026
+P00898,Joseph Blankenship,34,Female,B-,Migraine,Margaret Hawkins Dds,Walsh Llc Hospital,Aetna,39271.67,367,Elective,Ibuprofen,Inconclusive,11/29/2024,12/17/2024
+P00899,Lisa Thompson,8,Male,O+,Asthma,Whitney Peters,White-Estes Hospital,Humana,22321.93,139,Urgent,Penicillin,Abnormal,1/7/2026,1/14/2026
+P00900,Sherry Schmidt,52,Female,B+,Diabetes,Shane Henderson,Johnson-Doyle Hospital,Blue Cross,36072.15,238,Emergency,Paracetamol,Normal,6/15/2026,6/26/2026
+P00901,Matthew Winters,Unknown,Male,Unknown,Unknown,Margaret Hawkins Dds,Ross Llc Hospital,Aetna,Unknown,Unknown,Unknown,Lipitor,Normal,NULL,3/9/2026
+P00902,Todd Gregory,26,Male,B-,Obesity,Monica Herrera,May-Ross Hospital,Medicare,"10,732.04",122,Urgent,Amlodipine,Abnormal,9/23/2025,10/3/2025
+P00903,Shaun Wolfe,Unknown,Female,A+,Arthritis,Sherri Baker,Dickson-Brady Hospital,Medicare,3118.67,199,Elective,Amlodipine,Abnormal,7/6/2025,7/8/2025
+P00904,Karen Mack,90,Male,AB-,Migraine,Jessica Callahan,Suarez Llcc Hospital,Medicare,53574.87,513,Emergency,Paracetamol,Inconclusive,7/4/2025,7/16/2025
+P00905,Susan Hood,5,Female,B+,Asthma,John Daniel,Anderson-Bailey Hospital,Medicaid,26493.94,147,Urgent,Ibuprofen,Normal,8/5/2025,5/21/2025
+P00906,David Cannon,21,Female,O-,Asthma,Anthony Humphrey,Figueroa Plc Hospital,Cigna,42401,419,Elective,Paracetamol,Inconclusive,10/20/2025,10/25/2025
+P00907,Kyle Stephens,79,Male,B+,Heart disease,Lisa Hensley,"Cunningham, Stewart And Green Hospital",Blue Cross,13531.53,492,Elective,Lipitor,Normal,6/21/2026,7/4/2026
+P00908,Patrick Smith,41,Male,AB+,Asthma,Gabrielle Davis,Walsh Llc Hospital,Medicare,5629.21,286,Elective,Paracetamol,Normal,3/1/2025,3/17/2025
+P00909,Jaime Harris,59,Female,O-,Obesity,Timothy Duncan,"Turner, Riggs And Roman Hospital",Aetna,39230.7,597,Urgent,Penicillin,Normal,9/10/2025,9/16/2025
+P00910,Brian Simmons,52,Female,B+,Heart disease,John Pierce,Torres-Pope Hospital,Humana,47315.68,419,Elective,Aspirin,Normal,4/4/2026,4/16/2026
+P00911,Joshua Cunningham,34,Male,A+,Cancer,Whitney Peters,"Cunningham, Stewart And Green Hospital",Blue Cross,28073.86,536,Emergency,Aspirin,Abnormal,10/26/2025,9/11/2025
+P00912,Jennifer Harris Dds,10,Male,O+,Heart disease,Jamie Arnold,Nolan-Flynn Hospital,UnitedHealthcare,31572.29,339,Urgent,Lipitor,Abnormal,11/15/2025,11/21/2025
+P00913,Justin Webb,94,Male,O+,Migraine,Judy Bbaker,Dickson-Brady Hospital,Cigna,5177.33,133,Elective,Aspirin,Inconclusive,6/10/2025,10/10/2025
+P00914,Patricia Sanders,95,Female,A-,Obesity,Brent Jordan,"Brewer, Bryant And Hickman Hospital",Medicare,12088.62,179,Elective,Ibuprofen,Inconclusive,8/17/2026,9/2/2026
+P00915,Barbara Hall,5,Female,A+,Arthritis,Michael Lewis,"Rodriguez, Brennan And Garrison Hospital",Blue Cross,17950.17,127,Emergency,Amlodipine,Normal,12/3/2024,12/10/2024
+P00916,Ariel Romero,82,Male,Unknown,Asthma,Gabrielle Davis,Walsh Llc Hospital,UnitedHealthcare,15206.72,141,Elective,Amlodipine,Inconclusive,3/20/2026,4/3/2026
+P00917,Lisa Cohen,68,Male,AB+,Asthma,Abigail Shaffer,Anderson-Bailey Hospital,UnitedHealthcare,47985.26,275,Elective,Ibuprofen,Normal,3/22/2026,4/6/2026
+P00918,Mark Brock,62,Female,B+,Migraine,Philip Cannon,May-Ross Hospital,UnitedHealthcare,51835.82,521,Emergency,Lipitor,Inconclusive,10/2/2024,10/14/2024
+P00919,Kyle Davis,86,Male,AB-,Arthritis,Noah Rhodes,"Smith, Montoya And Evans Hospital",Unknown,"4,740.57",578,Emergency,Unknown,Abnormal,4/18/2026,4/25/2026
+P00920,Lee Ramsey,87,Female,AB+,Diabetes,Richard Aguirre,"Turner, Riggs And Roman Hospital",Medicaid,43664.92,330,Urgent,Lipitor,Normal,3/5/2025,3/9/2025
+P00921,Matthew Mitchell,25,Female,B+,Migraine,Stephanie Ross,Nolan-Flynn Hospital,Blue Cross,Unknown,587,Emergency,Metformin,Inconclusive,7/6/2026,8/7/2026
+P00922,Raymond Thompson,47,Male,AB+,Obesity,Jessica Callahan,Moore-Bass Hospital,Medicaid,20678.97,355,Urgent,Penicillin,Abnormal,7/30/2026,7/31/2026
+P00923,Samuel Galvan,70,Female,AB-,Hypertension,Ethan Adams,"Shields, Cochran And Adams Hospital",UnitedHealthcare,19669.23,291,Emergency,Lipitor,Inconclusive,8/21/2025,9/4/2025
+P00924,Richard Dixon,49,Female,O+,Obesity,Lisa Barnes,Suarez Llc Hospital,Aetna,30080.58,512,Emergency,Paracetamol,Inconclusive,9/7/2025,9/13/2025
+P00925,Megan Ward,Unknown,Male,O-,Hypertension,Timothy Duncan,Torres-Pope Hospital,Medicare,34086.19,512,Emergency,Metformin,Unknown,1/17/2026,1/18/2026
+P00926,Angie Hill,59,Female,A-,Cancer,Victoria Garcia,Moore-Bass Hospital,Cigna,12046.98,595,Elective,Penicillin,Inconclusive,12/16/2025,NULL
+P00927,Jennifer Gonzalez,48,Male,AB+,Obesity,Nathan Maldonado,"Patterson, Smith And Jones Hospital",Humana,914.48,562,Elective,Metformin,Normal,6/12/2025,6/25/2025
+P00928,Tamara Dunn,54,Male,A+,Diabetes,Carla Gray,Nolan And Sons Hospital,Humana,49560.21,518,Urgent,Amlodipine,Inconclusive,9/5/2024,9/6/2024
+P00929,Lauren Bailey,22,Female,B-,Migraine,Matthew Foster,Johnson-Carlson Hospital,Medicaid,17802.17,301,Emergency,Amlodipine,Inconclusive,6/2/2026,2/26/2026
+P00930,Victor Gibson,82,Female,B+,Migraine,Paula Moreno,Walker Ltd Hospital,Blue Cross,7523.44,323,Emergency,Paracetamol,Inconclusive,4/13/2026,4/27/2026
+P00931,Christopher Hunter,81,Female,Unknown,Unknown,Fred Smith,Harris-Walters Hospital,Aetna,Unknown,147,Emergency,Penicillin,Normal,6/16/2025,6/21/2025
+P00932,Gina Wilson,80,Male,O+,Diabetes,Holly Wood,"Shields, Cochran And Adams Hospital",Medicaid,8841.15,423,Elective,Ibuprofen,Normal,10/7/2025,10/26/2025
+P00933,Joshua Leon,69,Male,O+,Obesity,Abigail Shaffer,Walsh Llc Hospital,Aetna,16682.28,578,Emergency,Metformin,Normal,9/4/2025,9/12/2025
+P00934,James Webb,15,Female,A-,Hypertension,Lisa Jackson,Figueroa Plc Hospital,Cigna,47748.18,558,Emergency,Paracetamol,Normal,2/23/2025,3/14/2025
+P00935,Reginald Maldonado,27,Female,A-,Heart disease,Angie Henderson,Hancock And Sons Hospital,Aetna,46531.99,349,Urgent,Paracetamol,Normal,2/18/2025,3/6/2025
+P00936,Karen Scott,41,Female,B+,Asthma,Elizabeth Fowler,"Cunningham, Stewart And Green Hospital",Blue Cross,"20,951.36",437,Urgent,Metformin,Inconclusive,6/11/2026,6/25/2026
+P00937,Connie Haynes,44,Female,O-,Diabetes,Margaret Hawkins Dds,Walker Ltd Hospital,Medicaid,6887.79,230,Unknown,Ibuprofen,Inconclusive,5/31/2025,6/2/2025
+P00938,Harry Nichols,67,Male,B-,Arthritis,Dylan Miller,Harris-Walters Hospital,Aetna,29709.5,267,Emergency,Ibuprofen,Normal,4/1/2026,4/2/2026
+P00939,Dustin Ross,62,Male,A-,Arthritis,Jordan Henderson,Figueroa Plc Hospital,UnitedHealthcare,15083.68,481,Elective,Penicillin,Inconclusive,1/19/2026,1/24/2026
+P00940,Justin White,33,Male,B-,Obesity,Jessica Holmes,Suarez Llc Hospital,Medicare,50767.97,506,Urgent,Aspirin,Normal,2/23/2026,3/8/2026
+P00941,Kenneth White,63,Female,O-,Migraine,Angela Lopez,Walsh Llc Hospital,Humana,52480.03,263,Urgent,Paracetamol,Inconclusive,4/11/2025,4/18/2025
+P00942,Cheryl Mclaughlin,73,Female,AB-,Hypertension,Richard Aguirre,"Garcia, Humphrey And Baker Hospital",Aetna,23897.56,590,Urgent,Aspirin,Inconclusive,2/21/2026,3/6/2026
+P00943,Derek Perez,83,Female,O+,Diabetes,Dylan Miller,Newton And Sons Hospital,Humana,16494.31,265,Elective,Amlodipine,Normal,2/12/2025,2/26/2025
+P00944,Heather Maxwell,Unknown,Female,AB-,Asthma,Paula Moreno,Moore-Bass Hospital,Aetna,13869.84,263,Urgent,Paracetamol,Inconclusive,4/27/2026,5/9/2026
+P00945,Tyler Vasquez,73,Female,B-,Hypertension,Eric Carney,Figueroa Plc Hospital,Medicare,12150.6,208,Urgent,Ibuprofen,Normal,11/20/2024,12/1/2024
+P00946,Tina Charles,78,Male,Unknown,Migraine,Paula Moreno,"Mckee, Gardner And  Davenport Hospital",Unknown,15653.64,200,Emergency,Amlodipine,Abnormal,NULL,9/16/2024
+P00947,Steven Ibarra,36,Female,A-,Hypertension,Richard Aguirre,"Garcia, Humphrey And Baker Hospital",Medicare,3050.16,267,Urgent,Penicillin,Normal,5/23/2025,6/8/2025
+P00948,Clayton Duran,3,Male,O-,Obesity,Holly Wood,Dickson-Brady Hospital,Aetna,1659.14,558,Urgent,Lipitor,Normal,10/18/2025,11/6/2025
+P00949,Paul Anderson,9,Female,A-,Migraine,Elizabeth Fowler,Walsh Llc Hospital,Cigna,35640.27,485,Elective,Penicillin,Normal,9/2/2025,9/13/2025
+P00950,Todd Johnson,64,Male,O+,Obesity,Brent Jordan,Gonzalez Group Hospital,Humana,42716.43,428,Emergency,Amlodipine,Abnormal,9/13/2025,10/1/2025
+P00951,Patty Bryant,Unknown,Male,A+,Asthma,Michele Wwilliams,"Mckee, Gardner And Davenport Hospital",Humana,6099.53,452,Urgent,Penicillin,Normal,5/5/2025,5/25/2025
+P00952,Emily Smith,93,Female,A+,Diabetes,Nathan Maldonado,"Brewer, Bryant And Hickman Hospital",Aetna,5296.91,124,Elective,Paracetamol,Abnormal,11/20/2024,11/26/2024
+P00953,Brian Ward,49,Female,B+,Asthma,Amy Silva,"Shields, Cochran And Adams Hospital",Aetna,"37,991.73",164,Elective,Amlodipine,Normal,12/30/2025,1/10/2026
+P00954,Dennis Adams,53,Female,A-,Cancer,Lauren Daniels,"Rodriguez, Brennan And Garrison Hospital",Medicaid,48885.01,350,Elective,Aspirin,Inconclusive,5/17/2026,6/5/2026
+P00955,Clinton Coleman,34,Female,A-,Arthritis,Whitney Peters,Davis Group Hospital,Medicaid,12807.76,431,Urgent,Amlodipine,Normal,7/26/2026,8/11/2026
+P00956,Holly Morales,64,Male,B-,Diabetes,Stephanie Ross,"Shields, Cochran And Adams Hospital",Humana,4595.37,297,Emergency,Penicillin,Normal,6/27/2025,6/30/2025
+P00957,Veronica Parks,76,Female,AB+,Heart disease,Carla Gray,Torres-Pope Hospital,Aetna,11872.05,568,Emergency,Ibuprofen,Abnormal,7/20/2025,7/31/2025
+P00958,Regina Peters,Unknown,Male,O+,Cancer,Gabrielle Davis,Walsh Llc Hospital,UnitedHealthcare,53641.03,184,Urgent,Aspirin,Inconclusive,4/12/2026,4/25/2026
+P00959,Robert Rodgers,14,Male,B-,Diabetes,Brent Jordan,Newton And Sons Hospital,Cigna,8527.29,114,Elective,Metformin,Inconclusive,5/12/2026,5/16/2026
+P00960,Javier Taylor,16,Male,AB-,Migraine,Stephanie Ross,"Smith, Montoya And Evans Hospital",UnitedHealthcare,19681.65,357,Elective,Lipitor,Abnormal,8/5/2025,8/20/2025
+P00961,Kimberly Stewart,48,Male,Unknown,Unknown,Shannon Jones,Campbell-Clark Hospital,Cigna,Unknown,Unknown,Elective,Ibuprofen,Inconclusive,6/8/2026,6/10/2026
+P00962,Scott Williams,64,Female,A-,Diabetes,James Ferrell,Moore-Bass Hospital,Blue Cross,29361.17,158,Emergency,Paracetamol,Inconclusive,8/15/2025,8/24/2025
+P00963,Daniel King,69,Male,AB+,Cancer,Lisa Barnes,Dickson-Brady Hospital,UnitedHealthcare,13512.81,301,Emergency,Ibuprofen,Inconclusive,11/5/2024,NULL
+P00964,Patrick Green,22,Male,AB-,Obesity,Angela Lopez,Figueroa Plc Hospital,Medicaid,27486.86,101,Emergency,Ibuprofen,Inconclusive,4/30/2026,5/9/2026
+P00965,Rhonda Cooper,40,Male,B+,Arthritis,Gabrielle Davis,"Garcia, Humphrey And Baker Hospital",Blue Cross,26483.33,270,Elective,Ibuprofen,Normal,5/15/2025,6/4/2025
+P00966,Michael Jacobs,3,Male,AB+,Hypertension,Patty Perez,"Cunningham, Stewart And Green Hospital",Medicare,23821.78,280,Elective,Lipitor,Normal,6/21/2025,7/7/2025
+P00967,Kimberly Krause,61,Male,A+,Diabetes,Brittney Phillips,Figueroa Plc Hospital,Humana,48090.41,216,Urgent,Lipitor,Unknown,10/20/2025,11/5/2025
+P00968,Jordan Hampton,13,Female,AB-,Heart disease,Connor West,Nolan-Flynn Hospital,Medicare,42751.48,231,Urgent,Penicillin,Abnormal,3/21/2025,3/26/2025
+P00969,Louis Ford,46,Female,AB-,Heart disease,Dylan Miller,Walsh Llc Hospital,Medicaid,25501.92,365,Urgent,Metformin,Normal,7/17/2025,7/29/2025
+P00970,Margaret Mcfarland,29,Male,AB-,Heart disease,Daniel  Wagner,Davis Group Hospital,Medicare,"53,835.74",479,Urgent,Penicillin,Abnormal,7/25/2026,7/30/2026
+P00971,Jennifer Meadows,25,Female,A-,Obesity,William Baker,Patton-Jenkins Hospital,Medicare,41067.9,189,Elective,Metformin,Abnormal,6/29/2025,6/7/2025
+P00972,Erik Delgado,54,Female,AB+,Cancer,Connie Lawrence,"Rivera, Johnson And Wiley Hospital",Medicare,21810.93,459,Elective,Amlodipine,Inconclusive,10/21/2024,11/1/2024
+P00973,Jennifer Barron,59,Female,AB+,Hypertension,Noah Rhodes,Gonzalez Group Hospital,Unknown,24123.55,175,Unknown,Unknown,Normal,1/26/2026,1/30/2026
+P00974,Nicole Meyer,80,Male,AB+,Heart disease,Sherri Baker,"Ferrell, Jones And Lewis Hospital",Humana,53183.6,250,Emergency,Penicillin,Normal,3/18/2026,4/4/2026
+P00975,Scott Martinez,76,Male,A+,Heart disease,Brittany Farmer,"Cunningham, Stewart And Green Hospital",UnitedHealthcare,15924.44,280,Urgent,Amlodipine,Normal,7/20/2025,7/27/2025
+P00976,Patrick Brady,45,Female,Unknown,Hypertension,Debra Davidson,"Smith, Montoya And Evans Hospital",Medicaid,14203.12,200,Elective,Lipitor,Normal,2/12/2025,2/14/2025
+P00977,Brendan Zuniga,61,Female,B-,Migraine,Shannon Jones,Dickson-Brady Hospital,Aetna,12427.75,557,Elective,Aspirin,Inconclusive,1/25/2025,2/4/2025
+P00978,Randy Warren,56,Female,B+,Cancer,Tricia Valencia,"Turner, Riggs And Roman Hospital",UnitedHealthcare,9944.96,383,Emergency,Aspirin,Abnormal,8/5/2025,8/15/2025
+P00979,Luke Miller,81,Female,B+,Migraine,Michael Lewis,Suarez Llc Hospital,Blue Cross,16704.71,369,Elective,Metformin,Abnormal,8/23/2026,8/26/2026
+P00980,Dave Rojas,92,Female,O-,Arthritis,Shannon Jones,"Shields, Cochran And Adams Hospital",UnitedHealthcare,51450.95,592,Elective,Penicillin,Normal,7/6/2026,7/23/2026
+P00981,Joseph Jackson,54,Male,B+,Obesity,James Ferrell,"Rivera, Johnson And Wiley Hospital",Medicare,1940.01,291,Emergency,Lipitor,Inconclusive,7/14/2025,1/8/2025
+P00982,Thomas Lin,7,Female,B+,Migraine,Allison Hill,"Shields, Cochran And Adams Hospital",Humana,48340.39,490,Urgent,Penicillin,Normal,9/19/2024,10/8/2024
+P00983,Taylor Dunn,84,Male,AB-,Hypertension,Cassandra Gaines,May-Ross Hospital,UnitedHealthcare,3480.76,453,Elective,Amlodipine,Normal,8/1/2025,8/4/2025
+P00984,Kimberly Garza,87,Male,B-,Asthma,Whitney Peters,Gonzalez Group Hospital,Blue Cross,40855.78,214,Urgent,Metformin,Normal,12/1/2024,12/5/2024
+P00985,Sherry Graham,Unknown,Male,O-,Cancer,Dylan Miller,"Ferrell, Jones And Lewis Hospital",Aetna,34739.05,178,Urgent,Paracetamol,Inconclusive,7/24/2025,8/3/2025
+P00986,Susan Olson,14,Female,A+,Heart disease,Jessica Holmes,Smith Plc Hospital,Aetna,13972.73,253,Elective,Penicillin,Normal,12/5/2025,12/9/2025
+P00987,Eric Gutierrez,70,Female,O-,Hypertension,Michael Lewis,"Smith, Montoya And Evans Hospital",Medicaid,"46,373.78",111,Emergency,Ibuprofen,Inconclusive,2/7/2025,2/15/2025
+P00988,Joseph Chang,95,Male,O-,Heart disease,Cassandra Gaines,Figueroa Pllc Hospital,Medicaid,9807.26,151,Urgent,Penicillin,Abnormal,12/16/2024,12/24/2024
+P00989,Joseph Watts,90,Male,O-,Migraine,Shannon Jones,"Smith, Montoya And Evans Hospital",Aetna,21819.81,245,Elective,Paracetamol,Inconclusive,12/2/2024,12/11/2024
+P00990,Elizabeth Cannon,39,Male,O-,Diabetes,Philip Cannon,"Turner, Riggs And Roman Hospital",UnitedHealthcare,1100.57,551,Urgent,Penicillin,Abnormal,8/19/2025,9/1/2025
+P00991,Rebecca Kelley,Unknown,Male,Unknown,Unknown,Amber Kidd,"Ferrell, Jones And Lewis Hospital",Blue Cross,Unknown,435,Emergency,Aspirin,Inconclusive,NULL,4/1/2026
+P00992,Jessica Wright,92,Male,AB+,Obesity,Jessica Holmes,"Ferrell, Jones And Lewis Hospital",Humana,18991.36,430,Elective,Penicillin,Abnormal,1/9/2025,1/28/2025
+P00993,Sandra Walker,74,Female,B+,Arthritis,Sarah Moore,"Rivera, Johnson And Wiley Hospital",Cigna,36413.96,399,Urgent,Amlodipine,Abnormal,1/29/2026,2/18/2026
+P00994,Kellie Marsh,94,Male,B-,Hypertension,Michele Williams,Gonzalez Group Hospital,Medicaid,2948.64,343,Elective,Amlodipine,Normal,10/21/2024,10/24/2024
+P00995,Denise Wong,23,Female,O+,Hypertension,Gina Moore,Johnson-Carlson Hospital,Cigna,6246.03,158,Emergency,Amlodipine,Inconclusive,11/16/2025,11/24/2025
+P00996,Cole Jones,48,Male,B+,Arthritis,Michele Williams,Patton-Jenkins Hospital,UnitedHealthcare,24563.3,168,Urgent,Lipitor,Inconclusive,9/17/2025,9/20/2025
+P00997,Jesse Chavez,63,Female,AB+,Cancer,Judy Baker,"Garcia, Humphrey And Baker Hospital",UnitedHealthcare,11166.63,516,Urgent,Amlodipine,Normal,12/2/2024,12/9/2024
+P00998,Frank Hernandez Dvm,81,Male,B-,Diabetes,Derek Zuniga,"Cunningham, Stewart And Green Hospital",Cigna,32224.88,496,Elective,Lipitor,Inconclusive,1/19/2026,1/22/2026
+P00999,Diane Martinez,88,Female,B-,Cancer,Lauren Daniels,"Rodriguez, Brennan And Garrison Hospital",Medicare,19068.77,280,Elective,Lipitor,Inconclusive,9/10/2024,9/13/2024
+P01000,Brandon Smith,57,Female,O+,Hypertension,Brittney Phillips,Anderson-Bailey Hospital,Unknown,44186.98,500,Urgent,Aspirin,Normal,7/11/2025,NULL
+P01001,Kayla Leon,69,Female,AB-,Hypertension,Cassandra Gaines,Johnson-Doyle Hospital,Blue Cross,37653.22,332,Emergency,Metformin,Inconclusive,7/13/2025,7/17/2025
+P01002,Katie Estrada,46,Male,AB+,Hypertension,Megan Young,"Garcia, Humphrey And Baker Hospital",Medicare,9364.65,473,Emergency,Ibuprofen,Abnormal,11/24/2024,12/6/2024
