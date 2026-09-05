@@ -7,7 +7,9 @@ Analyze patient admissions to understand how billing amounts and length of stay 
 The project is structured into sequential phases managed through SQL Server (T-SQL):
 
 File 01 (01_schema_and_checks.sql): Creates the staging table, bulk imports the messy CSV data, and runs initial checks for row counts, duplicates, data types, and value ranges.
+
 File 02 (02_data_cleaning.sql): Cleans the data by removing duplicates, trimming spaces, fixing categorical spellings, handling negative numbers, formatting dates, and filling missing values.
+
 File 03 (03_data_analysis.sql / Milestone 1 Report): Runs the 6 mentor-aligned analysis queries (SELECT, COUNT, SUM, AVG, GROUP BY, ORDER BY) to generate our final insights and numbers.
 
 ## Milestone 1 Analysis Queries & Key Findings
