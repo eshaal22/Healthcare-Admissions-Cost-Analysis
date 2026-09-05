@@ -6,17 +6,17 @@ Analyze patient admissions to understand how billing amounts and length of stay 
 ## Project Workflow & File Structure
 The project is structured into sequential phases managed through SQL Server (T-SQL):
 
-* **`01_schema_and_checks.sql`**: Creates the raw staging table (`healthcare_staging`), bulk imports the messy CSV dataset, and runs initial health checks including row counts, duplicate detection, and outlier identification using `TRY_CAST`.
-* **`02_data_cleaning.sql`**: Cleans and standardizes the dataset by trimming whitespace, handling missing values, standardizing categorical values (Gender, Blood Type, Insurance Provider), cleaning numeric attributes, parsing dates, and enforcing primary key constraints.
-* **`milestone_1final.docx`**: The finalized Milestone 1 report containing complete SQL scripts, query outputs, and analytical insights[cite: 1].
+File 01 (01_schema_and_checks.sql): Creates the staging table, bulk imports the messy CSV data, and runs initial checks for row counts, duplicates, data types, and value ranges.
+File 02 (02_data_cleaning.sql): Cleans the data by removing duplicates, trimming spaces, fixing categorical spellings, handling negative numbers, formatting dates, and filling missing values.
+File 03 (03_data_analysis.sql / Milestone 1 Report): Runs the 6 mentor-aligned analysis queries (SELECT, COUNT, SUM, AVG, GROUP BY, ORDER BY) to generate our final insights and numbers.
 
 ## Milestone 1 Analysis Queries & Key Findings
-* **Total Volume & Revenue**: Evaluates total patient volume (1,000 patients) and overall billing revenue ($24,861,148.25)[cite: 1].
-* **Patients by Medical Condition**: Identifies Asthma as the leading condition with 136 admissions, followed by Hypertension (132) and Heart Disease (127)[cite: 1].
-* **Billing by Admission Type**: Shows that Urgent admissions generate the highest total revenue ($9.21M) and average billing amount ($29,626)[cite: 1].
-* **Top Hospitals by Patient Volume**: Identifies Ross LLC Hospital as the highest volume provider with 34 patient admissions[cite: 1].
-* **Patient Distribution by Gender**: Demonstrates an almost even split between male (516) and female (484) patients[cite: 1].
-* **Billing by Insurance Provider**: Highlights Humana as the leading insurance provider by total revenue ($3.81M)[cite: 1].
+* **Total Volume & Revenue**: Evaluates total patient volume (1,000 patients) and overall billing revenue ($24,861,148.25).
+* **Patients by Medical Condition**: Identifies Asthma as the leading condition with 136 admissions, followed by Hypertension (132) and Heart Disease (127).
+* **Billing by Admission Type**: Shows that Urgent admissions generate the highest total revenue ($9.21M) and average billing amount ($29,626).
+* **Top Hospitals by Patient Volume**: Identifies Ross LLC Hospital as the highest volume provider with 34 patient admissions.
+* **Patient Distribution by Gender**: Demonstrates an almost even split between male (516) and female (484) patients.
+* **Billing by Insurance Provider**: Highlights Humana as the leading insurance provider by total revenue ($3.81M).
 
 ## Tech Stack
 * **Database Management System**: Microsoft SQL Server (SSMS)
