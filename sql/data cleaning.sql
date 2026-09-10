@@ -213,4 +213,6 @@ UPDATE dbo.healthcare_staging SET Medication = 'Unknown' WHERE Medication IS NUL
 UPDATE dbo.healthcare_staging SET Test_Results = 'Unknown' WHERE Test_Results IS NULL;
 GO
 
-select * from dbo.healthcare_staging;
+Select * From dbo.healthcare_staging;
+
+
