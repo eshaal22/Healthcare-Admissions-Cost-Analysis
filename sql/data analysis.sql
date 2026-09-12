@@ -60,12 +60,11 @@ group by gender;
 SELECT 
     medical_condition,
     COUNT(*) AS num_admissions,
-    AVG(CAST(DATEDIFF(day, Date_of_Admission, Discharge_Date) AS FLOAT)) AS avg_length_of_stay,
-    AVG(TRY_CAST(Billing_Amount AS FLOAT) / NULLIF(DATEDIFF(day, Date_of_Admission, Discharge_Date), 0)) AS avg_cost_per_day
+    ROUND(AVG(CAST(DATEDIFF(day, Date_of_Admission, Discharge_Date) AS FLOAT)), 0) AS avg_length_of_stay,
+    AVG(TRY_CAST(Billing_Amount AS FLOAT) / NULLIF(CAST(DATEDIFF(day, Date_of_Admission, Discharge_Date) AS INT), 0)) AS avg_cost_per_day
 FROM healthcare_staging
 GROUP BY medical_condition
 ORDER BY avg_cost_per_day DESC;
-
 
 --What percentage of patients stay for a short time versus a long time, and how does their total bill change?
 SELECT
