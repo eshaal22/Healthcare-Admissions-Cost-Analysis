@@ -126,6 +126,7 @@ INNER JOIN healthcare_staging h2
 GROUP BY h1.Hospital, h1.Doctor
 ORDER BY total_revenue DESC;
 
+
 --5.Which insurance providers have patient bills that are higher than the overall hospital average?
 WITH OverallAverage AS (
     SELECT AVG(TRY_CAST(Billing_Amount AS FLOAT)) AS system_avg_billing
